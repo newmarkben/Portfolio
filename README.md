@@ -8,7 +8,7 @@ This repository contains SQL scripts, queries, and Python code created during th
 
 ---
 
-## SQL Folder
+## CTE File
 
 ### Goals
 - Gain insights into a movie rental business using SQL and its data.
