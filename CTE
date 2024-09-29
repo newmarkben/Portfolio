@@ -1,0 +1,67 @@
+-- Get the min, max, and avg for several fields from the film table
+SELECT
+  MIN(release_year) AS min_release_year,
+  MAX(release_year) AS max_release_year,
+  AVG(release_year) AS avg_release_year,
+  MIN(language_id) AS min_language_id,
+  MAX(language_id) AS max_language_id,
+  AVG(language_id) AS avg_language_id,
+  MIN(rental_duration) AS min_rental_duration,
+  MAX(rental_duration) AS max_rental_duration,
+  AVG(rental_duration) AS avg_rental_duration,
+  MIN(length) AS min_length,
+  MAX(length) AS max_length,
+  AVG(length) AS avg_length,
+  MIN(last_update) AS min_last_update,
+  MAX(last_update) AS max_last_update
+FROM film;
+
+-- SQL - Top 10 countries with the most customers
+SELECT
+  D.country,
+  COUNT(A.customer_id) AS number_of_customers
+FROM customer A
+INNER JOIN address B ON A.address_id = B.address_id
+INNER JOIN city C ON B.city_id = C.city_id
+INNER JOIN country D ON C.country_ID = D.country_ID
+GROUP BY D.country
+ORDER BY number_of_customers DESC
+LIMIT 10;
+
+-- SQL - Top 10 cities with the most customers
+SELECT
+  C.city,
+  D.country,
+  COUNT(A.customer_id) AS number_of_customers
+FROM customer A
+INNER JOIN address B ON A.address_id = B.address_id
+INNER JOIN city C ON B.city_id = C.city_id
+INNER JOIN country D ON C.country_ID = D.country_ID
+WHERE D.country IN (
+  'India', 'China', 'United States', 'Japan', 'Mexico',
+  'Brazil', 'Russian Federation', 'Philippines', 'Turkey', 'Indonesia'
+)
+GROUP BY C.city, D.country
+ORDER BY number_of_customers DESC
+LIMIT 10;
+
+-- SQL - Top 5 high-paying customers
+SELECT
+  A.customer_id,
+  A.first_name,
+  A.last_name,
+  C.city,
+  D.country,
+  SUM(E.amount) AS total_paid
+FROM customer A
+INNER JOIN address B ON A.address_id = B.address_id
+INNER JOIN city C ON B.city_id = C.city_id
+INNER JOIN country D ON C.country_ID = D.country_ID
+INNER JOIN payment E ON A.customer_id = E.customer_id
+WHERE C.city IN (
+  'Aurora', 'Atlixco', 'Xintai', 'Adoni', 'Dhule (Dhulia)', 
+  'Kurashiki', 'Pingxiang', 'Sivas', 'Celaya', 'Sao Leopoldo'
+)
+GROUP BY A.customer_id, C.city, D.country
+ORDER BY total_paid DESC
+LIMIT 5;
