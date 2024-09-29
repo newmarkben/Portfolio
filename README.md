@@ -34,7 +34,7 @@ This repository contains SQL scripts, queries, and Python code created during th
 #### Analysis
 - Contains all analysis output files, including charts and other visualizations generated from Python scripts that demonstrate data breakdowns.
 
-#### Documents
+#### Sent to Client
 - Final report files summarizing the findings and insights.
 
 #### Scripts
