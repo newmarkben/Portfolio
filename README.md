@@ -3,6 +3,8 @@
 ### Overview
 This repository contains SQL scripts, queries, and Python code created during the Data Analytics Bootcamp at CareerFoundry. These projects cover a wide range of SQL and Python topics, including data manipulation, querying, joins, aggregation, optimization techniques, and data visualization. The exercises and real-world case studies demonstrate the core skills developed throughout the program, with the goal of analyzing and deriving insights from structured data.
 
+### Answer to Practice Interview Questions:
+https://vimeo.com/1014067805?share=copy#t=0
 ---
 
 ## SQL Folder
