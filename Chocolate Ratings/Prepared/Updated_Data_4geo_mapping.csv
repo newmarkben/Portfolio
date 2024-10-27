@@ -1,0 +1,1719 @@
+,Company_(Maker-if known),Specific Bean Origin_or Bar Name,REF,Review_Date,Cocoa_Percent,Company_Location,Rating,Broad Bean_Origin,Company_Location_Count,Location Rarity Classification,Cocoa Amount Group,Country
+0,A. Morin,Agua Grande,1876,2016,0.63,France,3.75,Sao Tome,144,somewhat common,Light Amount,France
+1,A. Morin,Kpime,1676,2015,0.7,France,2.75,Togo,144,somewhat common,Average Amount,France
+2,A. Morin,Atsane,1676,2015,0.7,France,3.0,Togo,144,somewhat common,Average Amount,France
+3,A. Morin,Akata,1680,2015,0.7,France,3.5,Togo,144,somewhat common,Average Amount,France
+4,A. Morin,Quilla,1704,2015,0.7,France,3.5,Peru,144,somewhat common,Average Amount,France
+5,A. Morin,Carenero,1315,2014,0.7,France,2.75,Venezuela,144,somewhat common,Average Amount,France
+6,A. Morin,Cuba,1315,2014,0.7,France,3.5,Cuba,144,somewhat common,Average Amount,France
+7,A. Morin,Sur del Lago,1315,2014,0.7,France,3.5,Venezuela,144,somewhat common,Average Amount,France
+8,A. Morin,Puerto Cabello,1319,2014,0.7,France,3.75,Venezuela,144,somewhat common,Average Amount,France
+9,A. Morin,Pablino,1319,2014,0.7,France,4.0,Peru,144,somewhat common,Average Amount,France
+10,A. Morin,Panama,1011,2013,0.7,France,2.75,Panama,144,somewhat common,Average Amount,France
+11,A. Morin,Madagascar,1011,2013,0.7,France,3.0,Madagascar,144,somewhat common,Average Amount,France
+12,A. Morin,Brazil,1011,2013,0.7,France,3.25,Brazil,144,somewhat common,Average Amount,France
+13,A. Morin,Equateur,1011,2013,0.7,France,3.75,Ecuador,144,somewhat common,Average Amount,France
+14,A. Morin,Colombie,1015,2013,0.7,France,2.75,Colombia,144,somewhat common,Average Amount,France
+15,A. Morin,Birmanie,1015,2013,0.7,France,3.0,Burma,144,somewhat common,Average Amount,France
+16,A. Morin,Papua New Guinea,1015,2013,0.7,France,3.25,Papua New Guinea,144,somewhat common,Average Amount,France
+17,A. Morin,Chuao,1015,2013,0.7,France,4.0,Venezuela,144,somewhat common,Average Amount,France
+18,A. Morin,Piura,1019,2013,0.7,France,3.25,Peru,144,somewhat common,Average Amount,France
+19,A. Morin,Chanchamayo Province,1019,2013,0.7,France,3.5,Peru,144,somewhat common,Average Amount,France
+20,A. Morin,Chanchamayo Province,1019,2013,0.63,France,4.0,Peru,144,somewhat common,Light Amount,France
+21,A. Morin,Bolivia,797,2012,0.7,France,3.5,Bolivia,144,somewhat common,Average Amount,France
+22,A. Morin,Peru,797,2012,0.63,France,3.75,Peru,144,somewhat common,Light Amount,France
+23,Acalli,"Chulucanas, El Platanal",1462,2015,0.7,U.S.A.,3.75,Peru,738,most common,Average Amount,United States of America
+24,Acalli,"Tumbes, Norandino",1470,2015,0.7,U.S.A.,3.75,Peru,738,most common,Average Amount,United States of America
+25,Adi,Vanua Levu,705,2011,0.6,Fiji,2.75,Fiji,4,extra rare,Light Amount,Fiji
+26,Adi,"Vanua Levu, Toto-A",705,2011,0.8,Fiji,3.25,Fiji,4,extra rare,High Amount,Fiji
+27,Adi,Vanua Levu,705,2011,0.88,Fiji,3.5,Fiji,4,extra rare,High Amount,Fiji
+28,Adi,"Vanua Levu, Ami-Ami-CA",705,2011,0.72,Fiji,3.5,Fiji,4,extra rare,Average Amount,Fiji
+29,Aequare (Gianduja),"Los Rios, Quevedo, Arriba",370,2009,0.55,Ecuador,2.75,Ecuador,54,rare,Light Amount,Ecuador
+30,Aequare (Gianduja),"Los Rios, Quevedo, Arriba",370,2009,0.7,Ecuador,3.0,Ecuador,54,rare,Average Amount,Ecuador
+31,Ah Cacao,Tabasco,316,2009,0.7,Mexico,3.0,Mexico,4,extra rare,Average Amount,Mexico
+32,Akesson's (Pralus),"Bali (west), Sukrama Family, Melaya area",636,2011,0.75,Switzerland,3.75,Indonesia,35,rare,Average Amount,Switzerland
+33,Akesson's (Pralus),"Madagascar, Ambolikapiky P.",502,2010,0.75,Switzerland,2.75,Madagascar,35,rare,Average Amount,Switzerland
+34,Akesson's (Pralus),"Monte Alegre, D. Badero",508,2010,0.75,Switzerland,2.75,Brazil,35,rare,Average Amount,Switzerland
+35,Alain Ducasse,Trinite,1215,2014,0.65,France,2.75,Trinidad,144,somewhat common,Average Amount,France
+36,Alain Ducasse,Vietnam,1215,2014,0.75,France,2.75,Vietnam,144,somewhat common,Average Amount,France
+37,Alain Ducasse,Madagascar,1215,2014,0.75,France,3.0,Madagascar,144,somewhat common,Average Amount,France
+38,Alain Ducasse,Chuao,1061,2013,0.75,France,2.5,Venezuela,144,somewhat common,Average Amount,France
+39,Alain Ducasse,"Piura, Perou",1173,2013,0.75,France,2.5,Peru,144,somewhat common,Average Amount,France
+40,Alexandre,"Winak Coop, Napo",1944,2017,0.7,Netherlands,3.5,Ecuador,4,extra rare,Average Amount,Netherlands
+41,Alexandre,"La Dalia, Matagalpa",1944,2017,0.7,Netherlands,3.5,Nicaragua,4,extra rare,Average Amount,Netherlands
+42,Alexandre,Tien Giang,1944,2017,0.7,Netherlands,3.5,Vietnam,4,extra rare,Average Amount,Netherlands
+43,Alexandre,"Makwale Village, Kyela",1944,2017,0.7,Netherlands,3.5,Tanzania,4,extra rare,Average Amount,Netherlands
+44,Altus aka Cao Artisan,Momotombo,1728,2016,0.6,U.S.A.,2.75,Nicaragua,738,most common,Light Amount,United States of America
+45,Altus aka Cao Artisan,Acopagro,1728,2016,0.6,U.S.A.,3.0,Peru,738,most common,Light Amount,United States of America
+46,Altus aka Cao Artisan,CIAAB Coop,1732,2016,0.6,U.S.A.,2.5,Bolivia,738,most common,Light Amount,United States of America
+47,Altus aka Cao Artisan,Villa Andina,1732,2016,0.6,U.S.A.,2.5,Peru,738,most common,Light Amount,United States of America
+48,Altus aka Cao Artisan,Gruppo Salinas,1732,2016,0.6,U.S.A.,2.75,Ecuador,738,most common,Light Amount,United States of America
+49,Altus aka Cao Artisan,Sur del Lago,1125,2013,0.6,U.S.A.,2.5,Venezuela,738,most common,Light Amount,United States of America
+50,Altus aka Cao Artisan,Conacado,1125,2013,0.6,U.S.A.,3.0,Dominican Republic,738,most common,Light Amount,United States of America
+51,Altus aka Cao Artisan,Bolivia,1129,2013,0.8,U.S.A.,3.25,Bolivia,738,most common,High Amount,United States of America
+52,Altus aka Cao Artisan,Bolivia,1133,2013,0.6,U.S.A.,3.0,Bolivia,738,most common,Light Amount,United States of America
+53,Altus aka Cao Artisan,Peru,1133,2013,0.6,U.S.A.,3.25,Peru,738,most common,Light Amount,United States of America
+54,Amano,Morobe,725,2011,0.7,U.S.A.,4.0,Papua New Guinea,738,most common,Average Amount,United States of America
+55,Amano,Dos Rios,470,2010,0.7,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+56,Amano,Guayas,470,2010,0.7,U.S.A.,4.0,Ecuador,738,most common,Average Amount,United States of America
+57,Amano,Chuao,544,2010,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+58,Amano,Montanya,363,2009,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+59,Amano,"Bali, Jembrana",304,2008,0.7,U.S.A.,2.75,Indonesia,738,most common,Average Amount,United States of America
+60,Amano,Madagascar,129,2007,0.7,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+61,Amano,Cuyagua,147,2007,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+62,Amano,Ocumare,175,2007,0.7,U.S.A.,3.75,Venezuela,738,most common,Average Amount,United States of America
+63,Amatller (Simon Coll),Ghana,322,2009,0.7,Spain,3.0,Ghana,21,extra rare,Average Amount,Spain
+64,Amatller (Simon Coll),Ecuador,327,2009,0.7,Spain,2.75,Ecuador,21,extra rare,Average Amount,Spain
+65,Amatller (Simon Coll),Ecuador,464,2009,0.85,Spain,2.75,Ecuador,21,extra rare,High Amount,Spain
+66,Amatller (Simon Coll),Ghana,464,2009,0.85,Spain,3.0,Ghana,21,extra rare,High Amount,Spain
+67,Amazona,"LamasdelChanka, San Martin, Oro Verde coop",1145,2013,0.72,Peru,3.25,Peru,17,extra rare,Average Amount,Peru
+68,Amazona,"Bellavista Gran Pajeten, San Martin",1145,2013,0.73,Peru,3.5,Peru,17,extra rare,Average Amount,Peru
+69,Ambrosia,Belize,1494,2015,0.64,Canada,3.0,Belize,117,somewhat rare,Light Amount,Canada
+70,Ambrosia,Madagascar,1494,2015,0.66,Canada,3.25,Madagascar,117,somewhat rare,Average Amount,Canada
+71,Ambrosia,Dominican Republic,1498,2015,0.75,Canada,3.25,Dominican Republic,117,somewhat rare,Average Amount,Canada
+72,Ambrosia,Papua New Guinea,1498,2015,0.63,Canada,3.25,Papua New Guinea,117,somewhat rare,Light Amount,Canada
+73,Ambrosia,Venezuela,1498,2015,0.7,Canada,3.25,Venezuela,117,somewhat rare,Average Amount,Canada
+74,Ambrosia,Peru,1498,2015,0.68,Canada,3.5,Peru,117,somewhat rare,Average Amount,Canada
+75,Amedei,"Piura, Blanco de Criollo",979,2012,0.7,Italy,3.75,Peru,54,rare,Average Amount,Italy
+76,Amedei,Porcelana,111,2007,0.7,Italy,4.0,Venezuela,54,rare,Average Amount,Italy
+77,Amedei,Chuao,111,2007,0.7,Italy,5.0,Venezuela,54,rare,Average Amount,Italy
+78,Amedei,Ecuador,123,2007,0.7,Italy,3.0,Ecuador,54,rare,Average Amount,Italy
+79,Amedei,Jamaica,123,2007,0.7,Italy,3.0,Jamaica,54,rare,Average Amount,Italy
+80,Amedei,Grenada,123,2007,0.7,Italy,3.5,Grenada,54,rare,Average Amount,Italy
+81,Amedei,Venezuela,123,2007,0.7,Italy,3.75,Venezuela,54,rare,Average Amount,Italy
+82,Amedei,Madagascar,123,2007,0.7,Italy,4.0,Madagascar,54,rare,Average Amount,Italy
+83,Amedei,Trinidad,129,2007,0.7,Italy,3.5,Trinidad,54,rare,Average Amount,Italy
+84,AMMA,Catongo,1065,2013,0.75,Brazil,3.25,Brazil,17,extra rare,Average Amount,Brazil
+85,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,0.85,Brazil,2.75,Brazil,17,extra rare,High Amount,Brazil
+86,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,0.5,Brazil,3.75,Brazil,17,extra rare,Light Amount,Brazil
+87,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,0.75,Brazil,3.75,Brazil,17,extra rare,Average Amount,Brazil
+88,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,0.6,Brazil,4.0,Brazil,17,extra rare,Light Amount,Brazil
+89,Anahata,Elvesia,1259,2014,0.75,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+90,Animas,Alto Beni,1852,2016,0.75,U.S.A.,3.5,Bolivia,738,most common,Average Amount,United States of America
+91,Ara,Madagascar,1375,2014,0.75,France,3.0,Madagascar,144,somewhat common,Average Amount,France
+92,Ara,Chiapas,1379,2014,0.72,France,2.5,Mexico,144,somewhat common,Average Amount,France
+93,Ara,Equateur,1379,2014,0.75,France,2.75,Ecuador,144,somewhat common,Average Amount,France
+94,Ara,Trincheras,1379,2014,0.75,France,3.0,Venezuela,144,somewhat common,Average Amount,France
+95,Arete,San Juan,1724,2016,0.7,U.S.A.,3.5,Trinidad,738,most common,Average Amount,United States of America
+96,Arete,Kokoa Kamili,1724,2016,0.7,U.S.A.,3.75,Tanzania,738,most common,Average Amount,United States of America
+97,Arete,Tien Giang,1900,2016,0.73,U.S.A.,3.5,Vietnam,738,most common,Average Amount,United States of America
+98,Arete,Hacienda Victoria,1904,2016,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+99,Arete,Costa Esmeraldas,1904,2016,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+100,Arete,Lachua,1904,2016,0.7,U.S.A.,3.5,Guatemala,738,most common,Average Amount,United States of America
+101,Arete,Rugoso,1904,2016,0.7,U.S.A.,3.75,Nicaragua,738,most common,Average Amount,United States of America
+102,Arete,"La Masica, FHIA",1908,2016,0.7,U.S.A.,3.5,Honduras,738,most common,Average Amount,United States of America
+103,Arete,"Coto Brus, Terciopelo",1908,2016,0.7,U.S.A.,4.0,Costa Rica,738,most common,Average Amount,United States of America
+104,Arete,Phantom,1924,2016,0.7,U.S.A.,4.0,Peru,738,most common,Average Amount,United States of America
+105,Arete,Elvesia,1928,2016,0.7,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+106,Arete,Matasawalevu,1928,2016,0.7,U.S.A.,3.25,Fiji,738,most common,Average Amount,United States of America
+107,Arete,Lam Dong,1928,2016,0.73,U.S.A.,3.25,Vietnam,738,most common,Average Amount,United States of America
+108,Arete,Fazenda Camboa,1534,2015,0.7,U.S.A.,3.5,Brazil,738,most common,Average Amount,United States of America
+109,Arete,Nacional,1534,2015,0.68,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+110,Arete,"Puerto Quito, heirloom",1534,2015,0.7,U.S.A.,3.75,Ecuador,738,most common,Average Amount,United States of America
+111,Arete,Oko Caribe,1598,2015,0.7,U.S.A.,3.5,Domincan Republic,738,most common,Average Amount,United States of America
+112,Arete,Maya Mountain,1598,2015,0.7,U.S.A.,3.75,Belize,738,most common,Average Amount,United States of America
+113,Arete,Chuno,1598,2015,0.7,U.S.A.,4.0,Nicaragua,738,most common,Average Amount,United States of America
+114,Arete,Fazenda Camboa,1602,2015,0.75,U.S.A.,2.75,Brazil,738,most common,Average Amount,United States of America
+115,Arete,Guatemala,1602,2015,0.7,U.S.A.,3.25,Guatemala,738,most common,Average Amount,United States of America
+116,Arete,Camino Verde,1602,2015,0.75,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+117,Artisan du Chocolat,"Trinidad, Heritage, Limited ed.",1193,2013,0.72,U.K.,3.25,Trinidad,95,somewhat rare,Average Amount,United Kingdom
+118,Artisan du Chocolat,"Colombia, Casa Luker",947,2012,0.72,U.K.,3.75,Colombia,95,somewhat rare,Average Amount,United Kingdom
+119,Artisan du Chocolat,Haiti,729,2011,0.72,U.K.,4.0,Haiti,95,somewhat rare,Average Amount,United Kingdom
+120,Artisan du Chocolat,Panama,745,2011,0.72,U.K.,2.75,Panama,95,somewhat rare,Average Amount,United Kingdom
+121,Artisan du Chocolat,Venezuela,486,2010,1.0,U.K.,1.75,Venezuela,95,somewhat rare,High Amount,United Kingdom
+122,Artisan du Chocolat,Jamaica,531,2010,0.72,U.K.,3.75,Jamaica,95,somewhat rare,Average Amount,United Kingdom
+123,Artisan du Chocolat,Costa Rica,600,2010,0.72,U.K.,3.25,Costa Rica,95,somewhat rare,Average Amount,United Kingdom
+124,Artisan du Chocolat,Ba Ria Vung Tau Province,600,2010,0.72,U.K.,3.25,Vietnam,95,somewhat rare,Average Amount,United Kingdom
+125,Artisan du Chocolat,Bali,600,2010,0.72,U.K.,3.5,Indonesia,95,somewhat rare,Average Amount,United Kingdom
+126,Artisan du Chocolat,"Ocumare, Venezuela",355,2009,0.75,U.K.,2.5,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+127,Artisan du Chocolat,Java,355,2009,0.72,U.K.,2.75,Indonesia,95,somewhat rare,Average Amount,United Kingdom
+128,Artisan du Chocolat,Brazil Rio Doce,363,2009,0.72,U.K.,1.75,Brazil,95,somewhat rare,Average Amount,United Kingdom
+129,Artisan du Chocolat,Madagascar,363,2009,0.8,U.K.,3.0,Madagascar,95,somewhat rare,High Amount,United Kingdom
+130,Artisan du Chocolat,Peru,363,2009,0.75,U.K.,3.0,Peru,95,somewhat rare,Average Amount,United Kingdom
+131,Artisan du Chocolat,Dominican Republic,363,2009,0.72,U.K.,3.25,Dominican Republic,95,somewhat rare,Average Amount,United Kingdom
+132,Artisan du Chocolat,Congo,300,2008,0.72,U.K.,3.75,Congo,95,somewhat rare,Average Amount,United Kingdom
+133,Artisan du Chocolat (Casa Luker),"Orinoqua Region, Arauca",1181,2013,0.72,U.K.,2.75,Colombia,95,somewhat rare,Average Amount,United Kingdom
+134,Askinosie,Mababa,1780,2016,0.68,U.S.A.,3.75,Tanzania,738,most common,Average Amount,United States of America
+135,Askinosie,"Tenende, Uwate",647,2011,0.72,U.S.A.,3.75,Tanzania,738,most common,Average Amount,United States of America
+136,Askinosie,Cortes,661,2011,0.7,U.S.A.,3.75,Honduras,738,most common,Average Amount,United States of America
+137,Askinosie,Davao,331,2009,0.77,U.S.A.,3.75,Philippines,738,most common,Average Amount,United States of America
+138,Askinosie,Xoconusco,141,2007,0.75,U.S.A.,2.5,Mexico,738,most common,Average Amount,United States of America
+139,Askinosie,San Jose del Tambo,175,2007,0.7,U.S.A.,3.0,Ecuador,738,most common,Average Amount,United States of America
+140,Bahen & Co.,Papua New Guinea,1474,2015,0.7,Australia,3.5,Papua New Guinea,46,rare,Average Amount,Australia
+141,Bahen & Co.,Sambirano,995,2012,0.7,Australia,3.0,Madagascar,46,rare,Average Amount,Australia
+142,Bahen & Co.,Bahia,999,2012,0.7,Australia,2.5,Brazil,46,rare,Average Amount,Australia
+143,Bakau,"Bambamarca, 2015",1454,2015,0.7,Peru,2.75,Peru,17,extra rare,Average Amount,Peru
+144,Bakau,"Huallabamba, 2015",1454,2015,0.7,Peru,3.5,Peru,17,extra rare,Average Amount,Peru
+145,Bar Au Chocolat,Bahia,1554,2015,0.7,U.S.A.,3.5,Brazil,738,most common,Average Amount,United States of America
+146,Bar Au Chocolat,Maranon Canyon,1295,2014,0.7,U.S.A.,4.0,Peru,738,most common,Average Amount,United States of America
+147,Bar Au Chocolat,Duarte Province,983,2012,0.7,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+148,Bar Au Chocolat,Chiapas,983,2012,0.7,U.S.A.,3.5,Mexico,738,most common,Average Amount,United States of America
+149,Bar Au Chocolat,Sambirano,983,2012,0.7,U.S.A.,3.75,Madagascar,738,most common,Average Amount,United States of America
+150,Baravelli's,single estate,955,2012,0.8,Wales,2.75,Costa Rica,1,extra rare,High Amount,United Kingdom
+151,Batch,"Dominican Republic, Batch 3",1840,2016,0.65,U.S.A.,3.5,Domincan Republic,738,most common,Average Amount,United States of America
+152,Batch,Brazil,1868,2016,0.7,U.S.A.,3.75,Brazil,738,most common,Average Amount,United States of America
+153,Batch,Ecuador,1880,2016,0.65,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+154,Beau Cacao,"Asajaya E, NW Borneo, b. #132/4500",1948,2017,0.73,U.K.,3.0,Malaysia,95,somewhat rare,Average Amount,United Kingdom
+155,Beau Cacao,"Serian E., NW Borneo, b. #134/3800",1948,2017,0.72,U.K.,3.25,Malaysia,95,somewhat rare,Average Amount,United Kingdom
+156,Beehive,"Brazil, Batch 20316",1784,2016,0.8,U.S.A.,2.75,Brazil,738,most common,High Amount,United States of America
+157,Beehive,"Dominican Republic, Batch 31616",1784,2016,0.7,U.S.A.,2.75,Domincan Republic,738,most common,Average Amount,United States of America
+158,Beehive,"Ecuador, Batch 31516",1784,2016,0.7,U.S.A.,2.75,Ecuador,738,most common,Average Amount,United States of America
+159,Beehive,Ecuador,1788,2016,0.9,U.S.A.,2.75,Ecuador,738,most common,High Amount,United States of America
+160,Belcolade,Costa Rica,586,2010,0.64,Belgium,2.75,Costa Rica,37,rare,Light Amount,Belgium
+161,Belcolade,Papua New Guinea,586,2010,0.64,Belgium,2.75,Papua New Guinea,37,rare,Light Amount,Belgium
+162,Belcolade,Peru,586,2010,0.64,Belgium,2.75,Peru,37,rare,Light Amount,Belgium
+163,Belcolade,Ecuador,586,2010,0.71,Belgium,3.5,Ecuador,37,rare,Average Amount,Belgium
+164,Bellflower,"Kakao Kamili, Kilombero Valley",1800,2016,0.7,U.S.A.,3.5,Tanzania,738,most common,Average Amount,United States of America
+165,Bellflower,"Alto Beni, Palos Blanco",1804,2016,0.7,U.S.A.,3.25,Bolivia,738,most common,Average Amount,United States of America
+166,Bellflower,"Oko Caribe, Duarte P.",1864,2016,0.7,U.S.A.,3.5,Domincan Republic,738,most common,Average Amount,United States of America
+167,Belyzium,"Belize south, low fermentation",1768,2016,0.83,Germany,2.75,Belize,35,rare,High Amount,Germany
+168,Belyzium,Belize south,1768,2016,0.78,Germany,3.0,Belize,35,rare,Average Amount,Germany
+169,Belyzium,Belize south,1768,2016,0.83,Germany,3.5,Belize,35,rare,High Amount,Germany
+170,Benoit Nihant,Baracoa,1141,2013,0.74,Belgium,3.5,Cuba,37,rare,Average Amount,Belgium
+171,Benoit Nihant,Chuao,1141,2013,0.74,Belgium,3.5,Venezuela,37,rare,Average Amount,Belgium
+172,Benoit Nihant,Cuyagua Village,1141,2013,0.74,Belgium,3.5,Venezuela,37,rare,Average Amount,Belgium
+173,Benoit Nihant,Rio Peripa H.,1141,2013,0.73,Belgium,4.0,Ecuador,37,rare,Average Amount,Belgium
+174,Benoit Nihant,"Bali, Sukrama Bros. Farm, Melaya, 62hr C",757,2011,0.72,Belgium,4.0,Indonesia,37,rare,Average Amount,Belgium
+175,Benoit Nihant,"Somia Plantation, Sambirano, 70hr C",773,2011,0.72,Belgium,3.75,Madagascar,37,rare,Average Amount,Belgium
+176,Beschle (Felchlin),Madagascar,636,2011,0.64,Switzerland,3.0,Madagascar,35,rare,Light Amount,Switzerland
+177,Beschle (Felchlin),Maracaibo,636,2011,0.88,Switzerland,3.0,Venezuela,35,rare,High Amount,Switzerland
+178,Beschle (Felchlin),"Indigena Amazonia, Grand Cru, Quizas",636,2011,0.72,Switzerland,3.5,Venezuela,35,rare,Average Amount,Switzerland
+179,Beschle (Felchlin),Ecuador,636,2011,0.72,Switzerland,4.0,Ecuador,35,rare,Average Amount,Switzerland
+180,Beschle (Felchlin),"Carenero S., Barlovento, Grand Cru",508,2010,0.7,Switzerland,3.25,Venezuela,35,rare,Average Amount,Switzerland
+181,Beschle (Felchlin),"Porcelana, Premier Cru, Quizas No. 1",508,2010,0.74,Switzerland,3.25,Venezuela,35,rare,Average Amount,Switzerland
+182,Beschle (Felchlin),"Java, Grand Cru",508,2010,0.64,Switzerland,3.5,Indonesia,35,rare,Light Amount,Switzerland
+183,Beschle (Felchlin),"Ocumare, Premier Cru, Quizas No. 2",508,2010,0.72,Switzerland,3.5,Venezuela,35,rare,Average Amount,Switzerland
+184,Bisou,"Nicaragua, American style",1482,2015,0.76,U.S.A.,2.5,Nicaragua,738,most common,Average Amount,United States of America
+185,Bisou,"San Andres, American style",1486,2015,0.76,U.S.A.,2.5,Costa Rica,738,most common,Average Amount,United States of America
+186,Bisou,"San Andres, silk",1486,2015,0.78,U.S.A.,2.5,Costa Rica,738,most common,Average Amount,United States of America
+187,Bisou,Belize,1486,2015,0.86,U.S.A.,3.25,Belize,738,most common,High Amount,United States of America
+188,Bittersweet Origins,Ghana,963,2012,0.72,U.S.A.,3.5,Ghana,738,most common,Average Amount,United States of America
+189,Bittersweet Origins,"Bali, Singaraja",478,2010,0.75,U.S.A.,3.25,Indonesia,738,most common,Average Amount,United States of America
+190,Bittersweet Origins,2009 Hapa Nibby,502,2010,0.7,U.S.A.,3.75,"Dominican Rep., Bali",738,most common,Average Amount,United States of America
+191,Bittersweet Origins,"Bali, Singaraja",558,2010,0.65,U.S.A.,2.75,Indonesia,738,most common,Average Amount,United States of America
+192,Bittersweet Origins,"Sambirano, 2009",565,2010,0.7,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+193,Bittersweet Origins,"Ocumare, prototype",565,2010,0.78,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+194,Bittersweet Origins,Puerto Plata,414,2009,0.75,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+195,Bittersweet Origins,Puerto Plata,414,2009,0.65,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+196,Bittersweet Origins,Sambirano,423,2009,0.75,U.S.A.,3.25,Madagascar,738,most common,Average Amount,United States of America
+197,Bittersweet Origins,Sambirano,431,2009,0.65,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+198,Bittersweet Origins,Sambirano,233,2008,0.71,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+199,Bittersweet Origins,Bocas del Toro,233,2008,0.75,U.S.A.,3.5,Panama,738,most common,Average Amount,United States of America
+200,Bittersweet Origins,Puerto Plata,233,2008,0.68,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+201,Bittersweet Origins,Ankasa,256,2008,0.7,U.S.A.,3.0,Ghana,738,most common,Average Amount,United States of America
+202,Black Mountain,La Red,256,2008,0.7,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+203,Black Mountain,Carenero Superior,256,2008,0.7,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+204,Black Mountain,Matiguas,256,2008,0.7,U.S.A.,3.0,Nicaragua,738,most common,Average Amount,United States of America
+205,Black River (A. Morin),Blue Mountain Region,1331,2014,0.7,U.K.,2.75,Jamaica,95,somewhat rare,Average Amount,United Kingdom
+206,Blanxart,"Congo, Grand Cru",1046,2013,0.82,Spain,3.5,Congo,21,extra rare,High Amount,Spain
+207,Blue Bandana,"Akesson's E., Sambirano V.",1740,2016,0.82,U.S.A.,3.5,Madagascar,738,most common,High Amount,United States of America
+208,Blue Bandana,Lachua,1752,2016,0.75,U.S.A.,2.75,Guatemala,738,most common,Average Amount,United States of America
+209,Blue Bandana,Kokoa Kamili,1752,2016,0.75,U.S.A.,3.5,Tanzania,738,most common,Average Amount,United States of America
+210,Blue Bandana,Zorzal Reserva,1756,2016,0.75,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+211,Blue Bandana,Guatemala,911,2012,0.7,U.S.A.,3.5,Guatemala,738,most common,Average Amount,United States of America
+212,Blue Bandana,Madagascar,911,2012,0.7,U.S.A.,3.75,Madagascar,738,most common,Average Amount,United States of America
+213,Bonnat,Selva Maya,1912,2016,0.75,France,3.5,Mexico,144,somewhat common,Average Amount,France
+214,Bonnat,Kaori,1339,2014,0.75,France,4.0,Brazil,144,somewhat common,Average Amount,France
+215,Bonnat,"Los Colorados, Santo Domingo, Equateur",1418,2014,0.75,France,3.25,Dominican Republic,144,somewhat common,Average Amount,France
+216,Bonnat,Surfin,1418,2014,0.65,France,3.75,"Venez,Africa,Brasil,Peru,Mex",144,somewhat common,Average Amount,France
+217,Bonnat,Maragnam,1038,2013,0.75,France,3.5,Brazil,144,somewhat common,Average Amount,France
+218,Bonnat,Gabon,1042,2013,0.75,France,3.25,Gabon,144,somewhat common,Average Amount,France
+219,Bonnat,Cuba,629,2011,0.75,France,3.5,Cuba,144,somewhat common,Average Amount,France
+220,Bonnat,"Cusco, Cacao Cusco",629,2011,0.75,France,3.5,Peru,144,somewhat common,Average Amount,France
+221,Bonnat,Piura Blanco,629,2011,0.75,France,3.5,Peru,144,somewhat common,Average Amount,France
+222,Bonnat,Libanio,629,2011,0.75,France,3.75,Brazil,144,somewhat common,Average Amount,France
+223,Bonnat,Haiti,629,2011,0.75,France,4.0,Haiti,144,somewhat common,Average Amount,France
+224,Bonnat,"Madagascar, 100% criollo",629,2011,0.75,France,4.0,Madagascar,144,somewhat common,Average Amount,France
+225,Bonnat,Juliana,672,2011,0.75,France,3.5,Brazil,144,somewhat common,Average Amount,France
+226,Bonnat,Jamaique,761,2011,0.75,France,3.25,Jamaica,144,somewhat common,Average Amount,France
+227,Bonnat,Ivory Coast,331,2009,0.75,France,3.0,Ivory Coast,144,somewhat common,Average Amount,France
+228,Bonnat,"Porcelana, Apotequil",336,2009,0.75,France,2.75,Peru,144,somewhat common,Average Amount,France
+229,Bonnat,"Porcelana, Tabasco, Marfil de Blanco",336,2009,0.75,France,3.0,Mexico,144,somewhat common,Average Amount,France
+230,Bonnat,"Xoconusco, cacao Real",395,2009,0.75,France,3.0,Mexico,144,somewhat common,Average Amount,France
+231,Bonnat,"Porcelana, Venezuela",199,2008,0.75,France,4.0,Venezuela,144,somewhat common,Average Amount,France
+232,Bonnat,Equateur,123,2007,0.75,France,2.5,Ecuador,144,somewhat common,Average Amount,France
+233,Bonnat,Trinite,24,2006,0.75,France,3.75,Carribean,144,somewhat common,Average Amount,France
+234,Bonnat,"Ocumare, Puerto Cabello",32,2006,0.75,France,4.0,Venezuela,144,somewhat common,Average Amount,France
+235,Bonnat,"Maracaibo, El Rosario",48,2006,0.75,France,4.0,Venezuela,144,somewhat common,Average Amount,France
+236,Bonnat,Madagascar,75,2006,0.75,France,4.0,Madagascar,144,somewhat common,Average Amount,France
+237,Bonnat,Ceylan,81,2006,0.75,France,3.0,Sri Lanka,144,somewhat common,Average Amount,France
+238,Bonnat,Chuao,81,2006,0.75,France,4.0,Venezuela,144,somewhat common,Average Amount,France
+239,Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",316,2009,0.77,Ecuador,3.25,Ecuador,54,rare,Average Amount,Ecuador
+240,Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",341,2009,1.0,Ecuador,1.5,Ecuador,54,rare,High Amount,Ecuador
+241,Bowler Man,Maya Mountain,1267,2014,0.7,U.S.A.,2.75,Belize,738,most common,Average Amount,United States of America
+242,Bowler Man,Conacado,1271,2014,0.7,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+243,Brasstown aka It's Chocolate,"Guasare, Zulia Prov.",1868,2016,0.7,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+244,Brasstown aka It's Chocolate,"O'payo, Waslala",1868,2016,0.7,U.S.A.,3.75,Nicaragua,738,most common,Average Amount,United States of America
+245,Brasstown aka It's Chocolate,Conacado,1462,2015,0.68,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+246,Brasstown aka It's Chocolate,Maya Mountain,1255,2014,0.7,U.S.A.,3.75,Belize,738,most common,Average Amount,United States of America
+247,Brasstown aka It's Chocolate,Chuao,1355,2014,0.7,U.S.A.,4.0,Venezuela,738,most common,Average Amount,United States of America
+248,Brasstown aka It's Chocolate,Cooproagro,1125,2013,0.72,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+249,Brasstown aka It's Chocolate,"Camino Verde, Guayas",1125,2013,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+250,Brasstown aka It's Chocolate,Ghana,1129,2013,0.75,U.S.A.,3.5,Ghana,738,most common,Average Amount,United States of America
+251,Brasstown aka It's Chocolate,"Chuao, Mantuano blend",1129,2013,0.85,U.S.A.,3.5,Venezuela,738,most common,High Amount,United States of America
+252,Brazen,Elvesia P.,1514,2015,0.6,U.S.A.,3.0,Dominican Republic,738,most common,Light Amount,United States of America
+253,Brazen,Elvesia P.,1514,2015,0.8,U.S.A.,3.25,Dominican Republic,738,most common,High Amount,United States of America
+254,Brazen,"Alta Verapaz, 2014",1514,2015,0.7,U.S.A.,3.5,Guatemala,738,most common,Average Amount,United States of America
+255,Brazen,Ambolikapiky P.,1518,2015,0.8,U.S.A.,2.75,Madagascar,738,most common,High Amount,United States of America
+256,Brazen,Maya Mountain,1518,2015,0.8,U.S.A.,3.25,Belize,738,most common,High Amount,United States of America
+257,Brazen,Ambolikapkly P.,1518,2015,0.6,U.S.A.,3.25,Madagascar,738,most common,Light Amount,United States of America
+258,Breeze Mill,Jamaica,1149,2013,0.7,U.S.A.,3.0,Jamaica,738,most common,Average Amount,United States of America
+259,Bright,Somia Plantation,1231,2014,0.72,Australia,3.0,Madagascar,46,rare,Average Amount,Australia
+260,Bright,Marabel Farms,1231,2014,0.7,Australia,3.5,Dominican Republic,46,rare,Average Amount,Australia
+261,Bright,"Camino Verde, Balao, Guayas",1231,2014,0.72,Australia,3.5,Ecuador,46,rare,Average Amount,Australia
+262,Bright,Gran Couva,1235,2014,0.68,Australia,2.75,Trinidad,46,rare,Average Amount,Australia
+263,Britarev,Ecuador,1638,2015,0.7,Russia,3.25,Ecuador,1,extra rare,Average Amount,Russia
+264,Bronx Grrl Chocolate,Dominican Republic,1181,2013,0.68,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+265,Burnt Fork Bend,Trinidad,1299,2014,0.72,U.S.A.,3.25,Trinidad,738,most common,Average Amount,United States of America
+266,Burnt Fork Bend,Mindo,1299,2014,0.72,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+267,Burnt Fork Bend,Belize,1303,2014,0.72,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+268,Burnt Fork Bend,"Ecuador, Bob Bar",1323,2014,0.6,U.S.A.,2.5,Ecuador,738,most common,Light Amount,United States of America
+269,Cacao Arabuco,Puerto Rico,1606,2015,0.7,Puerto Rico,2.5,Puerto Rico,4,extra rare,Average Amount,Puerto Rico
+270,Cacao Atlanta,Tumbes,1215,2014,0.75,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+271,Cacao Atlanta,"Dominican Republic, ""Love Bar""",502,2010,0.75,U.S.A.,2.5,Dominican Republic,738,most common,Average Amount,United States of America
+272,Cacao Atlanta,Dominican Republic w/ nibs,502,2010,0.75,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+273,Cacao Atlanta,Patanemo,600,2010,0.75,U.S.A.,2.25,Venezuela,738,most common,Average Amount,United States of America
+274,Cacao Barry,Grand 'Anse,1716,2016,0.65,France,3.5,Haiti,144,somewhat common,Average Amount,France
+275,Cacao Barry,Santo Domingo,586,2010,0.7,France,3.0,Dominican Republic,144,somewhat common,Average Amount,France
+276,Cacao Barry,Tanzania,300,2008,0.75,France,2.0,Tanzania,144,somewhat common,Average Amount,France
+277,Cacao Barry,Venezuela,141,2007,0.72,France,2.0,Venezuela,144,somewhat common,Average Amount,France
+278,Cacao Barry,Mexico,147,2007,0.66,France,3.0,Mexico,144,somewhat common,Average Amount,France
+279,Cacao de Origen,Chuao,1688,2015,0.77,Venezuela,3.5,Venezuela,20,extra rare,Average Amount,Venezuela
+280,Cacao de Origen,Rio Caribe,1692,2015,0.75,Venezuela,3.25,Venezuela,20,extra rare,Average Amount,Venezuela
+281,Cacao de Origen,Agua Fria; Sucre region,1391,2014,0.75,Venezuela,2.5,Venezuela,20,extra rare,Average Amount,Venezuela
+282,Cacao de Origen,Macuare; Miranda; Chloe formula,1391,2014,0.74,Venezuela,3.25,Venezuela,20,extra rare,Average Amount,Venezuela
+283,Cacao de Origen,"Chuao, Aragua region",1391,2014,0.75,Venezuela,3.5,Venezuela,20,extra rare,Average Amount,Venezuela
+284,Cacao de Origen,"Chuao, Aragua region",1395,2014,0.7,Venezuela,3.75,Venezuela,20,extra rare,Average Amount,Venezuela
+285,Cacao de Origin,Hacienda la Trinidad,1668,2015,0.74,Venezuela,3.25,Venezuela,20,extra rare,Average Amount,Venezuela
+286,Cacao Hunters,Macondo,1816,2016,0.71,Colombia,3.75,Colombia,23,extra rare,Average Amount,Colombia
+287,Cacao Hunters,Perla Negra,1816,2016,0.74,Colombia,3.75,Colombia,23,extra rare,Average Amount,Colombia
+288,Cacao Hunters,Arhuacos,1662,2015,0.72,Colombia,3.75,Colombia,23,extra rare,Average Amount,Colombia
+289,Cacao Hunters,Sierra Nevada,1430,2014,0.64,Colombia,3.5,Colombia,23,extra rare,Light Amount,Colombia
+290,Cacao Hunters,Tumaco,1430,2014,0.7,Colombia,3.5,Colombia,23,extra rare,Average Amount,Colombia
+291,Cacao Hunters,"Boyaca, Aprocampa Coop, Pauna",1434,2014,0.69,Colombia,2.75,Colombia,23,extra rare,Average Amount,Colombia
+292,Cacao Hunters,Arauca,1434,2014,0.7,Colombia,3.25,Colombia,23,extra rare,Average Amount,Colombia
+293,Cacao Market,"Jutiapa, lot 050916D",1860,2016,0.7,U.S.A.,3.5,Honduras,738,most common,Average Amount,United States of America
+294,Cacao Prieto,"Criollo, Dominican Republic",991,2012,0.72,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+295,Cacao Prieto,"Dominican Republicm, rustic",641,2011,0.72,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+296,Cacao Prieto,Dominican Republic,641,2011,0.66,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+297,Cacao Prieto,"Dominican Republic, rustic",647,2011,0.65,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+298,Cacao Sampaka,"Mahali, Kasai",1908,2016,0.7,Spain,3.5,Congo,21,extra rare,Average Amount,Spain
+299,Cacao Sampaka,Madagascar,508,2010,0.71,Spain,3.5,Madagascar,21,extra rare,Average Amount,Spain
+300,Cacao Sampaka,Ecuador,523,2010,0.71,Spain,3.75,Ecuador,21,extra rare,Average Amount,Spain
+301,Cacao Sampaka,Papua,523,2010,0.71,Spain,4.0,Papua New Guinea,21,extra rare,Average Amount,Spain
+302,Cacao Sampaka,Grenada,537,2010,0.71,Spain,3.25,Grenada,21,extra rare,Average Amount,Spain
+303,Cacao Sampaka,Venezuela,537,2010,0.71,Spain,3.5,Venezuela,21,extra rare,Average Amount,Spain
+304,Cacao Sampaka,Venezuela,537,2010,0.77,Spain,3.5,Venezuela,21,extra rare,Average Amount,Spain
+305,Cacao Sampaka,"Porcelana, Tabasco, La Joya",336,2009,0.7,Spain,4.0,Mexico,21,extra rare,Average Amount,Spain
+306,Cacao Sampaka,"Xoconusco, Chiapas",346,2009,0.7,Spain,4.0,Mexico,21,extra rare,Average Amount,Spain
+307,Cacao Store,Madagascar,1684,2015,0.7,Japan,3.0,Madagascar,17,extra rare,Average Amount,Japan
+308,Cacao Store,Peru,1684,2015,0.7,Japan,3.25,Peru,17,extra rare,Average Amount,Japan
+309,Cacao Store,Vietnam,1684,2015,0.7,Japan,3.5,Vietnam,17,extra rare,Average Amount,Japan
+310,Cacaosuyo (Theobroma Inversiones),Piura,1173,2013,0.7,Peru,3.25,Peru,17,extra rare,Average Amount,Peru
+311,Cacaoyere (Ecuatoriana),Amazonia,237,2008,0.63,Ecuador,3.5,Ecuador,54,rare,Light Amount,Ecuador
+312,Cacaoyere (Ecuatoriana),Esmeraldas,237,2008,0.71,Ecuador,3.5,Ecuador,54,rare,Average Amount,Ecuador
+313,Cacaoyere (Ecuatoriana),Bolivar,245,2008,0.82,Ecuador,2.5,Ecuador,54,rare,High Amount,Ecuador
+314,Cacaoyere (Ecuatoriana),Pichincha,259,2008,0.91,Ecuador,1.5,Ecuador,54,rare,High Amount,Ecuador
+315,Callebaut,Grenade,296,2008,0.6,Belgium,2.75,Grenada,37,rare,Light Amount,Belgium
+316,Callebaut,Baking,141,2007,0.7,Belgium,1.0,Ecuador,37,rare,Average Amount,Belgium
+317,C-Amaro,Cuba,1442,2014,0.75,Italy,2.5,Cuba,54,rare,Average Amount,Italy
+318,C-Amaro,Dominican Republic,1442,2014,0.72,Italy,3.0,Dominican Republic,54,rare,Average Amount,Italy
+319,C-Amaro,Ecuador,1185,2013,1.0,Italy,3.5,Ecuador,54,rare,High Amount,Italy
+320,C-Amaro,Venezuela,809,2012,0.8,Italy,3.0,Venezuela,54,rare,High Amount,Italy
+321,C-Amaro,Sao Tome,749,2011,0.78,Italy,2.25,Sao Tome,54,rare,Average Amount,Italy
+322,C-Amaro,Trinidad,765,2011,0.7,Italy,2.5,Trinidad,54,rare,Average Amount,Italy
+323,Cao,Porcelana,1804,2016,0.75,U.S.A.,2.5,Venezuela,738,most common,Average Amount,United States of America
+324,Cao,Tanzania,1804,2016,0.73,U.S.A.,2.75,Tanzania,738,most common,Average Amount,United States of America
+325,Cao,"Porcelana, Batch 5163",1804,2016,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+326,Cao,Bolivia,1808,2016,0.75,U.S.A.,3.0,Bolivia,738,most common,Average Amount,United States of America
+327,Cao,Brazil,1808,2016,0.7,U.S.A.,3.25,Brazil,738,most common,Average Amount,United States of America
+328,Caoni (Tulicorp),Esmeraldas,237,2008,0.77,Ecuador,2.0,Ecuador,54,rare,Average Amount,Ecuador
+329,Caoni (Tulicorp),Manabi,237,2008,0.77,Ecuador,2.5,Ecuador,54,rare,Average Amount,Ecuador
+330,Caoni (Tulicorp),Los Rios,245,2008,0.77,Ecuador,2.75,Ecuador,54,rare,Average Amount,Ecuador
+331,Caoni (Tulicorp),Manabi,266,2008,0.55,Ecuador,3.0,Ecuador,54,rare,Light Amount,Ecuador
+332,Caoni (Tulicorp),Los Rios,269,2008,0.55,Ecuador,3.25,Ecuador,54,rare,Light Amount,Ecuador
+333,Caoni (Tulicorp),Esmeraldas,269,2008,0.55,Ecuador,3.5,Ecuador,54,rare,Light Amount,Ecuador
+334,Captain Pembleton,"Saidor Estate, Madang P.",1263,2014,0.7,New Zealand,3.5,Papua New Guinea,17,extra rare,Average Amount,New Zealand
+335,Captain Pembleton,Kulili Estate,1263,2014,0.7,New Zealand,3.75,Papua New Guinea,17,extra rare,Average Amount,New Zealand
+336,Caribeans,"Antigua, Special Reserve",1582,2015,0.72,Costa Rica,3.5,Guatemala,9,extra rare,Average Amount,Costa Rica
+337,Caribeans,"Talamanca, Raul-Kekoldo community",1586,2015,0.72,Costa Rica,3.25,Costa Rica,9,extra rare,Average Amount,Costa Rica
+338,Caribeans,Anselmo Paraiso Estate,1586,2015,0.72,Costa Rica,3.5,Costa Rica,9,extra rare,Average Amount,Costa Rica
+339,Caribeans,Costa Rica,841,2012,0.72,Costa Rica,3.0,Costa Rica,9,extra rare,Average Amount,Costa Rica
+340,Caribeans,Costa Rica,845,2012,0.8,Costa Rica,2.75,Costa Rica,9,extra rare,High Amount,Costa Rica
+341,Carlotta Chocolat,Arauca,1884,2016,0.65,Colombia,3.0,Colombia,23,extra rare,Average Amount,Colombia
+342,Carlotta Chocolat,Tumaco,1888,2016,0.65,Colombia,3.25,Colombia,23,extra rare,Average Amount,Colombia
+343,Carlotta Chocolat,Cordoba,1888,2016,0.65,Colombia,3.25,Colombia,23,extra rare,Average Amount,Colombia
+344,Carlotta Chocolat,Huila,1888,2016,0.65,Colombia,3.5,Colombia,23,extra rare,Average Amount,Colombia
+345,Carlotta Chocolat,Cesar,1888,2016,0.65,Colombia,3.5,Colombia,23,extra rare,Average Amount,Colombia
+346,Castronovo,"Maya Mtn, Batch 454, Heirloom",1724,2016,0.72,U.S.A.,4.0,Belize,738,most common,Average Amount,United States of America
+347,Castronovo,"the lost city, gracias a dias, batch 362",1570,2015,0.72,U.S.A.,3.5,Honduras,738,most common,Average Amount,United States of America
+348,Castronovo,"Duarte, Batch 360",1570,2015,0.7,U.S.A.,3.75,Domincan Republic,738,most common,Average Amount,United States of America
+349,Castronovo,"Piaroa, Amazonas, Batch 350",1574,2015,0.72,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+350,Castronovo,Sierra Nevada,1347,2014,0.72,U.S.A.,3.5,Colombia,738,most common,Average Amount,United States of America
+351,Castronovo,Arauca,1371,2014,0.76,U.S.A.,3.5,Colombia,738,most common,Average Amount,United States of America
+352,Castronovo,Elvesia P.,1407,2014,0.7,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+353,Castronovo,Bolivia,1101,2013,0.7,U.S.A.,3.0,Bolivia,738,most common,Average Amount,United States of America
+354,Castronovo,Conacado,1101,2013,0.73,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+355,Castronovo,San Martin,1105,2013,0.7,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+356,Castronovo,"Guaniamo, Amazonas",1105,2013,0.7,U.S.A.,3.25,Venezuela,738,most common,Average Amount,United States of America
+357,Castronovo,Nicaragua,1109,2013,0.72,U.S.A.,3.25,Nicaragua,738,most common,Average Amount,United States of America
+358,Castronovo,Tumbes,1153,2013,0.7,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+359,Castronovo,Guaniamo,1153,2013,0.72,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+360,Cello,Ecuador,1247,2014,0.7,U.S.A.,2.5,Ecuador,738,most common,Average Amount,United States of America
+361,Cello,Peru,1247,2014,0.7,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+362,Cello,Venezuela,1251,2014,0.7,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+363,Cello,Bolivia,1251,2014,0.7,U.S.A.,3.0,Bolivia,738,most common,Average Amount,United States of America
+364,Cemoi,Equateur,404,2009,0.72,France,2.75,Ecuador,144,somewhat common,Average Amount,France
+365,Chaleur B,Uganda,1426,2014,0.7,Canada,2.75,Uganda,117,somewhat rare,Average Amount,Canada
+366,Charm School,Maya Mtn,1900,2016,0.7,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+367,Chchukululu (Tulicorp),Arriba,486,2010,0.55,Ecuador,2.75,Ecuador,54,rare,Light Amount,Ecuador
+368,Chchukululu (Tulicorp),Los Rios,252,2008,0.75,Ecuador,3.0,Ecuador,54,rare,Average Amount,Ecuador
+369,Chequessett,la Amistad,1235,2014,0.7,U.S.A.,3.5,Costa Rica,738,most common,Average Amount,United States of America
+370,Chocablog,Ecuador,1454,2015,0.7,U.K.,3.25,Ecuador,95,somewhat rare,Average Amount,United Kingdom
+371,Choco Del Sol,Maya Mountain w/ nibs,1407,2014,0.75,Germany,3.0,Belize,35,rare,Average Amount,Germany
+372,Choco Del Sol,Maya Mountain,1407,2014,0.82,Germany,3.25,Belize,35,rare,High Amount,Germany
+373,Choco Dong,"Mekong Delta, early 2014 Harvest",1696,2015,0.7,South Korea,2.75,Vietnam,5,extra rare,Average Amount,South Korea
+374,Choco Dong,"Tawau, Oct. 2015 Harvest",1696,2015,0.7,South Korea,3.5,Malaysia,5,extra rare,Average Amount,South Korea
+375,Chocolarder,Peru,1482,2015,0.65,U.K.,2.5,Peru,95,somewhat rare,Average Amount,United Kingdom
+376,Chocolarder,Peru + nibs,1482,2015,0.65,U.K.,2.75,Peru,95,somewhat rare,Average Amount,United Kingdom
+377,Chocolarder,Dominican Republic,1514,2015,0.8,U.K.,2.5,Dominican Republic,95,somewhat rare,High Amount,United Kingdom
+378,Chocola'te,Madagascar,647,2011,0.7,U.S.A.,3.75,Madagascar,738,most common,Average Amount,United States of America
+379,Chocola'te,Venezuela,647,2011,0.68,U.S.A.,3.75,Venezuela,738,most common,Average Amount,United States of America
+380,Chocolate Alchemist-Philly,"Tumbes, ""Zarumilla""",1772,2016,0.9,U.S.A.,2.5,Peru,738,most common,High Amount,United States of America
+381,Chocolate Con Amor,Wild Bolivian,1760,2016,0.7,U.S.A.,2.5,Bolivia,738,most common,Average Amount,United States of America
+382,Chocolate Con Amor,Uganda,1760,2016,0.7,U.S.A.,2.75,Uganda,738,most common,Average Amount,United States of America
+383,Chocolate Con Amor,Dominican Republic,1764,2016,0.6,U.S.A.,3.0,Dominican Republic,738,most common,Light Amount,United States of America
+384,Chocolate Con Amor,Dominican Republic,1764,2016,0.75,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+385,Chocolate Con Amor,Ocumare,1764,2016,0.8,U.S.A.,3.0,Venezuela,738,most common,High Amount,United States of America
+386,Chocolate Con Amor,Ecuador,1764,2016,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+387,Chocolate Con Amor,Nicaragua,1768,2016,0.8,U.S.A.,2.75,Nicaragua,738,most common,High Amount,United States of America
+388,Chocolate Conspiracy,Peru,1259,2014,0.74,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+389,Chocolate Makers,Tres Hombres,1530,2015,0.75,Amsterdam,3.25,Dominican Republic,4,extra rare,Average Amount,Amsterdam
+390,Chocolate Makers,"Congo, Gorilla bar",1530,2015,0.68,Amsterdam,3.5,Congo,4,extra rare,Average Amount,Amsterdam
+391,Chocolate Makers,"Peru, Awagum bar",1530,2015,0.8,Amsterdam,3.75,Peru,4,extra rare,High Amount,Amsterdam
+392,"Chocolate Tree, The",Maranon,1582,2015,0.69,Scotland,3.75,Peru,10,extra rare,Average Amount,United Kingdom
+393,"Chocolate Tree, The",Carenero Superior,1582,2015,0.8,Scotland,3.75,Venezuela,10,extra rare,High Amount,United Kingdom
+394,"Chocolate Tree, The",Peru,1121,2013,0.7,Scotland,3.75,Peru,10,extra rare,Average Amount,United Kingdom
+395,"Chocolate Tree, The",Ecuador,919,2012,0.82,Scotland,2.5,Ecuador,10,extra rare,High Amount,United Kingdom
+396,"Chocolate Tree, The",Peru,919,2012,0.68,Scotland,2.75,Peru,10,extra rare,Average Amount,United Kingdom
+397,"Chocolate Tree, The",Madagascar,919,2012,0.72,Scotland,3.25,Madagascar,10,extra rare,Average Amount,United Kingdom
+398,Chocolats Privilege,Xoconusco,1219,2014,0.7,Canada,2.5,Mexico,117,somewhat rare,Average Amount,Canada
+399,ChocoReko,Patanemo,1454,2015,0.77,Japan,3.0,Venezuela,17,extra rare,Average Amount,Japan
+400,Chocosol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",682,2011,0.65,Canada,3.25,Mexico,117,somewhat rare,Average Amount,Canada
+401,Chocovic,Xoconusco,478,2010,0.71,Spain,3.25,Mexico,21,extra rare,Average Amount,Spain
+402,Chocovic,Sambirano,478,2010,0.71,Spain,3.5,Madagascar,21,extra rare,Average Amount,Spain
+403,Chocovic,Ocumare,209,2008,0.71,Spain,3.5,Venezuela,21,extra rare,Average Amount,Spain
+404,Chocovic,"Bolivar, Guaranda",117,2007,0.71,Spain,2.5,Ecuador,21,extra rare,Average Amount,Spain
+405,Chocovic,Guyave,117,2007,0.71,Spain,2.5,Grenada,21,extra rare,Average Amount,Spain
+406,Chocovivo,Tabasco,1522,2015,0.65,U.S.A.,2.5,Mexico,738,most common,Average Amount,United States of America
+407,Chocovivo,Tabasco,1522,2015,0.75,U.S.A.,2.5,Mexico,738,most common,Average Amount,United States of America
+408,Choklat,Ocumare,377,2009,0.8,Canada,2.5,Venezuela,117,somewhat rare,High Amount,Canada
+409,Choklat,"Porcelana, Tabasco",377,2009,0.7,Canada,2.75,Mexico,117,somewhat rare,Average Amount,Canada
+410,Choklat,Brazilian,377,2009,0.7,Canada,3.0,Brazil,117,somewhat rare,Average Amount,Canada
+411,Choklat,Brazilian,377,2009,0.8,Canada,3.0,Brazil,117,somewhat rare,High Amount,Canada
+412,Choklat,Ocumare,377,2009,0.7,Canada,3.0,Venezuela,117,somewhat rare,Average Amount,Canada
+414,Choocsol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",1832,2016,0.75,Canada,3.25,Mexico,117,somewhat rare,Average Amount,Canada
+415,Christopher Morel (Felchlin),"Maranon Canyon, Fortunato No. 4",666,2011,0.68,Canada,3.75,Peru,117,somewhat rare,Average Amount,Canada
+416,Chuao Chocolatier,Choroni,445,2009,0.61,U.S.A.,3.0,Venezuela,738,most common,Light Amount,United States of America
+417,Chuao Chocolatier (Pralus),Chuao,486,2010,0.77,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+418,Claudio Corallo,Terreiro Velho P.,470,2010,0.735,Sao Tome,3.75,Sao Tome & Principe,4,extra rare,Average Amount,Sao Tome and Principe
+419,Claudio Corallo,Terreiro Velho P. w/ sugar crystals,209,2008,0.8,Sao Tome,3.0,Sao Tome & Principe,4,extra rare,High Amount,Sao Tome and Principe
+420,Claudio Corallo,Terreiro Velho P.,227,2008,0.75,Sao Tome,4.0,Sao Tome & Principe,4,extra rare,Average Amount,Sao Tome and Principe
+421,Claudio Corallo,Principe,252,2008,1.0,Sao Tome,1.0,Sao Tome & Principe,4,extra rare,High Amount,Sao Tome and Principe
+422,Cloudforest,"Camino Verde P., Balao, Guayas, 2014",1486,2015,0.73,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+423,Coleman & Davis,Sambirano,1646,2015,0.75,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+424,Compania de Chocolate (Salgado),Sur del Lago,579,2010,0.7,Argentina,3.25,Venezuela,9,extra rare,Average Amount,Argentina
+425,Compania de Chocolate (Salgado),Carenero Superior,292,2008,0.8,Argentina,2.75,Venezuela,9,extra rare,High Amount,Argentina
+426,Compania de Chocolate (Salgado),Moxos,292,2008,0.72,Argentina,3.25,Bolivia,9,extra rare,Average Amount,Argentina
+427,Compania de Chocolate (Salgado),Ocumare,292,2008,0.7,Argentina,3.75,Venezuela,9,extra rare,Average Amount,Argentina
+428,Compania de Chocolate (Salgado),Esmeraldas,296,2008,0.88,Argentina,2.75,Ecuador,9,extra rare,High Amount,Argentina
+429,Condor,Camino Verde,1630,2015,0.76,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+430,Confluence,"Tien Giang, 2015, batch 10-2-16",1916,2016,0.78,U.S.A.,2.75,Vietnam,738,most common,Average Amount,United States of America
+431,Coppeneur,"Ecuador, Puristique",1169,2013,0.65,Germany,3.25,Ecuador,35,rare,Average Amount,Germany
+432,Coppeneur,Ghana Puristique,813,2012,0.85,Germany,3.5,Ghana,35,rare,High Amount,Germany
+433,Coppeneur,Ecuador Puristique,817,2012,1.0,Germany,1.5,Ecuador,35,rare,High Amount,Germany
+434,Coppeneur,Uba Budo,821,2012,0.72,Germany,3.75,Sao Tome & Principe,35,rare,Average Amount,Germany
+435,Coppeneur,Madagascar,959,2012,0.7,Germany,3.5,Madagascar,35,rare,Average Amount,Germany
+436,Coppeneur,Grenada,470,2010,0.72,Germany,3.25,Grenada,35,rare,Average Amount,Germany
+437,Coppeneur,Chuao,478,2010,0.7,Germany,3.0,Venezuela,35,rare,Average Amount,Germany
+438,Coppeneur,"Los Rios, H. Iara",558,2010,0.72,Germany,2.5,Ecuador,35,rare,Average Amount,Germany
+439,Coppeneur,Trinidad,558,2010,0.72,Germany,3.0,Trinidad,35,rare,Average Amount,Germany
+440,Coppeneur,Jamaica,558,2010,0.72,Germany,3.25,Jamaica,35,rare,Average Amount,Germany
+441,Coppeneur,Ocumare 61,558,2010,0.72,Germany,3.25,Venezuela,35,rare,Average Amount,Germany
+442,Coppeneur,"Porcelana, Apotequil",341,2009,0.72,Germany,3.0,Peru,35,rare,Average Amount,Germany
+443,Coppeneur,"Porcelana, Apotequil",445,2009,0.62,Germany,3.25,Peru,35,rare,Light Amount,Germany
+444,Coppeneur,Chuao 100hr,451,2009,0.7,Germany,3.5,Venezuela,35,rare,Average Amount,Germany
+445,Coppeneur,Chuao 70hr,451,2009,0.7,Germany,3.75,Venezuela,35,rare,Average Amount,Germany
+446,Coppeneur,"Porcelana, Tabasco, Mexico",220,2008,0.72,Germany,3.0,Mexico,35,rare,Average Amount,Germany
+447,Coppeneur,"Porcelana, Venezuela",220,2008,0.72,Germany,3.0,Venezuela,35,rare,Average Amount,Germany
+448,Coppeneur,"Sambirano, Menava P.",196,2007,0.72,Germany,3.0,Madagascar,35,rare,Average Amount,Germany
+449,Cravve,New Ireland,1283,2014,0.7,Australia,2.5,Papua New Guinea,46,rare,Average Amount,Australia
+450,Cravve,"Vanuatu, batch 2410",1335,2014,0.83,Australia,2.75,Vanuatu,46,rare,High Amount,Australia
+451,Cravve,"Tanzania, batch a1",971,2012,0.75,Australia,3.25,Tanzania,46,rare,Average Amount,Australia
+452,Cravve,"Bahia, batch a1213",975,2012,0.65,Australia,3.25,Brazil,46,rare,Average Amount,Australia
+453,Cravve,"Namau Village, N. Taileva P., batch a2812",975,2012,0.67,Australia,3.25,Fiji,46,rare,Average Amount,Australia
+454,Cravve,Vanuatu,975,2012,0.64,Australia,3.25,Vanuatu,46,rare,Light Amount,Australia
+455,Cravve,Djual Island,975,2012,0.75,Australia,3.5,Papua New Guinea,46,rare,Average Amount,Australia
+456,Creo,"""heirloom"", Arriba Nacional",1736,2016,0.85,U.S.A.,3.25,Ecuador,738,most common,High Amount,United States of America
+457,Creo,"""heirloom"", Arriba Nacional",1736,2016,0.73,U.S.A.,3.75,Ecuador,738,most common,Average Amount,United States of America
+458,Daintree,Goodman Estate,1654,2015,0.7,Australia,2.75,Australia,46,rare,Average Amount,Australia
+459,Daintree,"Daintree Estates, N. Queensland",785,2011,0.7,Australia,3.25,Australia,46,rare,Average Amount,Australia
+460,Dalloway,"Dominican Republic, batch 7",1928,2017,0.72,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+461,Damson,Robson Estate,1610,2015,0.7,U.K.,3.0,Trinidad,95,somewhat rare,Average Amount,United Kingdom
+462,Damson,Los Rios,1610,2015,0.7,U.K.,3.5,Ecuador,95,somewhat rare,Average Amount,United Kingdom
+463,Damson,Crayfish Bay aka Non Pariel Estate,1666,2015,0.7,U.K.,2.25,Grenada,95,somewhat rare,Average Amount,United Kingdom
+464,Damson,O'Payo,1666,2015,0.7,U.K.,2.75,Nicaragua,95,somewhat rare,Average Amount,United Kingdom
+465,Dandelion,"Maya Mtn., Break Bar- Snark",1446,2015,0.7,U.S.A.,3.0,Belize,738,most common,Average Amount,United States of America
+466,Dandelion,Maya Mountain,1219,2014,0.7,U.S.A.,3.5,Belize,738,most common,Average Amount,United States of America
+467,Dandelion,"Camino Verde P., Balao, Guayas, 2013",1295,2014,0.7,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+468,Dandelion,Buto,1303,2014,0.7,U.S.A.,2.75,Liberia,738,most common,Average Amount,United States of America
+469,Dandelion,"San Francisco de Macoris, Cibao region",1387,2014,0.7,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+470,Dandelion,"Cumboto, farmer Jose Lugo",1026,2013,0.7,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+471,Dandelion,Patanemo,1026,2013,0.7,U.S.A.,3.25,Venezuela,738,most common,Average Amount,United States of America
+472,Dandelion,"Mantuano, 2012",1085,2013,0.7,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+473,Dandelion,Papua New Guinea,1153,2013,0.7,U.S.A.,3.5,Papua New Guinea,738,most common,Average Amount,United States of America
+474,Dandelion,Upala,805,2012,0.7,U.S.A.,3.0,Costa Rica,738,most common,Average Amount,United States of America
+475,Dandelion,Colombian,805,2012,0.7,U.S.A.,3.25,Colombia,738,most common,Average Amount,United States of America
+476,Dandelion,"Elvesia, 2011",915,2012,0.7,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+477,Dandelion,Dominican Republic,654,2011,0.7,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+478,Dandelion,Madagascar,654,2011,0.7,U.S.A.,3.25,Madagascar,738,most common,Average Amount,United States of America
+479,Dandelion,Tanzania,654,2011,0.7,U.S.A.,3.25,Tanzania,738,most common,Average Amount,United States of America
+480,Danta,Los Ujuxtes,1223,2014,0.82,Guatemala,3.25,Guatemala,10,extra rare,High Amount,Guatemala
+481,Danta,Chuao,987,2012,0.75,Guatemala,3.0,Venezuela,10,extra rare,Average Amount,Guatemala
+482,Danta,Los Ujuxtes,987,2012,0.7,Guatemala,3.75,Guatemala,10,extra rare,Average Amount,Guatemala
+483,Danta,Sambirano,987,2012,0.7,Guatemala,3.75,Madagascar,10,extra rare,Average Amount,Guatemala
+484,Danta,Las Acacias E.,987,2012,0.7,Guatemala,4.0,Guatemala,10,extra rare,Average Amount,Guatemala
+485,Danta,"Oscuro, Finca Chimelb",991,2012,0.7,Guatemala,3.25,Guatemala,10,extra rare,Average Amount,Guatemala
+486,Danta,Los Ujuxtes,661,2011,0.6,Guatemala,3.5,Guatemala,10,extra rare,Light Amount,Guatemala
+487,Danta,Las Acacias E.,423,2009,0.75,Guatemala,3.0,Guatemala,10,extra rare,Average Amount,Guatemala
+488,Danta,Las Acacias E.,423,2009,0.6,Guatemala,3.25,Guatemala,10,extra rare,Light Amount,Guatemala
+489,DAR,"Venezuela, batch 122",1920,2016,0.72,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+490,DAR,Vietnam,1920,2016,0.72,U.S.A.,3.0,Vietnam,738,most common,Average Amount,United States of America
+491,DAR,"DUO, batch 002",1920,2016,0.7,U.S.A.,3.25,"Ecuador, Costa Rica",738,most common,Average Amount,United States of America
+492,Dark Forest,Bolivia,1708,2016,0.75,U.S.A.,3.25,Bolivia,738,most common,Average Amount,United States of America
+493,Dark Forest,Madagascar,1550,2015,0.7,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+494,Dark Forest,Ocumare,1550,2015,0.7,U.S.A.,3.25,Venezuela,738,most common,Average Amount,United States of America
+495,Dark Forest,Tanzania,1554,2015,0.7,U.S.A.,3.0,Tanzania,738,most common,Average Amount,United States of America
+496,Dark Forest,Ecuador,1554,2015,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+497,Davis,Ghana,1093,2013,0.7,U.S.A.,2.5,Ghana,738,most common,Average Amount,United States of America
+498,Davis,Rainforest,1093,2013,0.7,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+499,Davis,Venezuela,1093,2013,0.7,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+500,Davis,West Africa,907,2012,0.58,U.S.A.,3.25,West Africa,738,most common,Light Amount,United States of America
+501,De Mendes,"Nativo, Varzea",1462,2015,0.72,Brazil,3.5,Brazil,17,extra rare,Average Amount,Brazil
+502,De Mendes,"Selvagem, Jari",1462,2015,0.65,Brazil,3.5,Brazil,17,extra rare,Average Amount,Brazil
+503,De Villiers,Bundibugyo District,1832,2016,0.7,South Africa,2.5,Uganda,3,extra rare,Average Amount,South Africa
+504,De Villiers,"Sambirano Valley, batch 2477",1832,2016,0.7,South Africa,3.0,Madagascar,3,extra rare,Average Amount,South Africa
+505,Dean and Deluca (Belcolade),Madagascar,170,2007,0.66,U.S.A.,2.5,Madagascar,738,most common,Average Amount,United States of America
+506,Dean and Deluca (Belcolade),Costa Rica,175,2007,0.64,U.S.A.,3.0,Costa Rica,738,most common,Light Amount,United States of America
+507,Dean and Deluca (Belcolade),Ecuador,175,2007,0.71,U.S.A.,3.0,Ecuador,738,most common,Average Amount,United States of America
+508,Dean and Deluca (Belcolade),Ghana,175,2007,0.6,U.S.A.,3.0,Ghana,738,most common,Light Amount,United States of America
+509,Dean and Deluca (Belcolade),Papua New Guinea,180,2007,0.64,U.S.A.,3.0,Papua New Guinea,738,most common,Light Amount,United States of America
+510,Dean and Deluca (Belcolade),Peru,180,2007,0.64,U.S.A.,3.0,Peru,738,most common,Light Amount,United States of America
+511,Debauve & Gallais (Michel Cluizel),Papua New Guinea,423,2009,0.64,France,3.0,Papua New Guinea,144,somewhat common,Light Amount,France
+512,Debauve & Gallais (Michel Cluizel),Venezuela,263,2008,0.66,France,3.75,Venezuela,144,somewhat common,Average Amount,France
+513,Desbarres,"Kilombero, batch 41",1916,2016,0.72,Canada,2.5,Tanzania,117,somewhat rare,Average Amount,Canada
+514,DeVries,Bolivian,241,2008,0.8,U.S.A.,2.75,Bolivia,738,most common,High Amount,United States of America
+515,DeVries,Costa Rica,166,2007,0.77,U.S.A.,3.5,Costa Rica,738,most common,Average Amount,United States of America
+516,DeVries,Dominican Republic,166,2007,0.77,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+517,Dick Taylor,Lanquin Estate,1952,2017,0.7,U.S.A.,3.75,Guatemala,738,most common,Average Amount,United States of America
+518,Dick Taylor,Tien Giang,1864,2016,0.78,U.S.A.,3.5,Vietnam,738,most common,Average Amount,United States of America
+519,Dick Taylor,"Alto Beni, Wild Harvest, Limited Ed.",1634,2015,0.7,U.S.A.,3.75,Bolivia,738,most common,Average Amount,United States of America
+520,Dick Taylor,Elvesia,1235,2014,0.74,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+521,Dick Taylor,"Ecuador, Choc. Garage Exclusive",1034,2013,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+522,Dick Taylor,Camino Verde,1193,2013,0.76,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+523,Dick Taylor,Bolivia,895,2012,0.75,U.S.A.,2.75,Bolivia,738,most common,Average Amount,United States of America
+524,Dick Taylor,Belize,955,2012,0.72,U.S.A.,2.75,Belize,738,most common,Average Amount,United States of America
+525,Dick Taylor,Sambirano,661,2011,0.8,U.S.A.,2.75,Madagascar,738,most common,High Amount,United States of America
+526,Dick Taylor,Sambirano,661,2011,0.72,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+527,Dick Taylor,Mantuano,682,2011,0.75,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+528,Dick Taylor,La Red,769,2011,0.74,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+529,Dick Taylor,Ecuador,769,2011,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+530,Doble & Bignall,Puerto Cabello,1688,2015,0.85,U.K.,3.0,Venezuela,95,somewhat rare,High Amount,United Kingdom
+531,Doble & Bignall,"Panama, Raven",1371,2014,0.72,U.K.,3.25,Panama,95,somewhat rare,Average Amount,United Kingdom
+532,Doble & Bignall,"Puerto Cabello, Mantuano",1371,2014,0.72,U.K.,3.25,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+533,Doble & Bignall,Johe,1407,2014,0.72,U.K.,3.5,Nicaragua,95,somewhat rare,Average Amount,United Kingdom
+534,Dole (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,0.7,U.S.A.,3.75,Hawaii,738,most common,Average Amount,United States of America
+535,Dolfin (Belcolade),Africa,304,2008,0.88,Belgium,3.0,West Africa,37,rare,High Amount,Belgium
+536,Domori,Hacienda Victoria,1672,2015,0.7,Italy,3.75,Ecuador,54,rare,Average Amount,Italy
+537,Domori,Ocumare 77,1672,2015,0.7,Italy,3.75,Venezuela,54,rare,Average Amount,Italy
+538,Domori,"IL100, H. San Jose",1109,2013,1.0,Italy,3.0,Venezuela,54,rare,High Amount,Italy
+539,Domori,Morogoro,863,2012,0.7,Italy,3.5,Tanzania,54,rare,Average Amount,Italy
+540,Domori,Guasare,863,2012,0.7,Italy,3.75,Venezuela,54,rare,Average Amount,Italy
+541,Domori,"Canoabo, Hacienda San Jose",693,2011,0.7,Italy,3.5,Venezuela,54,rare,Average Amount,Italy
+542,Domori,"Chuao, Hacienda San Jose",470,2010,0.7,Italy,3.0,Venezuela,54,rare,Average Amount,Italy
+543,Domori,"Carupano, H. San Jose",227,2008,0.7,Italy,3.0,Venezuela,54,rare,Average Amount,Italy
+544,Domori,Teyuna,272,2008,0.7,Italy,3.0,Colombia,54,rare,Average Amount,Italy
+545,Domori,Porcelana,111,2007,0.7,Italy,4.0,Venezuela,54,rare,Average Amount,Italy
+546,Domori,"Ocumare 61, Puertomar",129,2007,0.75,Italy,3.25,Venezuela,54,rare,Average Amount,Italy
+547,Domori,Granella,135,2007,0.6,Italy,3.25,Venezuela,54,rare,Light Amount,Italy
+548,Domori,Madagascar,135,2007,0.7,Italy,3.5,Madagascar,54,rare,Average Amount,Italy
+549,Domori,Madagared,192,2007,0.7,Italy,3.5,Madagascar,54,rare,Average Amount,Italy
+550,Domori,"Java, Javablond",192,2007,0.7,Italy,3.75,Indonesia,54,rare,Average Amount,Italy
+551,Domori,Ecuador,192,2007,0.7,Italy,4.0,Ecuador,54,rare,Average Amount,Italy
+552,Domori,"Ocumare 67, Puertofino",192,2007,0.7,Italy,4.0,Venezuela,54,rare,Average Amount,Italy
+553,Domori,Sur del Lago Classificado,87,2006,0.7,Italy,3.0,Venezuela,54,rare,Average Amount,Italy
+554,Domori,Apurimac,87,2006,0.7,Italy,3.25,Peru,54,rare,Average Amount,Italy
+555,Domori,Carenero Superior,87,2006,0.7,Italy,3.5,Venezuela,54,rare,Average Amount,Italy
+556,Dormouse,Non Pariel Estate,1880,2016,0.75,U.K.,2.75,Grenada,95,somewhat rare,Average Amount,United Kingdom
+557,Dormouse,"Rio Caribe, Batch 7",1672,2015,0.7,U.K.,2.5,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+558,Dormouse,"Colombia, Batch 9",1676,2015,0.8,U.K.,2.75,Colombia,95,somewhat rare,High Amount,United Kingdom
+559,Dormouse,"Madagascar, Batch 8",1676,2015,0.77,U.K.,2.75,Madagascar,95,somewhat rare,Average Amount,United Kingdom
+560,Duffy's,"Rio Dulce, Xoco",1662,2015,0.7,U.K.,4.0,Guatemala,95,somewhat rare,Average Amount,United Kingdom
+561,Duffy's,"Chuno, Xoco",1331,2014,0.7,U.K.,3.5,Nicaragua,95,somewhat rare,Average Amount,United Kingdom
+562,Duffy's,"Rico Rugoso, Xoco",1331,2014,0.76,U.K.,3.75,Nicaragua,95,somewhat rare,Average Amount,United Kingdom
+563,Duffy's,Ocumare,923,2012,0.72,U.K.,3.75,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+564,Duffy's,"Indio Rojo, Xoco",623,2011,0.72,U.K.,3.75,Honduras,95,somewhat rare,Average Amount,United Kingdom
+565,Duffy's,Dominican Republic,661,2011,0.65,U.K.,3.5,Dominican Republic,95,somewhat rare,Average Amount,United Kingdom
+566,Duffy's,"Bocas del Toro, Tierra Oscura",697,2011,0.72,U.K.,3.0,Panama,95,somewhat rare,Average Amount,United Kingdom
+567,Duffy's,"Nicaliso, Xoco",697,2011,0.71,U.K.,3.25,Nicaragua,95,somewhat rare,Average Amount,United Kingdom
+568,Duffy's,Ocumare,765,2011,0.71,U.K.,3.5,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+569,Duffy's,Panama,516,2010,0.7,U.K.,3.5,Panama,95,somewhat rare,Average Amount,United Kingdom
+570,Duffy's,"Corazon del Ecuador, Calceta beans",516,2010,0.72,U.K.,3.75,Ecuador,95,somewhat rare,Average Amount,United Kingdom
+571,Duffy's,Star of Ecuador,523,2010,0.7,U.K.,2.5,Ecuador,95,somewhat rare,Average Amount,United Kingdom
+572,Duffy's,Star of Peru,523,2010,0.7,U.K.,3.75,Peru,95,somewhat rare,Average Amount,United Kingdom
+573,Dulcinea,Dominican Republic,1506,2015,0.7,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+574,Durand,Madagascar,841,2012,0.82,France,2.75,Madagascar,144,somewhat common,High Amount,France
+575,Durci,"Maranon, Joya Rara",1626,2015,0.7,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+576,Durci,"Rio Caribe, Tepui Treasure",1626,2015,0.7,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+577,Durci,Taino Secret,1630,2015,0.7,U.S.A.,3.25,Domincan Republic,738,most common,Average Amount,United States of America
+578,Durci,"Carenero, Empyrean Sabor",1630,2015,0.7,U.S.A.,3.25,Venezuela,738,most common,Average Amount,United States of America
+579,Durci,Corona Arriba,1630,2015,0.7,U.S.A.,4.0,Ecuador,738,most common,Average Amount,United States of America
+580,East Van Roasters,Peru,1343,2014,0.7,Canada,3.25,Peru,117,somewhat rare,Average Amount,Canada
+581,East Van Roasters,Madagascar,1343,2014,0.7,Canada,3.5,Madagascar,117,somewhat rare,Average Amount,Canada
+582,East Van Roasters,Dominican Republic,1343,2014,0.7,Canada,3.75,Dominican Republic,117,somewhat rare,Average Amount,Canada
+583,Eau de Rose,Tumaco,1812,2016,0.7,Canada,3.25,Colombia,117,somewhat rare,Average Amount,Canada
+584,Eau de Rose,Arauca,1812,2016,0.7,Canada,3.25,Colombia,117,somewhat rare,Average Amount,Canada
+585,Eclat (Felchlin),"Maranon, Good & Evil, w/ nibs",919,2012,0.72,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+586,Edelmond,Porcelana,1876,2016,0.68,Germany,3.0,Venezuela,35,rare,Average Amount,Germany
+587,El Ceibo,"Alto Beni, Covendo Region",709,2011,0.75,Bolivia,3.75,Bolivia,2,extra rare,Average Amount,Bolivia
+588,El Ceibo,Alto Beni,252,2008,0.71,Bolivia,2.75,Bolivia,2,extra rare,Average Amount,Bolivia
+589,El Rey,San Joaquin,1662,2015,0.7,Venezuela,3.75,Venezuela,20,extra rare,Average Amount,Venezuela
+590,El Rey,"Rio Caribe, Cariaco",439,2009,0.605,Venezuela,2.75,Venezuela,20,extra rare,Light Amount,Venezuela
+591,El Rey,"Rio Caribe, Macuro",439,2009,0.7,Venezuela,3.0,Venezuela,20,extra rare,Average Amount,Venezuela
+592,El Rey,"Carenero Superior, Apamate",206,2008,0.74,Venezuela,2.5,Venezuela,20,extra rare,Average Amount,Venezuela
+593,El Rey,"Carenero Superior, Bucare",206,2008,0.58,Venezuela,2.5,Venezuela,20,extra rare,Light Amount,Venezuela
+594,El Rey,"Carenero Superior, Mijao",206,2008,0.61,Venezuela,3.0,Venezuela,20,extra rare,Light Amount,Venezuela
+595,El Rey,"Carenero Superior, Gran Saman",32,2006,0.7,Venezuela,2.75,Venezuela,20,extra rare,Average Amount,Venezuela
+598,Emily's,Patanemo,1450,2015,0.79,Japan,3.0,Venezuela,17,extra rare,Average Amount,Japan
+599,Emily's,Peru,1454,2015,0.78,Japan,3.5,Peru,17,extra rare,Average Amount,Japan
+600,ENNA,"Wampusirpi, batch 007",1916,2016,0.75,U.S.A.,3.25,Honduras,738,most common,Average Amount,United States of America
+601,Enric Rovira (Claudio Corallo),Terreiro Velho P.,565,2010,0.8,Spain,3.25,Sao Tome & Principe,21,extra rare,High Amount,Spain
+602,Erithaj (A. Morin),Ben Tre,1205,2014,0.7,France,3.25,Vietnam,144,somewhat common,Average Amount,France
+603,Erithaj (A. Morin),Ham Luong,1209,2014,0.8,France,3.0,Vietnam,144,somewhat common,High Amount,France
+604,Erithaj (A. Morin),Ba Lai,1209,2014,0.74,France,3.25,Vietnam,144,somewhat common,Average Amount,France
+605,Escazu,Rio Caribe,903,2012,0.7,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+606,Escazu,Guapiles,414,2009,0.65,U.S.A.,2.0,Costa Rica,738,most common,Average Amount,United States of America
+607,Escazu,Carenero Superior,423,2009,0.81,U.S.A.,3.5,Venezuela,738,most common,High Amount,United States of America
+608,Escazu,"Carenero, Guapiles, Ocumare blend",431,2009,0.74,U.S.A.,2.75,"Cost Rica, Ven",738,most common,Average Amount,United States of America
+609,Escazu,Ocumare,252,2008,0.72,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+610,Ethel's Artisan (Mars),"Peru, Madagascar",666,2011,0.55,U.S.A.,2.5,"Peru, Madagascar",738,most common,Light Amount,United States of America
+611,Ethel's Artisan (Mars),Trinidad,666,2011,0.55,U.S.A.,2.5,Trinidad,738,most common,Light Amount,United States of America
+612,Ethel's Artisan (Mars),Porcelana,666,2011,0.7,U.S.A.,2.5,Venezuela,738,most common,Average Amount,United States of America
+613,Ethel's Artisan (Mars),"Venezuela, Trinidad",672,2011,0.62,U.S.A.,2.5,"Venezuela, Trinidad",738,most common,Light Amount,United States of America
+614,Ethereal,Belize,1275,2014,0.8,U.S.A.,3.0,Belize,738,most common,High Amount,United States of America
+615,Ethereal,Ecuador,1275,2014,0.8,U.S.A.,3.5,Ecuador,738,most common,High Amount,United States of America
+616,Ethereal,Dominican Republic,1275,2014,0.8,U.S.A.,3.75,Dominican Republic,738,most common,High Amount,United States of America
+617,Fearless (AMMA),"Monte Alegre, D. Badaro, Raw, Organic",565,2010,0.75,U.S.A.,2.75,Brazil,738,most common,Average Amount,United States of America
+618,Feitoria Cacao,Blue Mountain,1732,2016,0.76,Portugal,3.0,Jamaica,3,extra rare,Average Amount,Portugal
+619,Feitoria Cacao,Cuyagua,1736,2016,0.76,Portugal,2.5,Venezuela,3,extra rare,Average Amount,Portugal
+620,Feitoria Cacao,Maya Mountain,1736,2016,0.76,Portugal,2.75,Belize,3,extra rare,Average Amount,Portugal
+621,Felchlin,Grenada,494,2010,0.58,Switzerland,3.5,Grenada,35,rare,Light Amount,Switzerland
+622,Felchlin,Elvesia P.,105,2006,0.74,Switzerland,3.0,Dominican Republic,35,rare,Average Amount,Switzerland
+623,Felchlin,"Madagascar, Grand Cru",48,2006,0.64,Switzerland,3.0,Madagascar,35,rare,Light Amount,Switzerland
+624,Felchlin,Maracaibo Clasificado,48,2006,0.65,Switzerland,3.0,Venezuela,35,rare,Average Amount,Switzerland
+625,Felchlin,Arriba,48,2006,0.72,Switzerland,3.5,Ecuador,35,rare,Average Amount,Switzerland
+626,Felchlin,"Alto Beni, Cru Savage",56,2006,0.68,Switzerland,4.0,Bolivia,35,rare,Average Amount,Switzerland
+627,Finca,Puerto Rico,1283,2014,0.65,U.S.A.,2.25,Puerto Rico,738,most common,Average Amount,United States of America
+628,Finca,Dominican Republic,1283,2014,0.8,U.S.A.,3.0,Dominican Republic,738,most common,High Amount,United States of America
+629,Finca,Dominican Republic,1283,2014,0.7,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+630,Finca,Dominican Republic,1287,2014,0.85,U.S.A.,2.5,Dominican Republic,738,most common,High Amount,United States of America
+631,Forever Cacao,Rio Eni,1267,2014,0.72,U.K.,2.75,Peru,95,somewhat rare,Average Amount,United Kingdom
+632,Forteza (Cortes),Dominican Republic,1776,2016,0.7,Puerto Rico,2.75,Domincan Republic,4,extra rare,Average Amount,Puerto Rico
+633,Forteza (Cortes),Puerto Rico,1776,2016,0.8,Puerto Rico,2.75,Domincan Republic,4,extra rare,High Amount,Puerto Rico
+634,Fossa,"Akesson's E., Sambirano V.",1772,2016,0.7,Singapore,2.75,Madagascar,3,extra rare,Average Amount,Singapore
+635,Fossa,"Camino Verde P., Balao, Guayas",1776,2016,0.75,Singapore,3.5,Ecuador,3,extra rare,Average Amount,Singapore
+636,Fossa,"Kokoa Kamili Coop, Kilombero",1776,2016,0.67,Singapore,3.75,Tanzania,3,extra rare,Average Amount,Singapore
+637,Franceschi,Choroni,1355,2014,0.7,Venezuela,3.5,Venezuela,20,extra rare,Average Amount,Venezuela
+638,Franceschi,Ocumare,1355,2014,0.7,Venezuela,3.75,Venezuela,20,extra rare,Average Amount,Venezuela
+639,Franceschi,Canoabo,911,2012,0.7,Venezuela,3.75,Venezuela,20,extra rare,Average Amount,Venezuela
+640,Franceschi,Sur del Lago,915,2012,0.6,Venezuela,3.5,Venezuela,20,extra rare,Light Amount,Venezuela
+641,Frederic Blondeel,Costa Rica,1538,2015,0.7,Belgium,3.5,Costa Rica,37,rare,Average Amount,Belgium
+642,Frederic Blondeel,Peru Brutus,1538,2015,0.75,Belgium,3.5,Peru,37,rare,Average Amount,Belgium
+643,Frederic Blondeel,Vietnam,1542,2015,0.8,Belgium,3.0,Vietnam,37,rare,High Amount,Belgium
+644,Frederic Blondeel,Ghana,1351,2014,0.6,Belgium,3.5,Ghana,37,rare,Light Amount,Belgium
+645,Frederic Blondeel,Madagascar,1351,2014,0.65,Belgium,3.5,Madagascar,37,rare,Average Amount,Belgium
+646,French Broad,"Norandino, batch 161208",1940,2017,0.7,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+647,French Broad,Guatemala,1634,2015,0.73,U.S.A.,3.5,Guatemala,738,most common,Average Amount,United States of America
+648,French Broad,San Andres,1209,2014,0.8,U.S.A.,3.0,Costa Rica,738,most common,High Amount,United States of America
+649,French Broad,Matagalpa,1295,2014,0.68,U.S.A.,3.25,Nicaragua,738,most common,Average Amount,United States of America
+650,French Broad,"Palo Blanco, Chulucanas",1042,2013,0.66,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+651,French Broad,Tumbes Coop,883,2012,0.7,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+652,French Broad,"Palo Blanco, Chulucanas",883,2012,0.61,U.S.A.,3.5,Peru,738,most common,Light Amount,United States of America
+653,French Broad,"Palo Blanco w/ panela, Chulucanas",887,2012,0.81,U.S.A.,2.0,Peru,738,most common,High Amount,United States of America
+654,French Broad,"Maranon Canyon, Fortunato No. 4",781,2011,0.7,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+655,French Broad,La Red,785,2011,0.65,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+656,Fresco,"Maranon, #228, MR, SC",1383,2014,0.7,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+657,Fresco,"Maranon, #227, LR, MC",1383,2014,0.7,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+658,Fresco,"Maranon, #229, MR, LC",1383,2014,0.7,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+659,Fresco,"Maranon, #230, DR, LC",1387,2014,0.7,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+660,Fresco,"Conacado, #223, MR, SC",1030,2013,0.72,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+661,Fresco,"Conacado, #224, MR, MC",1081,2013,0.72,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+662,Fresco,"San Martin, Bellavista Coop, #226, DR, MC",1117,2013,0.7,U.S.A.,3.75,Peru,738,most common,Average Amount,United States of America
+663,Fresco,"Bellavista Coop, #225, LR, MC, CG Exclusive",1149,2013,0.7,U.S.A.,4.0,Peru,738,most common,Average Amount,United States of America
+664,Fresco,"Markham Valley, #219, LR, MC",899,2012,0.69,U.S.A.,3.5,Papua New Guinea,738,most common,Average Amount,United States of America
+665,Fresco,"Markham Valley, #221, DR, MC",899,2012,0.69,U.S.A.,3.5,Papua New Guinea,738,most common,Average Amount,United States of America
+666,Fresco,"Sambirano Valley, #216, MR, LC",915,2012,0.74,U.S.A.,4.0,Madagascar,738,most common,Average Amount,United States of America
+667,Fresco,"Markham Valley, #220, MR, MC",927,2012,0.69,U.S.A.,4.0,Papua New Guinea,738,most common,Average Amount,United States of America
+668,Fresco,"Markham Valley, #222, LR, 0C",931,2012,0.69,U.S.A.,3.0,Papua New Guinea,738,most common,Average Amount,United States of America
+669,Fresco,"Ghana, #211, MR, MC",636,2011,0.74,U.S.A.,2.75,Ghana,738,most common,Average Amount,United States of America
+670,Fresco,"Jamaica, #209, DR, SC",642,2011,0.7,U.S.A.,3.25,Jamaica,738,most common,Average Amount,United States of America
+671,Fresco,"Conacado, #212, LR, SC",642,2011,0.72,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+672,Fresco,"Jamaica, #210, DR, MC",642,2011,0.7,U.S.A.,3.5,Jamaica,738,most common,Average Amount,United States of America
+673,Fresco,"Sambirano Valley, #214, LR, MC",682,2011,0.74,U.S.A.,2.75,Madagascar,738,most common,Average Amount,United States of America
+674,Fresco,"Conacado, #213, DR, -C",682,2011,0.72,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+675,Fresco,"Sambirano Valley, #215, MR, MC",688,2011,0.74,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+676,Fresco,"Chuao, #218, MR, MC",745,2011,0.76,U.S.A.,3.25,Venezuela,738,most common,Average Amount,United States of America
+677,Fresco,"Chuao, #217, DR, MC",745,2011,0.7,U.S.A.,4.0,Venezuela,738,most common,Average Amount,United States of America
+678,Fresco,"Jamaica, #204, DR, SC",370,2009,0.8,U.S.A.,2.75,Jamaica,738,most common,High Amount,United States of America
+679,Fresco,"Jamaica, #206, DR, LC",370,2009,0.7,U.S.A.,3.0,Jamaica,738,most common,Average Amount,United States of America
+680,Fresco,"Jamaica, #205, DR, MC",370,2009,0.7,U.S.A.,3.25,Jamaica,738,most common,Average Amount,United States of America
+681,Fresco,"Carenero Superior, #203, MR, SC",370,2009,0.65,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+682,Friis Holm,"Rugoso, Bad Fermentation",1912,2016,0.7,Denmark,3.5,Nicaragua,15,extra rare,Average Amount,Denmark
+683,Friis Holm (Bonnat),La Dalia,1680,2015,0.6,Denmark,3.0,Nicaragua,15,extra rare,Light Amount,Denmark
+684,Friis Holm (Bonnat),La Dalia,1680,2015,0.85,Denmark,3.25,Nicaragua,15,extra rare,High Amount,Denmark
+685,Friis Holm (Bonnat),La Dalia,1259,2014,0.7,Denmark,3.5,Nicaragua,15,extra rare,Average Amount,Denmark
+686,Friis Holm (Bonnat),"Barba, Xoco",1034,2013,0.7,Denmark,3.25,Nicaragua,15,extra rare,Average Amount,Denmark
+687,Friis Holm (Bonnat),"Medagla, Xoco",1034,2013,0.7,Denmark,3.5,Nicaragua,15,extra rare,Average Amount,Denmark
+688,Friis Holm (Bonnat),"Chuno, triple turned, Xoco",895,2012,0.7,Denmark,3.25,Nicaragua,15,extra rare,Average Amount,Denmark
+689,Friis Holm (Bonnat),"Red Mayan, Xoco",899,2012,0.7,Denmark,3.25,Honduras,15,extra rare,Average Amount,Denmark
+690,Friis Holm (Bonnat),"Chuno, double turned, Xoco",899,2012,0.7,Denmark,3.25,Nicaragua,15,extra rare,Average Amount,Denmark
+691,Friis Holm (Bonnat),"Rugoso, Xoco",923,2012,0.7,Denmark,3.75,Nicaragua,15,extra rare,Average Amount,Denmark
+692,Friis Holm (Bonnat),"Johe, Xoco",623,2011,0.7,Denmark,3.25,Nicaragua,15,extra rare,Average Amount,Denmark
+693,Friis Holm (Bonnat),"Chuno, Xoco",623,2011,0.7,Denmark,3.5,Nicaragua,15,extra rare,Average Amount,Denmark
+694,Friis Holm (Bonnat),"Nicaliso, Xoco",623,2011,0.7,Denmark,3.5,Nicaragua,15,extra rare,Average Amount,Denmark
+695,Fruition,"Wild Bolivian, Batch 2",1780,2016,0.74,U.S.A.,3.75,Bolivia,738,most common,Average Amount,United States of America
+696,Fruition,"Coto Brus, Heirloom, Batch 1",1780,2016,0.74,U.S.A.,4.0,Costa Rica,738,most common,Average Amount,United States of America
+697,Fruition,Gran Couva,1347,2014,0.7,U.S.A.,3.75,Trinidad,738,most common,Average Amount,United States of America
+698,Fruition,Maranon,1359,2014,0.76,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+699,Fruition,La Red,1046,2013,0.7,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+700,Fruition,Camino Verde,1185,2013,0.75,U.S.A.,3.0,Ecuador,738,most common,Average Amount,United States of America
+701,Fruition,Peru,863,2012,0.7,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+702,Fruition,Signature Blend,753,2011,0.66,U.S.A.,3.25,Costa Rica,738,most common,Average Amount,United States of America
+703,Fruition,Costa Rica,781,2011,0.7,U.S.A.,3.0,Costa Rica,738,most common,Average Amount,United States of America
+704,Garden Island,"Kaua'I, Alea Estate +world",1367,2014,0.85,U.S.A.,2.5,Hawaii,738,most common,High Amount,United States of America
+705,Georgia Ramon,Akesson P.,1642,2015,0.65,Germany,3.25,Madagascar,35,rare,Average Amount,Germany
+706,Georgia Ramon,ABOCFA Coop,1642,2015,0.7,Germany,4.0,Ghana,35,rare,Average Amount,Germany
+707,Georgia Ramon,Conacado Coop,1646,2015,0.7,Germany,3.5,Domincan Republic,35,rare,Average Amount,Germany
+708,Georgia Ramon,Conacado Coop,1646,2015,0.8,Germany,3.5,Domincan Republic,35,rare,High Amount,Germany
+709,Georgia Ramon,Akesson P.,1646,2015,0.75,Germany,3.5,Madagascar,35,rare,Average Amount,Germany
+710,Glennmade,"Toledo District, 2015 Harvest",1848,2016,0.7,U.S.A.,3.5,Belize,738,most common,Average Amount,United States of America
+711,Glennmade,Bahia,1672,2015,0.66,U.S.A.,3.0,Brazil,738,most common,Average Amount,United States of America
+712,Goodnow Farms,"Almendra Blanca, batch 1004",1924,2016,0.77,U.S.A.,2.75,Mexico,738,most common,Average Amount,United States of America
+713,Goodnow Farms,"El Carmen, batch 1003",1924,2016,0.77,U.S.A.,3.25,Nicaragua,738,most common,Average Amount,United States of America
+714,Goodnow Farms,"Asochivite, batch 1005",1924,2016,0.77,U.S.A.,3.25,Guatemala,738,most common,Average Amount,United States of America
+715,Grand Place,"Ben Tre, Dong Nai",741,2011,0.72,Vietnam,3.0,Vietnam,11,extra rare,Average Amount,Vietnam
+716,Green Bean to Bar,Madagascar,1896,2016,0.7,Japan,3.5,Madagascar,17,extra rare,Average Amount,Japan
+717,Grenada Chocolate Co.,Grenada,494,2010,0.82,Grenada,3.25,Grenada,3,extra rare,High Amount,Grenada
+718,Grenada Chocolate Co.,Grenada,363,2009,0.6,Grenada,2.75,Grenada,3,extra rare,Light Amount,Grenada
+719,Grenada Chocolate Co.,Grenada,241,2008,0.71,Grenada,2.5,Grenada,3,extra rare,Average Amount,Grenada
+720,Guido Castagna,Arriba,355,2009,0.64,Italy,3.0,Ecuador,54,rare,Light Amount,Italy
+721,Guido Castagna,Ghana,355,2009,0.64,Italy,3.0,Ghana,54,rare,Light Amount,Italy
+722,Guido Castagna,Trinidad & Tobago,355,2009,0.64,Italy,3.0,"Trinidad, Tobago",54,rare,Light Amount,Italy
+723,Guido Castagna,Lacri Blend,355,2009,0.76,Italy,3.0,Venezuela,54,rare,Average Amount,Italy
+724,Guido Castagna,Blend,355,2009,0.64,Italy,3.25,"Ven, Trinidad, Ecuador",54,rare,Light Amount,Italy
+725,Guittard,Haiti,1053,2013,0.65,U.S.A.,2.75,Haiti,738,most common,Average Amount,United States of America
+726,Guittard,Nicaragua,1053,2013,0.65,U.S.A.,2.75,Nicaragua,738,most common,Average Amount,United States of America
+727,Guittard,Jamaica,1053,2013,0.65,U.S.A.,3.25,Jamaica,738,most common,Average Amount,United States of America
+728,Guittard,Ecuador,1053,2013,0.65,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+729,Guittard,Trinidad,552,2010,0.65,U.S.A.,3.0,Trinidad,738,most common,Average Amount,United States of America
+730,Guittard,"O'ahu, N. Shore, Waialua E., Kakoleka",316,2009,0.55,U.S.A.,3.0,Hawaii,738,most common,Light Amount,United States of America
+731,Guittard,Machu Pichu,259,2008,0.65,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+732,Guittard,Ocumare,276,2008,0.65,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+733,Guittard,Chucuri,15,2006,0.65,U.S.A.,3.0,Colombia,738,most common,Average Amount,United States of America
+734,Guittard,Sur del Lago,87,2006,0.65,U.S.A.,2.5,Venezuela,738,most common,Average Amount,United States of America
+735,Guittard,"Sambirano, Ambanja",87,2006,0.65,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+736,Guittard,"Los Rios, Quevedo",93,2006,0.65,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+737,Habitual,Papua New Guinea,1197,2014,0.8,Canada,2.75,Papua New Guinea,117,somewhat rare,High Amount,Canada
+738,Habitual,Dominican Republic,1197,2014,0.75,Canada,3.25,Dominican Republic,117,somewhat rare,Average Amount,Canada
+739,Habitual,Sharkey,1201,2014,0.66,Canada,3.25,Hawaii,117,somewhat rare,Average Amount,Canada
+740,Hachez,Arriba,166,2007,0.77,Germany,2.5,Ecuador,35,rare,Average Amount,Germany
+741,Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,0.55,Ecuador,2.75,Ecuador,54,rare,Light Amount,Ecuador
+742,Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,0.7,Ecuador,3.0,Ecuador,54,rare,Average Amount,Ecuador
+743,Haigh,South America and Africa,701,2011,0.7,Australia,3.0,"South America, Africa",46,rare,Average Amount,Australia
+744,Harper Macaw,"Vale do Juliana, w/ nibs",1808,2016,0.85,U.S.A.,3.25,Brazil,738,most common,High Amount,United States of America
+745,Harper Macaw,Brazil Blend,1696,2015,0.67,U.S.A.,3.0,Brazil,738,most common,Average Amount,United States of America
+746,Harper Macaw,"Tome Acu E., Amazon Rainforest",1700,2015,0.77,U.S.A.,3.5,Brazil,738,most common,Average Amount,United States of America
+747,Harper Macaw,"Vale do Juliana E., Atlantic Forest",1700,2015,0.74,U.S.A.,3.5,Brazil,738,most common,Average Amount,United States of America
+748,Heilemann,Peru,1876,2016,0.64,Germany,2.75,Peru,35,rare,Light Amount,Germany
+749,Heirloom Cacao Preservation (Brasstown),"Maya Mtn, Moho R., Toledo D., 2015",1748,2016,0.7,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+750,Heirloom Cacao Preservation (Fruition),"Cota Brus, Terciopelo, 2015",1748,2016,0.74,U.S.A.,3.5,Costa Rica,738,most common,Average Amount,United States of America
+751,Heirloom Cacao Preservation (Guittard),"Alto Beni, Upper Rio Beni, 2014",1239,2014,0.67,U.S.A.,3.5,Bolivia,738,most common,Average Amount,United States of America
+752,Heirloom Cacao Preservation (Guittard),"Wild Beni, Lower Rio Beni, Tranquilidad, 2014",1243,2014,0.67,U.S.A.,3.0,Bolivia,738,most common,Average Amount,United States of America
+753,Heirloom Cacao Preservation (Guittard),"Los Rios, Hacienda Limon, Orecao, 2014",1243,2014,0.67,U.S.A.,3.75,Ecuador,738,most common,Average Amount,United States of America
+754,Heirloom Cacao Preservation (Guittard),"Maunawili, O'ahu, Agri Research C., 2014",1243,2014,0.67,U.S.A.,3.75,Hawaii,738,most common,Average Amount,United States of America
+755,Heirloom Cacao Preservation (Manoa),"Maunawili, O'ahu, Agri Research C., 2015",1744,2016,0.72,U.S.A.,3.5,Hawaii,738,most common,Average Amount,United States of America
+756,Heirloom Cacao Preservation (Millcreek),"Los Rios, Hacienda Limon, Orecao, 2015",1744,2016,0.7,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+757,Heirloom Cacao Preservation (Mindo),"Pinchincha, Mindo, Coop Nueva Esper., 2015",1748,2016,0.77,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+758,Heirloom Cacao Preservation (Zokoko),"Alto Beni, Upper Rio Beni, 2015",1744,2016,0.68,U.S.A.,3.75,Bolivia,738,most common,Average Amount,United States of America
+759,Heirloom Cacao Preservation (Zokoko),"Wild Beni, Lower Rio Beni, Tranquilidad, 2015",1744,2016,0.72,U.S.A.,4.0,Bolivia,738,most common,Average Amount,United States of America
+760,hello cocoa,Uganda,1458,2015,0.57,U.S.A.,2.75,Uganda,738,most common,Light Amount,United States of America
+761,hello cocoa,Venezuela,1462,2015,0.74,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+762,hexx,Tanzania,1546,2015,0.7,U.S.A.,2.75,Tanzania,738,most common,Average Amount,United States of America
+763,hexx,Madagascar,1546,2015,0.74,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+764,hexx,Venezuela,1546,2015,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+765,hexx,Ecuador,1550,2015,0.73,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+766,hexx,Peru,1550,2015,0.7,U.S.A.,3.25,Peru,738,most common,Average Amount,United States of America
+767,Hogarth,Akesson's Estate,1712,2016,0.7,New Zealand,2.75,Madagascar,17,extra rare,Average Amount,New Zealand
+768,Hogarth,Carenero Superior,1712,2016,0.72,New Zealand,2.75,Venezuela,17,extra rare,Average Amount,New Zealand
+769,Hogarth,Conacado,1712,2016,0.75,New Zealand,3.25,Domincan Republic,17,extra rare,Average Amount,New Zealand
+770,Hogarth,Gran Blanco,1712,2016,0.66,New Zealand,3.5,Peru,17,extra rare,Average Amount,New Zealand
+771,Hoja Verde (Tulicorp),Arriba,414,2009,0.8,Ecuador,2.0,Ecuador,54,rare,High Amount,Ecuador
+772,Hoja Verde (Tulicorp),Manabi,414,2009,0.8,Ecuador,2.5,Ecuador,54,rare,High Amount,Ecuador
+773,Hoja Verde (Tulicorp),Arriba,414,2009,0.72,Ecuador,3.0,Ecuador,54,rare,Average Amount,Ecuador
+774,Hoja Verde (Tulicorp),Arriba,414,2009,0.58,Ecuador,3.25,Ecuador,54,rare,Light Amount,Ecuador
+775,Hoja Verde (Tulicorp),Manabi,414,2009,0.58,Ecuador,3.5,Ecuador,54,rare,Light Amount,Ecuador
+776,Holy Cacao,Maranon,1872,2016,0.7,Israel,2.75,Peru,9,extra rare,Average Amount,Israel
+777,Holy Cacao,"Camino Verde P., Balao, Guayas",1466,2015,0.7,Israel,3.5,Ecuador,9,extra rare,Average Amount,Israel
+778,Holy Cacao,Sambirano,1466,2015,0.7,Israel,3.5,Madagascar,9,extra rare,Average Amount,Israel
+779,Holy Cacao,Gran Couva,1466,2015,0.7,Israel,3.5,Trinidad,9,extra rare,Average Amount,Israel
+780,Holy Cacao,Mara,1466,2015,0.7,Israel,3.5,Venezuela,9,extra rare,Average Amount,Israel
+781,Holy Cacao,Ivory Coast,431,2009,0.7,Israel,2.5,Ivory Coast,9,extra rare,Average Amount,Israel
+782,Holy Cacao,Hispaniola,431,2009,0.7,Israel,2.75,Dominican Republic,9,extra rare,Average Amount,Israel
+783,Holy Cacao,San Martin,431,2009,0.7,Israel,3.5,Peru,9,extra rare,Average Amount,Israel
+784,Holy Cacao,Hispaniola w/ nibs,431,2009,0.75,Israel,3.75,Dominican Republic,9,extra rare,Average Amount,Israel
+785,Honest,"Ecuador, w/ nibs",1327,2014,0.72,South Africa,2.5,Ecuador,3,extra rare,Average Amount,South Africa
+786,Hotel Chocolat,"Pepiniere, single Cote",1654,2015,0.7,U.K.,2.75,St. Lucia,95,somewhat rare,Average Amount,United Kingdom
+787,Hotel Chocolat,"Marcial, single Cote, 2012",1030,2013,0.7,U.K.,4.0,St. Lucia,95,somewhat rare,Average Amount,United Kingdom
+788,Hotel Chocolat,"Island Growers, 2012, 120hr c.",1113,2013,1.0,U.K.,1.75,St. Lucia,95,somewhat rare,High Amount,United Kingdom
+789,Hotel Chocolat (Coppeneur),Trinidad,1038,2013,0.75,U.K.,3.0,Trinidad,95,somewhat rare,Average Amount,United Kingdom
+790,Hotel Chocolat (Coppeneur),Mekong Delta & Dong Nai,1038,2013,0.8,U.K.,3.5,Vietnam,95,somewhat rare,High Amount,United Kingdom
+791,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara",1065,2013,0.9,U.K.,3.0,Ecuador,95,somewhat rare,High Amount,United Kingdom
+792,Hotel Chocolat (Coppeneur),"Somia Plantation, Akesson, 2012",1065,2013,0.72,U.K.,3.0,Madagascar,95,somewhat rare,Average Amount,United Kingdom
+793,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 2012",1065,2013,0.82,U.K.,3.5,Ecuador,95,somewhat rare,High Amount,United Kingdom
+794,Hotel Chocolat (Coppeneur),"Chanchamayo, Pichanadi, 2012, 60hr c.",1109,2013,1.0,U.K.,2.75,Peru,95,somewhat rare,High Amount,United Kingdom
+795,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 2012, 120hr c.",1113,2013,1.0,U.K.,2.5,Ecuador,95,somewhat rare,High Amount,United Kingdom
+796,Hotel Chocolat (Coppeneur),"Conacado, 2012, 120hr c.",1113,2013,1.0,U.K.,2.75,Dominican Republic,95,somewhat rare,High Amount,United Kingdom
+797,Hotel Chocolat (Coppeneur),Sambirano,809,2012,0.66,U.K.,3.5,Madagascar,95,somewhat rare,Average Amount,United Kingdom
+798,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 96hr c.",623,2011,0.8,U.K.,3.0,Ecuador,95,somewhat rare,High Amount,United Kingdom
+799,Hotel Chocolat (Coppeneur),"Island Growers, 120hr c.",623,2011,0.65,U.K.,3.0,St. Lucia,95,somewhat rare,Average Amount,United Kingdom
+800,Hotel Chocolat (Coppeneur),"Island Growers, 96hr c.",623,2011,0.65,U.K.,3.25,St. Lucia,95,somewhat rare,Average Amount,United Kingdom
+801,Hotel Chocolat (Coppeneur),Ecuador,552,2010,0.7,U.K.,2.75,Ecuador,95,somewhat rare,Average Amount,United Kingdom
+802,Hotel Chocolat (Coppeneur),Santo Domingo,552,2010,0.7,U.K.,3.0,Dominican Republic,95,somewhat rare,Average Amount,United Kingdom
+803,Hotel Chocolat (Coppeneur),Chuao,600,2010,0.7,U.K.,2.75,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+804,Hotel Chocolat (Coppeneur),St. Lucia,245,2008,0.72,U.K.,3.0,St. Lucia,95,somewhat rare,Average Amount,United Kingdom
+805,Hotel Chocolat (Coppeneur),Uganda,296,2008,0.8,U.K.,2.5,Uganda,95,somewhat rare,High Amount,United Kingdom
+806,Hotel Chocolat (Coppeneur),Tanzania,296,2008,0.75,U.K.,2.75,Tanzania,95,somewhat rare,Average Amount,United Kingdom
+807,Hotel Chocolat (Coppeneur),Uba Budo,300,2008,0.72,U.K.,3.0,Sao Tome,95,somewhat rare,Average Amount,United Kingdom
+808,Hummingbird,Lam Dong,1542,2015,0.7,Canada,3.5,Vietnam,117,somewhat rare,Average Amount,Canada
+809,Hummingbird,Bolivia,1307,2014,0.7,Canada,3.0,Bolivia,117,somewhat rare,Average Amount,Canada
+810,Hummingbird,"Bolivia, Bo-nib-ia, w/ nibs",1311,2014,0.7,Canada,3.0,Bolivia,117,somewhat rare,Average Amount,Canada
+811,Hummingbird,Momotombo,1311,2014,0.7,Canada,3.0,Nicaragua,117,somewhat rare,Average Amount,Canada
+812,Hummingbird,Hispaniola,1311,2014,0.7,Canada,3.75,Dominican Republic,117,somewhat rare,Average Amount,Canada
+813,Hummingbird,Zorzal Reserva w/ Charles Kerchner,1387,2014,0.7,Canada,3.5,Dominican Republic,117,somewhat rare,Average Amount,Canada
+814,Hummingbird,"Ocumare, Cumboto",1097,2013,0.7,Canada,3.25,Venezuela,117,somewhat rare,Average Amount,Canada
+815,Hummingbird,Amazonas,1097,2013,0.7,Canada,3.75,Venezuela,117,somewhat rare,Average Amount,Canada
+816,Idilio (Felchlin),"Chuao, Venezuela",1085,2013,0.72,Switzerland,3.75,Venezuela,35,rare,Average Amount,Switzerland
+817,Idilio (Felchlin),Coopertiva Amazona,725,2011,0.72,Switzerland,3.75,Venezuela,35,rare,Average Amount,Switzerland
+818,Idilio (Felchlin),"Sur del Lago, Amiari Meridena, Zulia, 48hr c.",725,2011,0.72,Switzerland,3.75,Venezuela,35,rare,Average Amount,Switzerland
+819,Idilio (Felchlin),"Choroni, Finca Torres, 48hr c.",729,2011,0.72,Switzerland,3.25,Venezuela,35,rare,Average Amount,Switzerland
+820,Idilio (Felchlin),"Ocumare, H. Cata, 48hr c.",733,2011,0.72,Switzerland,3.75,Venezuela,35,rare,Average Amount,Switzerland
+821,Idilio (Felchlin),"Porcelana, Zulia",733,2011,0.74,Switzerland,4.0,Venezuela,35,rare,Average Amount,Switzerland
+822,Idilio (Felchlin),"Ocumare, H. Cata, w/ nibs",737,2011,0.72,Switzerland,3.5,Venezuela,35,rare,Average Amount,Switzerland
+823,Idilio (Felchlin),"Carenero Superior, Urrutia, Barlovento",737,2011,0.7,Switzerland,4.0,Venezuela,35,rare,Average Amount,Switzerland
+824,Idilio (Felchlin),Coopertiva Amazona w/ nibs,737,2011,0.72,Switzerland,4.0,Venezuela,35,rare,Average Amount,Switzerland
+825,Idilio (Felchlin),"Sur del Lago, Amiari Meridena, Zulia, w/ nibs",737,2011,0.72,Switzerland,4.0,Venezuela,35,rare,Average Amount,Switzerland
+826,Indah,India (south),1788,2016,0.61,India,2.5,India,1,extra rare,Light Amount,India
+827,Indaphoria,La Red,821,2012,0.7,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+828,Indaphoria,"Conacado, Manifesto",907,2012,0.7,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+829,Indi,Honduras,1255,2014,0.77,U.S.A.,3.0,Honduras,738,most common,Average Amount,United States of America
+830,iQ Chocolate,"Satipo region, white label",943,2012,0.72,Scotland,2.75,Peru,10,extra rare,Average Amount,United Kingdom
+831,iQ Chocolate,black label,943,2012,0.72,Scotland,3.0,Peru,10,extra rare,Average Amount,United Kingdom
+832,Isidro,Madagascar,1275,2014,0.72,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+833,Isidro,Peru,1279,2014,0.72,U.S.A.,2.25,Peru,738,most common,Average Amount,United States of America
+834,Isidro,Belize,1279,2014,0.72,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+835,Isidro,Dominican Republic,1279,2014,0.72,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+836,Izard,"Maya Mountain, Toledo, Batch 29",1542,2015,0.7,U.S.A.,3.5,Belize,738,most common,Average Amount,United States of America
+837,Izard,"Elvesia P., Batch 32",1546,2015,0.7,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+838,Jacque Torres,Trinatario Treasure,5,2006,0.71,U.S.A.,2.0,Ghana,738,most common,Average Amount,United States of America
+839,Jordis,Madagascar,1534,2015,0.63,Czech Republic,2.75,Madagascar,1,extra rare,Light Amount,Czech Republic
+840,Just Good Chocolate,Belize,1375,2014,0.7,U.S.A.,3.5,Belize,738,most common,Average Amount,United States of America
+841,Just Good Chocolate,Madagascar,1375,2014,0.7,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+842,Just Good Chocolate,Peru,1375,2014,0.7,U.S.A.,4.0,Peru,738,most common,Average Amount,United States of America
+843,Kah Kow,"Rizek Cacao, Cibao Valley, Domin. Rep.",1061,2013,0.7,Domincan Republic,3.5,Dominican Republic,5,extra rare,Average Amount,Amsterdam
+844,Kah Kow,"Rizek Cacao, Domin. Rep.",1069,2013,0.82,Domincan Republic,3.0,Dominican Republic,5,extra rare,High Amount,Amsterdam
+845,Kah Kow,"Rizek Cacao, Domin. Rep.",1069,2013,0.55,Domincan Republic,3.25,Dominican Republic,5,extra rare,Light Amount,Amsterdam
+846,Kah Kow,"Rizek Cacao, Domin. Rep.",1073,2013,0.62,Domincan Republic,3.25,Dominican Republic,5,extra rare,Light Amount,Amsterdam
+847,Kakao,Peru,837,2012,0.64,Germany,2.5,Peru,35,rare,Light Amount,Germany
+848,Kakao,Vanuatu,387,2009,0.65,Germany,3.75,Vanuatu,35,rare,Average Amount,Germany
+849,Kallari (Ecuatoriana),Sisa 36hr/ W. F. blend prototype,241,2008,0.7,Ecuador,3.0,Ecuador,54,rare,Average Amount,Ecuador
+850,Kallari (Ecuatoriana),Sisa's Secret/ original micro,241,2008,0.7,Ecuador,3.5,Ecuador,54,rare,Average Amount,Ecuador
+851,Kallari (Ecuatoriana),Roberto,245,2008,0.75,Ecuador,2.75,Ecuador,54,rare,Average Amount,Ecuador
+852,Kallari (Ecuatoriana),Diego/ original micro,248,2008,0.85,Ecuador,2.5,Ecuador,54,rare,High Amount,Ecuador
+853,Kallari (Ecuatoriana),Diego 48hr/ W.F. blend prototype,248,2008,0.85,Ecuador,2.75,Ecuador,54,rare,High Amount,Ecuador
+854,Kallari (Ecuatoriana),Diego 60hr/ W.F. blend prototype,248,2008,0.85,Ecuador,3.0,Ecuador,54,rare,High Amount,Ecuador
+855,Kallari (Ecuatoriana),Cacao Nacional W.F.,263,2008,0.75,Ecuador,2.5,Ecuador,54,rare,Average Amount,Ecuador
+856,Kallari (Ecuatoriana),Cacao Nacional W.F.,269,2008,0.85,Ecuador,3.0,Ecuador,54,rare,High Amount,Ecuador
+857,Kaoka (Cemoi),Ecuador,423,2009,0.8,France,2.75,Ecuador,144,somewhat common,High Amount,France
+858,Kerchner,"La Red, Project Reserva, Guaconejo",1133,2013,0.7,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+859,Ki' Xocolatl,Dark,431,2009,0.72,Mexico,2.0,Mexico,4,extra rare,Average Amount,Mexico
+860,Kiskadee,"La Red, Guanconjeco",1251,2014,0.6,U.S.A.,3.0,Dominican Republic,738,most common,Light Amount,United States of America
+861,Kto,San Martin,1422,2014,0.72,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+862,Kto,Ocumare,1422,2014,0.72,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+863,Kto,Belize,1422,2014,0.72,U.S.A.,3.0,Belize,738,most common,Average Amount,United States of America
+864,Kto,Sambirano Valley,1422,2014,0.72,U.S.A.,3.25,Madagascar,738,most common,Average Amount,United States of America
+865,Kto,Belize,1426,2014,0.9,U.S.A.,3.25,Belize,738,most common,High Amount,United States of America
+866,Kto,Elvesia,1426,2014,0.72,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+867,Kto,ROIG,1426,2014,0.72,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+868,K'ul,"Kafupbo, Petit Bourg, De Borgnes",1840,2016,0.7,U.S.A.,3.25,Haiti,738,most common,Average Amount,United States of America
+869,K'ul,"Maranon, Fortunato No. 4",1852,2016,0.7,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+870,K'ul,"Los Rios, Hacienda Limon, Heirloom",1852,2016,0.7,U.S.A.,3.75,Ecuador,738,most common,Average Amount,United States of America
+871,K'ul,"Bahia, Fazenda Camboa",1852,2016,0.7,U.S.A.,3.75,Brazil,738,most common,Average Amount,United States of America
+872,Kyya,Uganda,1359,2014,0.725,U.S.A.,2.5,Uganda,738,most common,Average Amount,United States of America
+873,Kyya,Hispaniola,1359,2014,0.725,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+874,Kyya,Ecuador,1363,2014,0.725,U.S.A.,2.5,Ecuador,738,most common,Average Amount,United States of America
+875,Kyya,Madagascar,1363,2014,0.725,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+876,L.A. Burdick (Felchlin),Peru,891,2012,0.74,U.S.A.,3.25,Peru,738,most common,Average Amount,United States of America
+877,L.A. Burdick (Felchlin),Brazil,891,2012,0.7,U.S.A.,4.0,Brazil,738,most common,Average Amount,United States of America
+878,L.A. Burdick (Felchlin),Chuao,927,2012,0.68,U.S.A.,3.75,Venezuela,738,most common,Average Amount,United States of America
+879,L.A. Burdick (Felchlin),Quito,682,2011,0.74,U.S.A.,3.75,Ecuador,738,most common,Average Amount,United States of America
+880,L.A. Burdick (Felchlin),Grenada,576,2010,0.75,U.S.A.,3.25,Grenada,738,most common,Average Amount,United States of America
+881,L.A. Burdick (Felchlin),Dominican Republic,576,2010,0.74,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+882,L.A. Burdick (Felchlin),Venzuela,597,2010,0.71,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+883,L.A. Burdick (Felchlin),Madagascar,431,2009,0.64,U.S.A.,3.5,Madagascar,738,most common,Light Amount,United States of America
+884,L.A. Burdick (Felchlin),Bolivian,451,2009,0.68,U.S.A.,3.0,Bolivia,738,most common,Average Amount,United States of America
+885,La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 6, brown sugar",1892,2016,0.7,Japan,2.25,Peru,17,extra rare,Average Amount,Japan
+886,La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 7",1892,2016,0.7,Japan,2.5,Peru,17,extra rare,Average Amount,Japan
+887,La Chocolaterie Nanairo,"Tumbes, 2013 Harvest, Batch 8",1892,2016,0.7,Japan,3.0,Peru,17,extra rare,Average Amount,Japan
+888,La Chocolaterie Nanairo,"Belize, 2014 Harvest, Batch 9",1892,2016,0.7,Japan,3.0,Belize,17,extra rare,Average Amount,Japan
+889,La Maison du Chocolat (Valrhona),"Cuana, 2013",1121,2013,0.74,France,2.75,"Africa, Carribean, C. Am.",144,somewhat common,Average Amount,France
+890,La Maison du Chocolat (Valrhona),Tobago,1145,2013,0.6,France,3.25,Tobago,144,somewhat common,Light Amount,France
+891,La Maison du Chocolat (Valrhona),"Acarigua, w/ nibs",1189,2013,0.56,France,3.25,Ecuador,144,somewhat common,Light Amount,France
+892,La Maison du Chocolat (Valrhona),Loma Sotavento,891,2012,0.66,France,3.5,Dominican Republic,144,somewhat common,Average Amount,France
+893,La Maison du Chocolat (Valrhona),Grenada,741,2011,0.68,France,3.5,Grenada,144,somewhat common,Average Amount,France
+894,La Maison du Chocolat (Valrhona),Akosombo,346,2009,0.68,France,3.25,Ghana,144,somewhat common,Average Amount,France
+895,La Maison du Chocolat (Valrhona),"Porcelana, Pariguan",346,2009,0.69,France,3.5,Venezuela,144,somewhat common,Average Amount,France
+896,La Maison du Chocolat (Valrhona),"Cuana, 2008",230,2008,0.74,France,3.5,"Ven., Indonesia, Ecuad.",144,somewhat common,Average Amount,France
+897,La Oroquidea,Peruvian Amazon,721,2011,0.72,Peru,2.5,Peru,17,extra rare,Average Amount,Peru
+898,La Pepa de Oro,Vinces,713,2011,0.6,Ecuador,3.25,Ecuador,54,rare,Light Amount,Ecuador
+899,Laia aka Chat-Noir,"Madagascar, Batch 59/100",1590,2015,0.75,France,2.75,Madagascar,144,somewhat common,Average Amount,France
+900,Laia aka Chat-Noir,"Vietnam, Batch 50/100",1590,2015,0.75,France,2.75,Vietnam,144,somewhat common,Average Amount,France
+901,Laia aka Chat-Noir,"Cuba, Batch 59/100",1590,2015,0.75,France,3.0,Cuba,144,somewhat common,Average Amount,France
+902,Laia aka Chat-Noir,"Peru, Batch 51/100",1590,2015,0.75,France,3.25,Peru,144,somewhat common,Average Amount,France
+903,Laia aka Chat-Noir,"Ivory Coast, Batch 56/100",1594,2015,0.75,France,3.0,Ivory Coast,144,somewhat common,Average Amount,France
+904,Laia aka Chat-Noir,"Sao Tome, Batch 151",1638,2015,0.75,France,3.5,Sao Tome,144,somewhat common,Average Amount,France
+905,Laia aka Chat-Noir,"Bahia, Batch 148",1642,2015,0.75,France,3.25,Brazil,144,somewhat common,Average Amount,France
+906,Laia aka Chat-Noir,"Lam Dong, Batch 153",1642,2015,0.75,France,3.75,Vietnam,144,somewhat common,Average Amount,France
+907,Laia aka Chat-Noir,Cuba,1434,2014,0.7,France,2.75,Cuba,144,somewhat common,Average Amount,France
+908,Laia aka Chat-Noir,Trinidad-Tobago,1438,2014,0.68,France,2.75,Trinidad-Tobago,144,somewhat common,Average Amount,France
+909,Lajedo do Ouro,Catongo,927,2012,0.7,Brazil,3.5,Brazil,17,extra rare,Average Amount,Brazil
+910,Lake Champlain (Callebaut),Tanzania,327,2009,0.75,U.S.A.,2.5,Tanzania,738,most common,Average Amount,United States of America
+911,L'Amourette,Rugoso,1784,2016,0.8,U.S.A.,3.5,Nicaragua,738,most common,High Amount,United States of America
+912,L'Amourette,Carenero Superior,833,2012,0.75,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+913,L'Amourette,Rio Caribe,833,2012,0.75,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+914,L'Amourette,Blend,853,2012,0.72,U.S.A.,3.0,"Peru, Ecuador, Venezuela",738,most common,Average Amount,United States of America
+915,Letterpress,"La Masica, Batch 7, FHIA",1952,2017,0.7,U.S.A.,3.5,Honduras,738,most common,Average Amount,United States of America
+916,Letterpress,"Maya Mtn, Batch 18, Heirloom",1952,2017,0.7,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+917,Letterpress,Liberia,1728,2016,0.7,U.S.A.,3.25,Liberia,738,most common,Average Amount,United States of America
+918,Letterpress,Beniamo,1562,2015,0.7,U.S.A.,3.25,Bolivia,738,most common,Average Amount,United States of America
+919,Letterpress,"San Juan Estate, Gran Couva",1562,2015,0.7,U.S.A.,3.5,Trinidad,738,most common,Average Amount,United States of America
+920,Letterpress,San Andres,1566,2015,0.7,U.S.A.,3.0,Costa Rica,738,most common,Average Amount,United States of America
+921,Letterpress,"La Red, Guaconejo",1566,2015,0.7,U.S.A.,3.25,Domincan Republic,738,most common,Average Amount,United States of America
+922,Letterpress,Kokoa Kamili,1566,2015,0.7,U.S.A.,3.5,Tanzania,738,most common,Average Amount,United States of America
+923,Letterpress,Maranura,1371,2014,0.7,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+924,Levy,Sambirano,1231,2014,0.71,Finland,3.5,Madagascar,2,extra rare,Average Amount,Finland
+925,Lilla,Madagascar,1856,2016,0.7,Finland,3.0,Madagascar,2,extra rare,Average Amount,Finland
+926,Lillie Belle,Perfect Illusion,855,2012,0.65,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+927,Lillie Belle,"Bolivia, Wild Thing",903,2012,0.68,U.S.A.,3.5,Bolivia,738,most common,Average Amount,United States of America
+928,Lillie Belle,La Selva,903,2012,0.68,U.S.A.,3.75,Peru,738,most common,Average Amount,United States of America
+929,Lillie Belle,Purple Haze,947,2012,0.75,U.S.A.,2.75,"Venezuela, Dom. Rep.",738,most common,Average Amount,United States of America
+930,Lillie Belle,"The Other One, Grand Cru",947,2012,0.74,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+931,Lillie Belle,Wild Thing,947,2012,0.68,U.S.A.,3.5,Bolivia,738,most common,Average Amount,United States of America
+932,Loiza,Puerto Rico,1049,2013,0.65,Puerto Rico,2.5,Puerto Rico,4,extra rare,Average Amount,Puerto Rico
+933,Lonohana,"Haleiwa, O'ahu; Lonohana E., Kanahiku",1383,2014,0.7,U.S.A.,3.75,Hawaii,738,most common,Average Amount,United States of America
+934,Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,0.65,U.S.A.,3.25,Hawaii,738,most common,Average Amount,United States of America
+935,Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,0.75,U.S.A.,3.75,Hawaii,738,most common,Average Amount,United States of America
+936,Lonohana,"Opaeula Estate, O'ahu, Nene, CG Exclusive",1093,2013,0.71,U.S.A.,3.0,Hawaii,738,most common,Average Amount,United States of America
+937,Lonohana,"Opaeula Estate, O'ahu, Ele'ele",1097,2013,0.72,U.S.A.,3.0,Hawaii,738,most common,Average Amount,United States of America
+938,Lonohana,"Hawaiian Crown, Kona Vanilla",1097,2013,0.7,U.S.A.,3.5,Hawaii,738,most common,Average Amount,United States of America
+939,Love Bar,Nicaragua,1502,2015,0.75,U.S.A.,2.0,Nicaragua,738,most common,Average Amount,United States of America
+940,Luker,Selva,552,2010,0.46,Colombia,2.75,"Colombia, Ecuador",23,extra rare,Light Amount,Colombia
+941,Luker,Macondo,552,2010,0.6,Colombia,3.0,"Colombia, Ecuador",23,extra rare,Light Amount,Colombia
+942,Luker,Misterio,552,2010,0.58,Colombia,3.0,"Colombia, Ecuador",23,extra rare,Light Amount,Colombia
+943,Luker,Santander,552,2010,0.65,Colombia,3.5,Colombia,23,extra rare,Average Amount,Colombia
+944,Machu Picchu Trading Co.,Peru,721,2011,0.7,Peru,1.5,Peru,17,extra rare,Average Amount,Peru
+945,Machu Picchu Trading Co.,Peru,552,2010,0.55,Peru,2.25,Peru,17,extra rare,Light Amount,Peru
+946,Madecasse (Cinagra),Madagascar,284,2008,0.67,Madagascar,3.5,Madagascar,17,extra rare,Average Amount,Madagascar
+947,Madecasse (Cinagra),Madagascar,284,2008,0.7,Madagascar,3.75,Madagascar,17,extra rare,Average Amount,Madagascar
+948,Madecasse (Cinagra),Madagascar,284,2008,0.63,Madagascar,4.0,Madagascar,17,extra rare,Light Amount,Madagascar
+949,Madecasse (Cinagra),Madagascar,288,2008,0.75,Madagascar,3.5,Madagascar,17,extra rare,Average Amount,Madagascar
+950,Madre,Guadalcanal,1940,2017,0.73,U.S.A.,3.5,Solomon Islands,738,most common,Average Amount,United States of America
+951,Madre,Puerto Rico,1085,2013,0.7,U.S.A.,2.75,Puerto Rico,738,most common,Average Amount,United States of America
+952,Madre,Brazil,1085,2013,0.7,U.S.A.,3.5,Brazil,738,most common,Average Amount,United States of America
+953,Madre,"Choobua, Kona",1089,2013,0.7,U.S.A.,2.75,Hawaii,738,most common,Average Amount,United States of America
+954,Madre,"Xocunusco, Chiapas, Pichucalco",1089,2013,0.7,U.S.A.,2.75,Mexico,738,most common,Average Amount,United States of America
+955,Madre,"Hamakua Coast, Kokoleka",991,2012,0.7,U.S.A.,3.25,Hawaii,738,most common,Average Amount,United States of America
+956,Madre,"Criollo, Hawaii",995,2012,0.7,U.S.A.,3.25,Hawaii,738,most common,Average Amount,United States of America
+957,Madre,Kaua'i,995,2012,0.7,U.S.A.,3.5,Hawaii,738,most common,Average Amount,United States of America
+958,Madre,Dominican,672,2011,0.7,U.S.A.,2.5,Dominican Republic,738,most common,Average Amount,United States of America
+959,Madre,Upala,693,2011,0.7,U.S.A.,2.75,Costa Rica,738,most common,Average Amount,United States of America
+960,Madre,"Chiapas, Triple Cacao",607,2010,0.72,U.S.A.,2.75,Mexico,738,most common,Average Amount,United States of America
+961,Maglio,Africa,300,2008,0.75,Italy,2.0,Tanzania,54,rare,Average Amount,Italy
+962,Maglio,Ecuador,308,2008,0.7,Italy,3.0,Ecuador,54,rare,Average Amount,Italy
+963,Maglio,Cuba,308,2008,0.7,Italy,3.25,Cuba,54,rare,Average Amount,Italy
+964,Maglio,Santo Domingo,308,2008,0.7,Italy,3.75,Dominican Republic,54,rare,Average Amount,Italy
+965,Majani,Ecuador,531,2010,0.7,Italy,2.0,Ecuador,54,rare,Average Amount,Italy
+966,Malagasy (Chocolaterie Robert),Sambirano 2006,184,2007,0.75,Madagascar,2.75,Madagascar,17,extra rare,Average Amount,Madagascar
+967,Malagasy (Chocolaterie Robert),Mora Mora 2006,184,2007,0.73,Madagascar,3.5,Madagascar,17,extra rare,Average Amount,Madagascar
+968,Malagos,"Davao, Mt. Talamo foothills",1121,2013,0.65,Philippines,3.5,Philippines,1,extra rare,Average Amount,Philippines
+969,Malie Kai (Guittard),"O'ahu, N. Shore, Waialua Estate w/ nibs",502,2010,0.55,U.S.A.,3.5,Hawaii,738,most common,Light Amount,United States of America
+970,Malie Kai (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,0.55,U.S.A.,2.75,Hawaii,738,most common,Light Amount,United States of America
+971,Malmo,Chuao,1856,2016,0.7,Sweden,3.0,Venezuela,5,extra rare,Average Amount,Sweden
+972,Mana,Ecuador,1446,2015,0.74,U.S.A.,2.5,Ecuador,738,most common,Average Amount,United States of America
+973,Mana,Peru,1219,2014,0.74,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+974,Mana,Venezuela,1219,2014,0.74,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+975,Mana,Conacado,821,2012,0.74,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+976,Manifesto Cacao,Colombia,1331,2014,0.7,Colombia,2.75,Colombia,23,extra rare,Average Amount,Colombia
+977,Manoa,Markham Valley,1522,2015,0.72,U.S.A.,3.5,Papua New Guinea,738,most common,Average Amount,United States of America
+978,Manoa,Coto Brus,1522,2015,0.72,U.S.A.,3.75,Costa Rica,738,most common,Average Amount,United States of America
+979,Manoa,"Waiahole, O'ahu",1089,2013,0.72,U.S.A.,3.75,Hawaii,738,most common,Average Amount,United States of America
+980,Manoa,"Liberia, #174",1003,2012,0.72,U.S.A.,3.25,Liberia,738,most common,Average Amount,United States of America
+981,Manoa,"Hamakua, Hawaiian Crown, #176",1007,2012,0.72,U.S.A.,2.75,Hawaii,738,most common,Average Amount,United States of America
+982,Manoa,Piura,1007,2012,0.72,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+983,Manoa,"Oahu, Winward, #151, Maunawili district",1007,2012,0.72,U.S.A.,3.25,Hawaii,738,most common,Average Amount,United States of America
+984,Manufaktura Czekolady,Johe,1844,2016,0.7,Poland,3.75,Nicaragua,7,extra rare,Average Amount,Poland
+985,Manufaktura Czekolady,Peru,1848,2016,0.7,Poland,3.5,Peru,7,extra rare,Average Amount,Poland
+986,Manufaktura Czekolady,Porcelana,1255,2014,0.7,Poland,3.75,Venezuela,7,extra rare,Average Amount,Poland
+987,Manufaktura Czekolady,Kolumbia,1279,2014,0.85,Poland,3.5,Colombia,7,extra rare,High Amount,Poland
+988,Manufaktura Czekolady,Grand Cru Dominican Republic,871,2012,0.7,Poland,3.25,Dominican Republic,7,extra rare,Average Amount,Poland
+989,Manufaktura Czekolady,Grand Cru Ghana,871,2012,0.7,Poland,3.5,Ghana,7,extra rare,Average Amount,Poland
+990,Manufaktura Czekolady,Grand Cru Ecuador,875,2012,0.7,Poland,3.25,Ecuador,7,extra rare,Average Amount,Poland
+991,Map Chocolate,"Ben Tre, Surprise Valley",1896,2016,0.75,U.S.A.,3.25,Vietnam,738,most common,Average Amount,United States of America
+992,Map Chocolate,"ROIG, 2014",1474,2015,0.7,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+993,Map Chocolate,"Maranon, 2014",1474,2015,0.62,U.S.A.,3.5,Peru,738,most common,Light Amount,United States of America
+994,Map Chocolate,Ecuador,1478,2015,0.7,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+995,Map Chocolate,"San Juan Estate, Cherry Blossoms at Night",1606,2015,0.7,U.S.A.,2.75,Trinidad,738,most common,Average Amount,United States of America
+996,Map Chocolate,"A case of the Xerces Blues, triple roast",1606,2015,0.7,U.S.A.,3.5,Nicaragua,738,most common,Average Amount,United States of America
+997,Map Chocolate,"Tumbes, Dear Mr. Finley, 2014",1606,2015,0.68,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+998,Map Chocolate,Colombia,1610,2015,0.75,U.S.A.,2.75,Colombia,738,most common,Average Amount,United States of America
+999,Map Chocolate,"Kakoa Kamili, Both Man & Bird & Beast",1610,2015,0.72,U.S.A.,3.0,Tanzania,738,most common,Average Amount,United States of America
+1000,Map Chocolate,Le Chocolat Chaud,1634,2015,0.78,U.S.A.,3.5,Honduras,738,most common,Average Amount,United States of America
+1001,Marana,Piura,1872,2016,0.7,Peru,3.0,Peru,17,extra rare,Average Amount,Peru
+1002,Marana,Cusco,1884,2016,0.7,Peru,2.75,Peru,17,extra rare,Average Amount,Peru
+1003,Marana,San Martin,1884,2016,0.7,Peru,3.0,Peru,17,extra rare,Average Amount,Peru
+1004,Marou,"Tan Phu Dong Island, Heart of Darkness",1650,2015,0.85,Vietnam,3.25,Vietnam,11,extra rare,High Amount,Vietnam
+1005,Marou,Ben Tre,1650,2015,0.68,Vietnam,3.5,Vietnam,11,extra rare,Average Amount,Vietnam
+1006,Marou,"Dak Lak, Batch 2451",1650,2015,0.7,Vietnam,3.75,Vietnam,11,extra rare,Average Amount,Vietnam
+1007,Marou,"Tan Phu Dong, Treasure Island",1149,2013,0.75,Vietnam,3.5,Vietnam,11,extra rare,Average Amount,Vietnam
+1008,Marou,Ba Ria,845,2012,0.76,Vietnam,3.5,Vietnam,11,extra rare,Average Amount,Vietnam
+1009,Marou,Dong Nai,845,2012,0.72,Vietnam,3.5,Vietnam,11,extra rare,Average Amount,Vietnam
+1010,Marou,"Tien Giang, Gao Co-op",845,2012,0.7,Vietnam,3.5,Vietnam,11,extra rare,Average Amount,Vietnam
+1011,Marou,Ben Tre,849,2012,0.78,Vietnam,3.5,Vietnam,11,extra rare,Average Amount,Vietnam
+1012,Marou,Tien Giang,895,2012,0.8,Vietnam,3.0,Vietnam,11,extra rare,High Amount,Vietnam
+1013,Marou,Lam Dong,955,2012,0.74,Vietnam,3.5,Vietnam,11,extra rare,Average Amount,Vietnam
+1014,Mars,"Matina 1-6, prototype",537,2010,0.65,U.S.A.,3.0,Costa Rica,738,most common,Average Amount,United States of America
+1015,Mars,Ivory Coast,544,2010,0.65,U.S.A.,3.0,Ivory Coast,738,most common,Average Amount,United States of America
+1016,Mars,Nigeria,544,2010,0.65,U.S.A.,3.25,Nigeria,738,most common,Average Amount,United States of America
+1017,Mars,"Ghana, prototype",544,2010,0.65,U.S.A.,3.5,Ghana,738,most common,Average Amount,United States of America
+1018,Marsatta,Dominican Republic,1189,2013,0.74,U.S.A.,2.25,Dominican Republic,738,most common,Average Amount,United States of America
+1019,Marsatta,Dominican Republic,1189,2013,0.89,U.S.A.,2.5,Dominican Republic,738,most common,High Amount,United States of America
+1020,Martin Mayer,Alto Beni,1836,2016,0.76,Austria,2.75,Bolivia,23,extra rare,Average Amount,Austria
+1021,Martin Mayer,Pisa,1836,2016,0.82,Austria,3.0,Haiti,23,extra rare,High Amount,Austria
+1022,Martin Mayer,Tumaco,1836,2016,0.74,Austria,3.25,Colombia,23,extra rare,Average Amount,Austria
+1023,Mast Brothers,Guatemala,1450,2015,0.76,U.S.A.,3.0,Guatemala,738,most common,Average Amount,United States of America
+1024,Mast Brothers,Tanzania,1450,2015,0.74,U.S.A.,3.25,Tanzania,738,most common,Average Amount,United States of America
+1025,Mast Brothers,French Laundry 20th Anniversary,1359,2014,0.75,U.S.A.,3.75,"Peru, Belize",738,most common,Average Amount,United States of America
+1026,Mast Brothers,Shake Shack,959,2012,0.73,U.S.A.,3.5,"Peru, Mad., Dom. Rep.",738,most common,Average Amount,United States of America
+1028,Mast Brothers,Chuao,999,2012,0.73,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+1029,Mast Brothers,"Chuao, Med. Roast",701,2011,0.76,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+1030,Mast Brothers,"Chuao, Dark Roast",709,2011,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+1031,Mast Brothers,"Chuao, Light Roast",713,2011,0.81,U.S.A.,2.75,Venezuela,738,most common,High Amount,United States of America
+1032,Mast Brothers,Moho River,773,2011,0.7,U.S.A.,3.5,Belize,738,most common,Average Amount,United States of America
+1033,Mast Brothers,Papua New Guinea,777,2011,0.71,U.S.A.,2.75,Papua New Guinea,738,most common,Average Amount,United States of America
+1034,Mast Brothers,San Martin,777,2011,0.75,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+1035,Mast Brothers,Conacado,777,2011,0.73,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+1036,Mast Brothers,"La Red de Guanconejo, N. Highlands coop",777,2011,0.74,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+1037,Mast Brothers,Patanemo,572,2010,0.81,U.S.A.,2.75,Venezuela,738,most common,High Amount,United States of America
+1038,Mast Brothers,Ocumare de la Costa,572,2010,0.75,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+1039,Mast Brothers,"Dominican Republic, Coop",572,2010,0.7,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+1040,Matale,"Malekula P., 2013",1177,2013,0.72,Australia,3.5,Vanuatu,46,rare,Average Amount,Australia
+1041,Matale,"Somia, 2013",1177,2013,0.68,Australia,4.0,Madagascar,46,rare,Average Amount,Australia
+1042,Matale,"Kulili P., 2013",1177,2013,0.74,Australia,4.0,Papua New Guinea,46,rare,Average Amount,Australia
+1043,Matale,Blend,1181,2013,0.7,Australia,3.75,"PNG, Vanuatu, Mad",46,rare,Average Amount,Australia
+1044,Maverick,Maya Mountain,1367,2014,0.7,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+1045,Maverick,Elvesia,1367,2014,0.7,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+1046,Maverick,Tumbes,1430,2014,0.82,U.S.A.,3.25,Peru,738,most common,High Amount,United States of America
+1047,Maverick,"Morropon, Norandiono Coop, Piura",1430,2014,0.63,U.S.A.,3.5,Peru,738,most common,Light Amount,United States of America
+1048,Mayacama,Hispaniola,1728,2016,0.72,U.S.A.,3.0,Domincan Republic,738,most common,Average Amount,United States of America
+1049,Meadowlands,Bolivia,1287,2014,0.7,U.S.A.,2.5,Bolivia,738,most common,Average Amount,United States of America
+1050,Meadowlands,Venezuela,1287,2014,0.7,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+1051,Meadowlands,Belize,1287,2014,0.7,U.S.A.,3.0,Belize,738,most common,Average Amount,United States of America
+1052,Meadowlands,"Nicaragua, w/ inbs",1291,2014,0.7,U.S.A.,3.0,Nicaragua,738,most common,Average Amount,United States of America
+1053,Meadowlands,Dominican Republic,1291,2014,0.7,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+1054,Menakao (aka Cinagra),Madagascar,837,2012,0.8,Madagascar,2.5,Madagascar,17,extra rare,High Amount,Madagascar
+1055,Menakao (aka Cinagra),Madagascar,841,2012,0.72,Madagascar,2.5,Madagascar,17,extra rare,Average Amount,Madagascar
+1056,Mesocacao,El Salvador,1494,2015,0.8,Honduras,2.75,El Salvador,6,extra rare,High Amount,Honduras
+1057,Mesocacao,El Salvador,1494,2015,0.7,Honduras,3.0,El Salvador,6,extra rare,Average Amount,Honduras
+1058,Mesocacao,Honduras,1347,2014,0.8,Honduras,3.25,Honduras,6,extra rare,High Amount,Honduras
+1059,Mesocacao,Honduras,1347,2014,0.7,Honduras,3.5,Honduras,6,extra rare,Average Amount,Honduras
+1060,Mesocacao,"La Tronca, Matagalpa",1351,2014,0.7,Honduras,3.25,Nicaragua,6,extra rare,Average Amount,Honduras
+1061,Mesocacao,"La Tronca, Matagalpa",1351,2014,0.8,Honduras,3.5,Nicaragua,6,extra rare,High Amount,Honduras
+1062,Metiisto,"Fazenda Sempre Firme P., Bahia",1267,2014,0.7,Sweden,3.0,Brazil,5,extra rare,Average Amount,Sweden
+1063,Metiisto,Akesson Estate,1267,2014,0.72,Sweden,3.5,Madagascar,5,extra rare,Average Amount,Sweden
+1064,Metropolitan,South America,1688,2015,0.7,Amsterdam,3.5,South America,4,extra rare,Average Amount,Amsterdam
+1065,Michel Cluizel,"Chiapas, Mokaya P.",963,2012,0.66,France,3.75,Mexico,144,somewhat common,Average Amount,France
+1066,Michel Cluizel,"Carenero Superior, Concepcion",117,2007,0.66,France,3.5,Venezuela,144,somewhat common,Average Amount,France
+1067,Michel Cluizel,Vila Gracinda,135,2007,0.67,France,3.5,Sao Tome,144,somewhat common,Average Amount,France
+1068,Michel Cluizel,Tamarina,24,2006,0.7,France,3.0,Sao Tome,144,somewhat common,Average Amount,France
+1069,Michel Cluizel,Los Ancones P.,24,2006,0.67,France,4.0,Dominican Republic,144,somewhat common,Average Amount,France
+1070,Michel Cluizel,Mangaro P.,24,2006,0.65,France,4.0,Madagascar,144,somewhat common,Average Amount,France
+1071,Michel Cluizel,Maralumi P.,24,2006,0.64,France,4.0,Papua New Guinea,144,somewhat common,Light Amount,France
+1072,Middlebury,Maya Mountain,1490,2015,0.8,U.S.A.,3.5,Belize,738,most common,High Amount,United States of America
+1073,Middlebury,San Juan Estate,1490,2015,0.7,U.S.A.,3.5,Trinidad,738,most common,Average Amount,United States of America
+1074,Middlebury,Oko Caribe,1490,2015,0.75,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+1075,Middlebury,"Patanemo, Epoch, Donaldo",1490,2015,0.75,U.S.A.,3.75,Venezuela,738,most common,Average Amount,United States of America
+1076,Middlebury,Kokoa Kamili,1538,2015,0.75,U.S.A.,3.25,Tanzania,738,most common,Average Amount,United States of America
+1077,Middlebury,"Matagalpa, Cacao Bisiesto",1538,2015,0.7,U.S.A.,3.5,Nicaragua,738,most common,Average Amount,United States of America
+1078,Middlebury,La Red,1117,2013,0.75,U.S.A.,2.5,Dominican Republic,738,most common,Average Amount,United States of America
+1079,Middlebury,Belize,1117,2013,0.8,U.S.A.,3.25,Belize,738,most common,High Amount,United States of America
+1080,Middlebury,Alto Beni,887,2012,0.75,U.S.A.,2.0,Bolivia,738,most common,Average Amount,United States of America
+1081,Middlebury,"Balinese, Java",887,2012,0.7,U.S.A.,2.5,Indonesia,738,most common,Average Amount,United States of America
+1082,Millcreek Cacao Roasters,Ecuador,1073,2013,0.7,U.S.A.,2.5,Ecuador,738,most common,Average Amount,United States of America
+1083,Millcreek Cacao Roasters,Ecuador,825,2012,0.7,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+1084,Mindo,Ecuador,607,2010,0.67,U.S.A.,2.75,Ecuador,738,most common,Average Amount,United States of America
+1085,Mindo,Ecuador,607,2010,0.77,U.S.A.,2.75,Ecuador,738,most common,Average Amount,United States of America
+1086,Minimal,"Acul-du-Nord, 2015",1920,2016,0.7,Japan,3.5,Haiti,17,extra rare,Average Amount,Japan
+1087,Mission,"Fazenda Camboa, Bahia",1880,2016,0.75,Brazil,3.75,Brazil,17,extra rare,Average Amount,Brazil
+1088,Mission,"Bahia, Fazenda Venturosa",1626,2015,0.7,Brazil,3.5,Brazil,17,extra rare,Average Amount,Brazil
+1089,Mita,Tumaco,955,2012,0.65,Colombia,2.5,Colombia,23,extra rare,Average Amount,Colombia
+1090,Moho,"Toledo District, w/ nibs",1026,2013,0.73,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+1091,Moho,Toledo District,1030,2013,0.72,U.S.A.,3.0,Belize,738,most common,Average Amount,United States of America
+1092,Moho,"Umoho R., Toledo District, San Felipe",607,2010,0.67,U.S.A.,2.75,Belize,738,most common,Average Amount,United States of America
+1093,Molucca,La Red,1614,2015,0.7,U.S.A.,3.0,Domincan Republic,738,most common,Average Amount,United States of America
+1094,Molucca,Indonesia,1618,2015,0.7,U.S.A.,2.75,Indonesia,738,most common,Average Amount,United States of America
+1095,Molucca,Peru,1618,2015,0.7,U.S.A.,3.25,Peru,738,most common,Average Amount,United States of America
+1096,Momotombo,Matagalpa,661,2011,0.7,Nicaragua,2.75,Nicaragua,5,extra rare,Average Amount,Nicaragua
+1097,Momotombo,Mombacho,661,2011,0.7,Nicaragua,2.75,Nicaragua,5,extra rare,Average Amount,Nicaragua
+1098,Momotombo,Oscuro,772,2011,0.7,Nicaragua,3.25,Nicaragua,5,extra rare,Average Amount,Nicaragua
+1099,Monarque,Oko Caribe,1812,2016,0.72,Canada,3.5,Dominican Republic,117,somewhat rare,Average Amount,Canada
+1100,Monsieur Truffe,Papaua New Guinea,1391,2014,0.7,Australia,3.25,Papua New Guinea,46,rare,Average Amount,Australia
+1101,Montecristi,Manabi,1654,2015,0.7,Ecuador,3.25,Ecuador,54,rare,Average Amount,Ecuador
+1102,Montecristi,Manabi,1654,2015,0.63,Ecuador,3.5,Ecuador,54,rare,Light Amount,Ecuador
+1103,Montecristi,Manabi,1658,2015,0.85,Ecuador,3.5,Ecuador,54,rare,High Amount,Ecuador
+1104,Muchomas (Mesocacao),Nicaragua,1462,2015,0.7,U.S.A.,3.5,Nicaragua,738,most common,Average Amount,United States of America
+1105,Muchomas (Mesocacao),Nicaragua,1462,2015,0.8,U.S.A.,3.5,Nicaragua,738,most common,High Amount,United States of America
+1106,Mutari,"Kokoa Kamili, batch 1 SRB",1896,2016,0.68,U.S.A.,2.75,Tanzania,738,most common,Average Amount,United States of America
+1107,Mutari,"Oko Caribe, batch 1 SRB",1896,2016,0.71,U.S.A.,2.75,Domincan Republic,738,most common,Average Amount,United States of America
+1108,Mutari,"Ambanja, batch 1 SRB",1900,2016,0.68,U.S.A.,2.75,Madagascar,738,most common,Average Amount,United States of America
+1109,Mutari,"Tien Giang, batch 1 SRB",1900,2016,0.8,U.S.A.,3.0,Vietnam,738,most common,High Amount,United States of America
+1110,Nahua,"Costa Rica, Oscuro",1049,2013,0.58,Costa Rica,2.5,Costa Rica,9,extra rare,Light Amount,Costa Rica
+1111,Nahua,"Costa Rica, Oscuro",1049,2013,0.7,Costa Rica,3.0,Costa Rica,9,extra rare,Average Amount,Costa Rica
+1112,Naive,Trinidad & Tobago,1046,2013,0.7,Lithuania,3.75,"Trinidad, Tobago",6,extra rare,Average Amount,Lithuania
+1113,Naive,"Maranon Canyon, Fortunato No. 4",1133,2013,0.78,Lithuania,3.75,Peru,6,extra rare,Average Amount,Lithuania
+1114,Naive,Grenada,867,2012,0.71,Lithuania,2.5,Grenada,6,extra rare,Average Amount,Lithuania
+1115,Na�ve,Nicaragua,1379,2014,0.7,Lithuania,3.25,Nicaragua,6,extra rare,Average Amount,Lithuania
+1116,Na�ve,Chuao,1399,2014,0.75,Lithuania,2.75,Venezuela,6,extra rare,Average Amount,Lithuania
+1117,Na�ve,Barinas,1399,2014,0.7,Lithuania,3.0,Venezuela,6,extra rare,Average Amount,Lithuania
+1118,Nanea,Criollo Blend,1007,2013,0.85,U.S.A.,3.5,Hawaii,738,most common,High Amount,United States of America
+1119,Nathan Miller,Peru,1403,2014,0.72,U.S.A.,2.25,Peru,738,most common,Average Amount,United States of America
+1120,Nathan Miller,Hispaniola,1403,2014,0.7,U.S.A.,2.5,Dominican Republic,738,most common,Average Amount,United States of America
+1121,Nathan Miller,Madagascar,1403,2014,0.735,U.S.A.,2.5,Madagascar,738,most common,Average Amount,United States of America
+1122,Nathan Miller,Ghana,1403,2014,0.7,U.S.A.,3.5,Ghana,738,most common,Average Amount,United States of America
+1123,Neuhaus (Callebaut),Papua New Guinea,531,2010,0.7,Belgium,2.5,Papua New Guinea,37,rare,Average Amount,Belgium
+1124,Neuhaus (Callebaut),Manickchand Estate,230,2008,0.67,Belgium,3.75,Trinidad,37,rare,Average Amount,Belgium
+1125,Neuhaus (Callebaut),West Africa,15,2006,0.73,Belgium,2.0,West Africa,37,rare,Average Amount,Belgium
+1126,Neuhaus (Callebaut),Sao Tome,15,2006,0.75,Belgium,2.75,Sao Tome,37,rare,Average Amount,Belgium
+1127,Neuhaus (Callebaut),Ocumare,24,2006,0.71,Belgium,3.0,Venezuela,37,rare,Average Amount,Belgium
+1128,Nibble,Patanemo,1526,2015,0.72,U.S.A.,2.25,Venezuela,738,most common,Average Amount,United States of America
+1129,Nibble,Elvesia P.,1526,2015,0.72,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+1130,Nibble,"Ambanja, Sambirano Valley",1526,2015,0.72,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+1131,Nibble,Tumbes,1526,2015,0.72,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+1132,Night Owl,Peru,1022,2013,0.75,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+1133,Night Owl,Ecuador,1022,2013,0.75,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+1134,Noble Bean aka Jerjobo,Ghana,1295,2014,0.75,U.S.A.,3.0,Ghana,738,most common,Average Amount,United States of America
+1135,Noble Bean aka Jerjobo,Moho Valley,1299,2014,0.75,U.S.A.,3.0,Belize,738,most common,Average Amount,United States of America
+1136,Noble Bean aka Jerjobo,Maranon Canyon,1299,2014,0.75,U.S.A.,3.25,Peru,738,most common,Average Amount,United States of America
+1137,Noir d' Ebine,Venezuela,837,2012,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+1138,Noir d' Ebine,Ecuador,841,2012,0.7,U.S.A.,3.0,Ecuador,738,most common,Average Amount,United States of America
+1139,Nova Monda,"La Patriota, cacao Indio, purple label",931,2012,0.7,Nicaragua,3.0,Nicaragua,5,extra rare,Average Amount,Nicaragua
+1140,Nova Monda,"La Dalia, Matagalpa,cacao Bisesto,green label",935,2012,0.75,Niacragua,2.75,Nicaragua,1,extra rare,Average Amount,Amsterdam
+1141,Nova Monda,"Punta Galera, cacao Nacional, gold label",935,2012,0.8,Nicaragua,3.25,Ecuador,5,extra rare,High Amount,Nicaragua
+1142,Nuance,"Ghana, 2013",1454,2015,0.7,U.S.A.,3.75,Ghana,738,most common,Average Amount,United States of America
+1143,Nuance,"Ecuador, 2013",1458,2015,0.7,U.S.A.,2.75,Ecuador,738,most common,Average Amount,United States of America
+1144,Nuance,"Canoabo, 2013",1458,2015,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+1145,Nuance,"Sambirano Valley, 2012",1458,2015,0.7,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+1146,Nuance,La Red,1470,2015,0.7,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+1147,Nugali,Fazenda Leolinda,1876,2016,0.7,Brazil,3.5,Brazil,17,extra rare,Average Amount,Brazil
+1148,Oakland Chocolate Co.,Jamaica,478,2010,0.7,U.S.A.,2.5,Jamaica,738,most common,Average Amount,United States of America
+1149,Obolo,Pangoa,1638,2015,0.7,Chile,3.75,Peru,2,extra rare,Average Amount,Chile
+1150,Obolo,"Pangoa, w/ nibs",1638,2015,0.7,Chile,3.75,Peru,2,extra rare,Average Amount,Chile
+1151,Ocelot,Virunga,1558,2015,0.7,Scotland,3.75,Congo,10,extra rare,Average Amount,United Kingdom
+1152,Ocelot,Piura,1558,2015,0.75,Scotland,4.0,Peru,10,extra rare,Average Amount,United Kingdom
+1153,Ocho,Sang Yum Coop,1760,2016,1.0,New Zealand,2.75,Samoa,17,extra rare,High Amount,New Zealand
+1154,Ocho,Sang Yum Coop,1760,2016,0.7,New Zealand,3.5,Samoa,17,extra rare,Average Amount,New Zealand
+1155,Ocho,"PNG, Devotion",1411,2014,0.66,New Zealand,2.75,Papua New Guinea,17,extra rare,Average Amount,New Zealand
+1156,Ocho,"PNG, Revolution",1411,2014,0.7,New Zealand,3.0,Papua New Guinea,17,extra rare,Average Amount,New Zealand
+1157,Ocho,"PNG, Voodoo",1411,2014,0.88,New Zealand,3.25,Papua New Guinea,17,extra rare,High Amount,New Zealand
+1158,Ocho,"PNG, Nib Bar",1411,2014,0.74,New Zealand,3.5,Papua New Guinea,17,extra rare,Average Amount,New Zealand
+1159,Ohiyo,"San Juan Estate, Gran Couva",1594,2015,0.7,U.S.A.,2.75,Trinidad,738,most common,Average Amount,United States of America
+1160,Ohiyo,Tanzania,1598,2015,0.7,U.S.A.,3.0,Tanzania,738,most common,Average Amount,United States of America
+1161,Oialla by Bojessen (Malmo),"Sylvestre, Oialla",761,2011,0.7,Germany,3.5,Bolivia,35,rare,Average Amount,Germany
+1162,Olive and Sinclair,Dominican Republic prototype,486,2010,0.72,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+1163,Olive and Sinclair,Ghana prototype,486,2010,0.72,U.S.A.,3.0,Ghana,738,most common,Average Amount,United States of America
+1164,Olive and Sinclair,Dark 67,457,2009,0.67,U.S.A.,2.75,"Ghana, Domin. Rep",738,most common,Average Amount,United States of America
+1165,Olive and Sinclair,Dark 75,457,2009,0.75,U.S.A.,3.0,"Ghana, Domin. Rep",738,most common,Average Amount,United States of America
+1166,Olivia,Carribean-Raw,688,2011,0.76,Canada,2.0,Carribean,117,somewhat rare,Average Amount,Canada
+1167,Olivia,Carribean,688,2011,0.76,Canada,2.75,Carribean,117,somewhat rare,Average Amount,Canada
+1168,Olivia,Carribean,688,2011,0.85,Canada,2.75,Carribean,117,somewhat rare,High Amount,Canada
+1169,Olivia,Carribean-Raw,688,2011,0.85,Canada,3.0,Carribean,117,somewhat rare,High Amount,Canada
+1170,Omanhene,Ghana,693,2011,0.8,Ghana,2.75,Ghana,1,extra rare,High Amount,Ghana
+1171,Omnom,"Kakao Kamili, Kilombero Valley",1816,2016,0.7,Iceland,3.75,Tanzania,3,extra rare,Average Amount,Iceland
+1172,Omnom,Papua New Guinea,1247,2014,0.7,Iceland,3.0,Papua New Guinea,3,extra rare,Average Amount,Iceland
+1173,Omnom,Madagascar,1247,2014,0.66,Iceland,3.5,Madagascar,3,extra rare,Average Amount,Iceland
+1174,organicfair,Maya Mountain,1161,2013,0.74,Canada,2.75,Belize,117,somewhat rare,Average Amount,Canada
+1175,organicfair,La Red,1165,2013,0.72,Canada,2.75,Dominican Republic,117,somewhat rare,Average Amount,Canada
+1176,organicfair,Nicaraqua,1165,2013,0.72,Canada,2.75,Nicaragua,117,somewhat rare,Average Amount,Canada
+1177,organicfair,Caribe,1165,2013,0.72,Canada,3.0,Dominican Republic,117,somewhat rare,Average Amount,Canada
+1178,organicfair,Mindo,1165,2013,0.72,Canada,3.0,Ecuador,117,somewhat rare,Average Amount,Canada
+1179,Original Beans (Felchlin),Papua Kerafat,1438,2014,0.68,Switzerland,2.75,Papua New Guinea,35,rare,Average Amount,Switzerland
+1180,Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R. 24hr c.",733,2011,0.66,Switzerland,3.75,Bolivia,35,rare,Average Amount,Switzerland
+1181,Original Beans (Felchlin),"D.R. Congo, Cru Virunga",331,2009,0.7,Switzerland,3.0,Congo,35,rare,Average Amount,Switzerland
+1182,Original Beans (Felchlin),"Piura, Apotequil, ""Porcelana"" 72hr c.",341,2009,0.75,Switzerland,3.0,Peru,35,rare,Average Amount,Switzerland
+1183,Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R., 60hr c.",341,2009,0.68,Switzerland,3.25,Bolivia,35,rare,Average Amount,Switzerland
+1184,Original Hawaiin Chocolate Factory,"Hawai'i, Kona Grand Cru E.",316,2009,0.6,U.S.A.,3.0,Hawaii,738,most common,Light Amount,United States of America
+1185,Original Hawaiin Chocolate Factory,"Hawai'i, Kona Estate Grown",24,2006,0.6,U.S.A.,3.0,Hawaii,738,most common,Light Amount,United States of America
+1186,Orquidea,Peru,859,2012,0.65,Peru,3.0,Peru,17,extra rare,Average Amount,Peru
+1187,Orquidea,Peru,859,2012,0.72,Peru,3.0,Peru,17,extra rare,Average Amount,Peru
+1188,Pacari,"Sierra Nevada, Tutu Iku",1848,2016,0.7,Ecuador,4.0,Colombia,54,rare,Average Amount,Ecuador
+1189,Pacari,Garaua,1415,2014,0.7,Ecuador,3.25,Ecuador,54,rare,Average Amount,Ecuador
+1190,Pacari,Cumbia,1415,2014,0.7,Ecuador,3.5,Ecuador,54,rare,Average Amount,Ecuador
+1191,Pacari,Montubia,1415,2014,0.7,Ecuador,3.75,Ecuador,54,rare,Average Amount,Ecuador
+1192,Pacari,Tangara,1415,2014,0.7,Ecuador,4.0,Ecuador,54,rare,Average Amount,Ecuador
+1193,Pacari,"Ecuador, raw",817,2012,0.85,Ecuador,2.75,Ecuador,54,rare,High Amount,Ecuador
+1194,Pacari,Piura,863,2012,0.7,Ecuador,4.0,Peru,54,rare,Average Amount,Ecuador
+1195,Pacari,Nube- prototype,721,2011,0.7,Ecuador,3.5,Ecuador,54,rare,Average Amount,Ecuador
+1196,Pacari,Esmeraldas,224,2008,0.6,Ecuador,2.5,Ecuador,54,rare,Light Amount,Ecuador
+1197,Pacari,Manabi,224,2008,0.65,Ecuador,2.75,Ecuador,54,rare,Average Amount,Ecuador
+1198,Pacari,Los Rios,224,2008,0.72,Ecuador,3.0,Ecuador,54,rare,Average Amount,Ecuador
+1199,Pacari,Raw,266,2008,1.0,Ecuador,2.0,Ecuador,54,rare,High Amount,Ecuador
+1200,Pacari,Raw,266,2008,0.7,Ecuador,3.5,Ecuador,54,rare,Average Amount,Ecuador
+1201,Palette de Bine,Lachua,1720,2016,0.7,Canada,2.75,Guatemala,117,somewhat rare,Average Amount,Canada
+1202,Palette de Bine,Maya Mtn,1720,2016,0.72,Canada,3.0,Belize,117,somewhat rare,Average Amount,Canada
+1203,Palette de Bine,"Silvestre, La Paz, Beni",1570,2015,0.7,Canada,3.25,Bolivia,117,somewhat rare,Average Amount,Canada
+1204,Palette de Bine,"San Juan Estate, Gran Couva",1570,2015,0.7,Canada,3.25,Trinidad,117,somewhat rare,Average Amount,Canada
+1205,Palette de Bine,Kokoa Kamili,1574,2015,0.72,Canada,3.5,Tanzania,117,somewhat rare,Average Amount,Canada
+1206,Palette de Bine,Lam Dong,1574,2015,0.72,Canada,3.75,Vietnam,117,somewhat rare,Average Amount,Canada
+1207,Palette de Bine,"Alto Beni, Palos Blancos",1239,2014,0.72,Canada,2.75,Bolivia,117,somewhat rare,Average Amount,Canada
+1208,Palette de Bine,Sambirano,1239,2014,0.78,Canada,3.75,Madagascar,117,somewhat rare,Average Amount,Canada
+1209,Palette de Bine,"Camino Verde P., Balao, Guayas",1303,2014,0.75,Canada,2.75,Ecuador,117,somewhat rare,Average Amount,Canada
+1210,Palette de Bine,Duo- Gran Couva & Camino Verde,1399,2014,0.75,Canada,3.5,"Trinidad, Ecuador",117,somewhat rare,Average Amount,Canada
+1211,Palette de Bine,Gran Couva,1399,2014,0.7,Canada,3.75,Trinidad,117,somewhat rare,Average Amount,Canada
+1212,Pangea,Matasawalevu,1860,2016,0.76,Spain,3.0,Fiji,21,extra rare,Average Amount,Spain
+1213,Park 75,South America,1363,2014,0.65,U.S.A.,3.5,South America,738,most common,Average Amount,United States of America
+1214,Parliament,Kilombero Valley,1856,2016,0.7,U.S.A.,3.25,Tanzania,738,most common,Average Amount,United States of America
+1215,Parliament,"Lachua, Q'egchi families",1542,2015,0.7,U.S.A.,3.5,Guatemala,738,most common,Average Amount,United States of America
+1216,Parliament,Alto Beni,1251,2014,0.7,U.S.A.,3.0,Bolivia,738,most common,Average Amount,United States of America
+1217,Parliament,Oko Caribe,1255,2014,0.7,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+1218,Pascha,Peru,1137,2013,0.55,Peru,2.5,Peru,17,extra rare,Light Amount,Peru
+1219,Pascha,Peru,1137,2013,0.7,Peru,2.75,Peru,17,extra rare,Average Amount,Peru
+1220,Patric,Madagascar,331,2009,0.75,U.S.A.,4.0,Madagascar,738,most common,Average Amount,United States of America
+1221,Patric,Madagascar,439,2009,0.67,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+1222,Patric,"Rio Caribe, Paria Penninsula",439,2009,0.7,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+1223,Patric,Madagascar,196,2007,0.7,U.S.A.,4.0,Madagascar,738,most common,Average Amount,United States of America
+1224,Patric,"Piura, Choc. Garage Exclusive",1034,2013,0.67,U.S.A.,4.0,Peru,738,most common,Average Amount,United States of America
+1225,Paul Young,"Madagascar, w/ shell",1271,2014,0.73,U.K.,2.25,Madagascar,95,somewhat rare,Average Amount,United Kingdom
+1226,Paul Young,"Madagascar, w/ shell",1271,2014,0.64,U.K.,2.75,Madagascar,95,somewhat rare,Light Amount,United Kingdom
+1227,Peppalo,Dominican Republic,1454,2015,0.82,U.S.A.,3.0,Dominican Republic,738,most common,High Amount,United States of America
+1228,Pierre Marcolini,"Haut Penja, w/ nibs",1658,2015,0.7,Belgium,3.25,Cameroon,37,rare,Average Amount,Belgium
+1229,Pierre Marcolini,Chuao,478,2010,0.75,Belgium,3.0,Venezuela,37,rare,Average Amount,Belgium
+1230,Pierre Marcolini,Trinite,478,2010,0.75,Belgium,3.25,Trinidad,37,rare,Average Amount,Belgium
+1231,Pierre Marcolini,"Baracoa, Cuba",516,2010,0.78,Belgium,3.75,Cuba,37,rare,Average Amount,Belgium
+1232,Pierre Marcolini,"Peru, Las Pampas P.",531,2010,0.85,Belgium,3.0,Peru,37,rare,High Amount,Belgium
+1233,Pierre Marcolini,"Bahia Brazil, Fazenda Sao Pedro",414,2009,0.72,Belgium,3.0,Brazil,37,rare,Average Amount,Belgium
+1234,Pierre Marcolini,"Porcelana, Tabasco, Finca La Joya",445,2009,0.72,Belgium,3.0,Mexico,37,rare,Average Amount,Belgium
+1235,Pierre Marcolini,Cabosse,111,2007,0.7,Belgium,4.0,"Venezuela, Java",37,rare,Average Amount,Belgium
+1236,Pierre Marcolini,"Los Rios, Puerto Romero, Equateur",129,2007,0.72,Belgium,3.75,Ecuador,37,rare,Average Amount,Belgium
+1237,Pierre Marcolini,"Sambirano, Ambanja, Madagascar",141,2007,0.72,Belgium,4.0,Madagascar,37,rare,Average Amount,Belgium
+1238,Pierre Marcolini,Fleur de Cacao,166,2007,0.85,Belgium,3.5,Venezuela/ Ghana,37,rare,High Amount,Belgium
+1239,Pierre Marcolini,"Porcelana, Tabasco, Limited Ed.",81,2006,0.72,Belgium,4.0,Mexico,37,rare,Average Amount,Belgium
+1240,Pierre Marcolini,"Kendem Lembu, Java",93,2006,0.72,Belgium,3.0,Indonesia,37,rare,Average Amount,Belgium
+1241,Pierre Marcolini,"Ocumare, Puerto Cabello, Venezuela",93,2006,0.72,Belgium,4.0,Venezuela,37,rare,Average Amount,Belgium
+1242,Pinellas,Wampusirpi Region,1772,2016,0.8,U.S.A.,2.5,Honduras,738,most common,High Amount,United States of America
+1243,Pitch Dark,Tenor,1506,2015,0.62,U.S.A.,2.5,Nicaragua,738,most common,Light Amount,United States of America
+1244,Pitch Dark,Johe,1506,2015,0.8,U.S.A.,2.75,Nicaragua,738,most common,High Amount,United States of America
+1245,Pitch Dark,Chuno,1510,2015,0.8,U.S.A.,2.75,Nicaragua,738,most common,High Amount,United States of America
+1246,Pitch Dark,Nicalizo,1510,2015,0.8,U.S.A.,2.75,Nicaragua,738,most common,High Amount,United States of America
+1247,Pitch Dark,Rugoso,1510,2015,0.8,U.S.A.,3.25,Nicaragua,738,most common,High Amount,United States of America
+1248,Pitch Dark,Akesson Estate,1311,2014,0.73,U.S.A.,3.25,Madagascar,738,most common,Average Amount,United States of America
+1249,Pitch Dark,Namau Village,1315,2014,0.73,U.S.A.,2.5,Fiji,738,most common,Average Amount,United States of America
+1250,Pitch Dark,"Camino Verde P., Balao, Guayas, ""Fruity""",1319,2014,0.73,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+1251,Pitch Dark,"Camino Verde P., Balao, Guayas, ""Floral""",1319,2014,0.73,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+1252,Pomm (aka Dead Dog),"La Red, 2011",829,2012,0.76,U.S.A.,2.5,Dominican Republic,738,most common,Average Amount,United States of America
+1253,Pomm (aka Dead Dog),Peru,829,2012,0.82,U.S.A.,2.75,Peru,738,most common,High Amount,United States of America
+1254,Potomac,"Oko Caribe, Duarte Province, 2016 H.",1820,2016,0.7,U.S.A.,3.75,Domincan Republic,738,most common,Average Amount,United States of America
+1255,Potomac,"Cuyagua, 2013",1387,2014,0.7,U.S.A.,3.75,Venezuela,738,most common,Average Amount,United States of America
+1256,Potomac,Upala w/ nibs,647,2011,0.7,U.S.A.,3.5,Costa Rica,738,most common,Average Amount,United States of America
+1257,Potomac,"Upala, Batch 18",654,2011,0.7,U.S.A.,3.0,Costa Rica,738,most common,Average Amount,United States of America
+1258,Potomac,"San Martin, Amazonian Highlands",789,2011,0.7,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+1259,Potomac,Bahia,789,2011,0.7,U.S.A.,3.5,Brazil,738,most common,Average Amount,United States of America
+1260,Potomac,"Upala, Batch 12",607,2010,0.82,U.S.A.,3.75,Costa Rica,738,most common,High Amount,United States of America
+1261,Pralus,Peru,1446,2015,0.75,France,3.25,Peru,144,somewhat common,Average Amount,France
+1262,Pralus,"Porcelana, S. of Lake Maracaibo",717,2011,0.75,France,3.25,Venezuela,144,somewhat common,Average Amount,France
+1263,Pralus,Chuao,486,2010,0.75,France,3.5,Venezuela,144,somewhat common,Average Amount,France
+1264,Pralus,Cuyagua,451,2009,0.75,France,2.0,Venezuela,144,somewhat common,Average Amount,France
+1265,Pralus,Papouasie,199,2008,0.75,France,3.0,Papua New Guinea,144,somewhat common,Average Amount,France
+1266,Pralus,"Sambirano Valley, Le 100%",202,2008,1.0,France,3.0,Madagascar,144,somewhat common,High Amount,France
+1267,Pralus,Dominican Republic-Organic,280,2008,0.75,France,2.0,Dominican Republic,144,somewhat common,Average Amount,France
+1268,Pralus,"Monte Alegre, Diego Badero",280,2008,0.75,France,3.5,Brazil,144,somewhat common,Average Amount,France
+1269,Pralus,Claudio Corallo w/ nibs,162,2007,0.75,France,4.0,Sao Tome,144,somewhat common,Average Amount,France
+1270,Pralus,"Monte Alegre (Itacare), Brazil",105,2006,0.75,France,3.0,Brazil,144,somewhat common,Average Amount,France
+1271,Pralus,Tanzania,105,2006,0.75,France,3.5,Tanzania,144,somewhat common,Average Amount,France
+1272,Pralus,Sao Tome & Principe,5,2006,0.75,France,3.5,Sao Tome & Principe,144,somewhat common,Average Amount,France
+1273,Pralus,Trinidad,5,2006,0.75,France,3.5,Trinidad,144,somewhat common,Average Amount,France
+1274,Pralus,"Madagascar, Nosy Be Isle.",5,2006,0.75,France,3.75,Madagascar,144,somewhat common,Average Amount,France
+1275,Pralus,"Java, Indonesie",32,2006,0.75,France,3.5,Indonesia,144,somewhat common,Average Amount,France
+1276,Pralus,"Barlovento, Venezuela",32,2006,0.75,France,3.5,Venezuela,144,somewhat common,Average Amount,France
+1277,Pralus,Jamaique,32,2006,0.75,France,4.0,Jamaica,144,somewhat common,Average Amount,France
+1278,Pralus,Equateur,40,2006,0.75,France,3.0,Ecuador,144,somewhat common,Average Amount,France
+1279,Pralus,Vanuatu,40,2006,0.75,France,3.0,Vanuatu,144,somewhat common,Average Amount,France
+1280,Pralus,Ghana,40,2006,0.75,France,3.25,Ghana,144,somewhat common,Average Amount,France
+1281,Pralus,Colombie,40,2006,0.75,France,3.5,Colombia,144,somewhat common,Average Amount,France
+1282,Pralus,Fortissima,93,2006,0.8,France,4.0,Ecuador,144,somewhat common,High Amount,France
+1283,Pralus,Cuba,99,2006,0.75,France,3.0,Cuba,144,somewhat common,Average Amount,France
+1284,Pralus,"Caracas, Venezuela and Ghana",99,2006,0.75,France,3.0,"Venezuela, Ghana",144,somewhat common,Average Amount,France
+1285,Pralus,"Djakarta, Java and Ghana",99,2006,0.75,France,3.5,"Indonesia, Ghana",144,somewhat common,Average Amount,France
+1286,Pump Street Bakery,"Chocoan Rainforest, Teroro Escondido, ESM",1872,2016,0.77,U.K.,3.5,Ecuador,95,somewhat rare,Average Amount,United Kingdom
+1287,Pump Street Bakery,"Crayfish Bay Estate, 2014",1502,2015,0.7,U.K.,3.5,Grenada,95,somewhat rare,Average Amount,United Kingdom
+1288,Pump Street Bakery,"Akesson's, batch 4411",1530,2015,0.74,U.K.,3.5,Madagascar,95,somewhat rare,Average Amount,United Kingdom
+1289,Pump Street Bakery,Honduras,1688,2015,0.8,U.K.,2.75,Honduras,95,somewhat rare,High Amount,United Kingdom
+1290,Pump Street Bakery,"Patanemo Vil., Carabobo State, Tisano family",1223,2014,0.75,U.K.,2.75,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+1291,Pump Street Bakery,Guantupi River,1223,2014,0.75,U.K.,3.0,Ecuador,95,somewhat rare,Average Amount,United Kingdom
+1292,Pump Street Bakery,"Akessons Estate, Sambirano, Ambanja",1223,2014,0.72,U.K.,3.25,Madagascar,95,somewhat rare,Average Amount,United Kingdom
+1293,Pump Street Bakery,Guantupi River,1227,2014,0.85,U.K.,2.75,Ecuador,95,somewhat rare,High Amount,United Kingdom
+1294,Pura Delizia,Venezuela,931,2012,0.73,Italy,2.75,Venezuela,54,rare,Average Amount,Italy
+1295,Q Chocolate,Brazil,1057,2013,0.75,Brazil,3.25,Brazil,17,extra rare,Average Amount,Brazil
+1296,Q Chocolate,Brazil,1057,2013,0.85,Brazil,3.5,Brazil,17,extra rare,High Amount,Brazil
+1297,Q Chocolate,Brazil,1069,2013,0.55,Brazil,2.75,Brazil,17,extra rare,Light Amount,Brazil
+1298,Q Chocolate,Brazil,1069,2013,0.8,Brazil,3.25,Brazil,17,extra rare,High Amount,Brazil
+1299,Q Chocolate,Brazil,935,2012,0.6,Brazil,3.0,Brazil,17,extra rare,Light Amount,Brazil
+1300,Q Chocolate,Brazil,935,2012,0.65,Brazil,3.25,Brazil,17,extra rare,Average Amount,Brazil
+1301,Quetzalli (Wolter),"Mexico, Lot 28022016",1796,2016,0.7,Mexico,2.75,Mexico,4,extra rare,Average Amount,Mexico
+1302,Quetzalli (Wolter),"Uranga, Lot 22032016",1800,2016,0.74,Mexico,3.0,Mexico,4,extra rare,Average Amount,Mexico
+1303,Raaka,Amazon Basin Blend,1788,2016,0.7,U.S.A.,3.0,"Peru(SMartin,Pangoa,nacional)",738,most common,Average Amount,United States of America
+1304,Raaka,Virunga,1708,2015,0.75,U.S.A.,2.75,Congo,738,most common,Average Amount,United States of America
+1305,Raaka,Madagascar,959,2012,0.75,U.S.A.,3.25,Madagascar,738,most common,Average Amount,United States of America
+1306,Raaka,La Red,785,2011,0.85,U.S.A.,3.5,Dominican Republic,738,most common,High Amount,United States of America
+1307,Rain Republic,Suchitepequez E.,470,2010,0.7,Guatemala,2.75,Guatemala,10,extra rare,Average Amount,Guatemala
+1308,Rancho San Jacinto,Ecuador,565,2010,0.75,Eucador,3.0,Ecuador,1,extra rare,Average Amount,Amsterdam
+1309,Ranger,"San Martin, Batch 2",1558,2015,0.7,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+1310,Ranger,"Chulucanas, Batch 1",1562,2015,0.8,U.S.A.,3.25,Peru,738,most common,High Amount,United States of America
+1311,Ranger,"Tumbes, Batch 2",1562,2015,0.73,U.S.A.,3.5,Peru,738,most common,Average Amount,United States of America
+1312,Raoul Boulanger,Piura,1872,2016,0.75,France,3.25,Peru,144,somewhat common,Average Amount,France
+1313,Republica del Cacao (aka Confecta),Esmeraldas,494,2010,0.75,Ecuador,3.25,Ecuador,54,rare,Average Amount,Ecuador
+1314,Republica del Cacao (aka Confecta),"Los Rios, Vinces",439,2009,0.75,Ecuador,2.5,Ecuador,54,rare,Average Amount,Ecuador
+1315,Republica del Cacao (aka Confecta),Manabi,147,2007,0.75,Ecuador,3.0,Ecuador,54,rare,Average Amount,Ecuador
+1316,Republica del Cacao (aka Confecta),El Oro,147,2007,0.67,Ecuador,3.5,Ecuador,54,rare,Average Amount,Ecuador
+1317,Republica del Cacao (aka Confecta),Los Rios,170,2007,0.75,Ecuador,3.75,Ecuador,54,rare,Average Amount,Ecuador
+1318,Ritual,"Camino Verde P., Balao, 2015 harvest, batch8",1860,2016,0.75,U.S.A.,3.75,Ecuador,738,most common,Average Amount,United States of America
+1319,Ritual,"Camino Verde P., Balao, Guayas, 2014",1466,2015,0.85,U.S.A.,3.5,Ecuador,738,most common,High Amount,United States of America
+1320,Ritual,"Toledo District, Maya",1089,2013,0.75,U.S.A.,3.75,Belize,738,most common,Average Amount,United States of America
+1321,Ritual,"Maranon, Cajamarca",1181,2013,0.75,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+1322,Ritual,Sambirano,891,2012,0.75,U.S.A.,4.0,Madagascar,738,most common,Average Amount,United States of America
+1323,Ritual,"Camino Verde P., 2012, Balao, Guayas",967,2012,0.75,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+1324,Ritual,Gran Couva,979,2012,0.75,U.S.A.,3.5,Trinidad,738,most common,Average Amount,United States of America
+1325,Ritual,Costa Rica,745,2011,0.75,U.S.A.,3.5,Costa Rica,738,most common,Average Amount,United States of America
+1326,Roasting Masters,"La Dorado, light roast",1844,2016,0.7,South Korea,3.25,Costa Rica,5,extra rare,Average Amount,South Korea
+1327,Roasting Masters,"Tapanti, light roast",1844,2016,0.7,South Korea,3.25,Costa Rica,5,extra rare,Average Amount,South Korea
+1328,Roasting Masters,Maleku,1844,2016,0.7,South Korea,3.25,Costa Rica,5,extra rare,Average Amount,South Korea
+1329,Robert (aka Chocolaterie Robert),Madagascar,1061,2013,0.75,Madagascar,3.25,Madagascar,17,extra rare,Average Amount,Madagascar
+1330,Robert (aka Chocolaterie Robert),Madagascar w/ nibs,1061,2013,0.68,Madagascar,3.25,Madagascar,17,extra rare,Average Amount,Madagascar
+1331,Rococo (Grenada Chocolate Co.),"Gru Grococo, St. Andrews",923,2012,0.66,U.K.,3.5,Grenada,95,somewhat rare,Average Amount,United Kingdom
+1332,Rogue,"La Masica, Batch 1, FHIA Research Center",1748,2016,0.75,U.S.A.,3.75,Honduras,738,most common,Average Amount,United States of America
+1333,Rogue,"Caranero, Choc. Garage Exclusive",1446,2015,0.7,U.S.A.,3.75,Venezuela,738,most common,Average Amount,United States of America
+1334,Rogue,"Tranquilidad, Batch 1",1566,2015,0.75,U.S.A.,3.25,Bolivia,738,most common,Average Amount,United States of America
+1335,Rogue,Porcelana,1209,2014,0.8,U.S.A.,3.75,Venezuela,738,most common,High Amount,United States of America
+1336,Rogue,"Akessons Estate, Sambirano, 2013",1038,2013,0.7,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+1337,Rogue,"Hispaniola, 2013",1081,2013,0.7,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+1338,Rogue,"Silvestre, Batch 7, 2013",1081,2013,0.75,U.S.A.,4.0,Bolivia,738,most common,Average Amount,United States of America
+1339,Rogue,"Bachelor's Hall E., St. Thomas Parish",1193,2013,0.75,U.S.A.,3.75,Jamaica,738,most common,Average Amount,United States of America
+1340,Rogue,"Camino Verde P., Balao, Guayas",979,2012,0.75,U.S.A.,3.75,Ecuador,738,most common,Average Amount,United States of America
+1341,Rogue,"Silvestre, Batch 1, 2011",793,2011,0.75,U.S.A.,3.0,Bolivia,738,most common,Average Amount,United States of America
+1342,Rogue,Piura,565,2010,0.75,U.S.A.,3.75,Peru,738,most common,Average Amount,United States of America
+1343,Rogue,Rio Caribe,327,2009,0.7,U.S.A.,3.5,Venezuela,738,most common,Average Amount,United States of America
+1344,Rogue,"Hispaniola, 2008",213,2008,0.7,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+1345,Rogue,Jamaica,213,2008,0.7,U.S.A.,2.75,Jamaica,738,most common,Average Amount,United States of America
+1346,Rogue,"Sambirano, 2008",213,2008,0.7,U.S.A.,2.75,Madagascar,738,most common,Average Amount,United States of America
+1347,Rogue,Trinidad,213,2008,0.7,U.S.A.,3.0,Trinidad,738,most common,Average Amount,United States of America
+1348,Rozsavolgyi,Sur del Lago,809,2012,0.84,Hungary,2.5,Venezuela,22,extra rare,High Amount,Hungary
+1349,Rozsavolgyi,"Rio Caribe Superior, Paria Penninsula",871,2012,0.76,Hungary,2.25,Venezuela,22,extra rare,Average Amount,Hungary
+1350,Rozsavolgyi,"Sambirano, Akesson Estate",871,2012,0.72,Hungary,2.5,Madagascar,22,extra rare,Average Amount,Hungary
+1351,Rozsavolgyi,Carenero Superior,713,2011,0.73,Hungary,3.5,Venezuela,22,extra rare,Average Amount,Hungary
+1352,Rozsavolgyi,Porcelana,717,2011,0.71,Hungary,2.5,Venezuela,22,extra rare,Average Amount,Hungary
+1353,Rozsavolgyi,"Aragua, Trincheras",717,2011,0.7,Hungary,3.5,Venezuela,22,extra rare,Average Amount,Hungary
+1354,Rozsavolgyi,Principe,765,2011,0.77,Hungary,2.75,Principe,22,extra rare,Average Amount,Hungary
+1355,S.A.I.D.,Malgascio,607,2010,0.64,Italy,3.5,Madagascar,54,rare,Light Amount,Italy
+1356,S.A.I.D.,Samana,615,2010,0.7,Italy,3.0,Dominican Republic,54,rare,Average Amount,Italy
+1357,S.A.I.D.,Arawak,615,2010,0.72,Italy,3.5,Carribean,54,rare,Average Amount,Italy
+1358,Sacred,Midnight,813,2012,0.83,U.S.A.,2.75,Central and S. America,738,most common,High Amount,United States of America
+1359,Sacred,Twilight,813,2012,0.69,U.S.A.,3.25,Central and S. America,738,most common,Average Amount,United States of America
+1360,Salgado,Bahia Superior,288,2008,0.7,Argentina,3.5,Brazil,9,extra rare,Average Amount,Argentina
+1361,Salgado,Esmeraldas,288,2008,0.7,Argentina,3.5,Ecuador,9,extra rare,Average Amount,Argentina
+1362,Salgado,Carenero Superior,288,2008,0.7,Argentina,3.5,Venezuela,9,extra rare,Average Amount,Argentina
+1363,Salgado,Rio Arriba,292,2008,0.7,Argentina,3.5,Ecuador,9,extra rare,Average Amount,Argentina
+1364,Santander (Compania Nacional),Colombian 2008,404,2009,0.75,Colombia,2.75,Colombia,23,extra rare,Average Amount,Colombia
+1365,Santander (Compania Nacional),Colombian w/ nibs,414,2009,0.7,Colombia,3.0,Colombia,23,extra rare,Average Amount,Colombia
+1366,Santander (Compania Nacional),Colombian Semi Dark,32,2006,0.53,Colombia,2.0,Colombia,23,extra rare,Light Amount,Colombia
+1367,Santander (Compania Nacional),Colombian,32,2006,0.65,Colombia,3.0,Colombia,23,extra rare,Average Amount,Colombia
+1368,Santander (Compania Nacional),Colombian Dark,32,2006,0.7,Colombia,4.0,Colombia,23,extra rare,Average Amount,Colombia
+1369,Santome,Sao Tome,761,2011,0.7,France,2.75,Sao Tome,144,somewhat common,Average Amount,France
+1370,Scharffen Berger,San Juan de Cheni,959,2012,0.78,U.S.A.,4.0,Peru,738,most common,Average Amount,United States of America
+1371,Scharffen Berger,Markham Valley,781,2011,0.68,U.S.A.,3.75,Papua New Guinea,738,most common,Average Amount,United States of America
+1372,Scharffen Berger,Camahogne,464,2010,0.68,U.S.A.,3.5,Grenada,738,most common,Average Amount,United States of America
+1373,Scharffen Berger,Amina,464,2010,0.65,U.S.A.,3.75,Madagascar,738,most common,Average Amount,United States of America
+1374,Scharffen Berger,Tome Acu,336,2009,0.68,U.S.A.,3.75,Brazil,738,most common,Average Amount,United States of America
+1375,Scharffen Berger,Asante,336,2009,0.65,U.S.A.,4.0,Ghana,738,most common,Average Amount,United States of America
+1376,Scharffen Berger,Ben Tre,445,2009,0.72,U.S.A.,3.75,Vietnam,738,most common,Average Amount,United States of America
+1377,Scharffen Berger,Finisterra,227,2008,0.72,U.S.A.,3.0,"Ven., Trinidad, Mad.",738,most common,Average Amount,United States of America
+1378,Scharffen Berger,Las Islas,117,2007,0.72,U.S.A.,3.0,Carribean(DR/Jam/Tri),738,most common,Average Amount,United States of America
+1379,Scharffen Berger,Cuyagua,135,2007,0.75,U.S.A.,3.75,Venezuela,738,most common,Average Amount,United States of America
+1380,Scharffen Berger,Antilles (Trin/Gren/DR/Ven),188,2007,0.75,U.S.A.,3.0,Carribean,738,most common,Average Amount,United States of America
+1381,Scharffen Berger,Kumasi Sambirano,40,2006,0.68,U.S.A.,2.0,Ghana & Madagascar,738,most common,Average Amount,United States of America
+1382,Scharffen Berger,Jamaica a l'ancienne,56,2006,0.7,U.S.A.,2.0,Jamaica,738,most common,Average Amount,United States of America
+1383,Seaforth,Dominican Republic,1658,2015,0.7,U.K.,2.75,Domincan Republic,95,somewhat rare,Average Amount,United Kingdom
+1384,Seaforth,Grenada,1658,2015,0.7,U.K.,2.75,Grenada,95,somewhat rare,Average Amount,United Kingdom
+1385,Shark Mountain,Jamaica,1450,2015,0.72,U.S.A.,3.25,Jamaica,738,most common,Average Amount,United States of America
+1386,Shark Mountain,Papua New Guinea,1450,2015,0.73,U.S.A.,3.5,Papua New Guinea,738,most common,Average Amount,United States of America
+1387,Shark Mountain,Cuyagua,1466,2015,0.77,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+1388,Shark Mountain,ROIG,1466,2015,0.74,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+1389,Shark Mountain,Ecuador,1335,2014,0.75,U.S.A.,3.0,Ecuador,738,most common,Average Amount,United States of America
+1390,Shark Mountain,"Belize, 2013",1335,2014,0.72,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+1391,Shark's,Hilo,713,2011,0.73,U.S.A.,2.0,Hawaii,738,most common,Average Amount,United States of America
+1392,Shark's,"Hilo, w/ added cocoa butter",721,2011,0.73,U.S.A.,2.5,Hawaii,738,most common,Average Amount,United States of America
+1393,Shattel,Tingo Maria,1884,2016,0.7,Peru,3.25,Peru,17,extra rare,Average Amount,Peru
+1394,Shattell,Porcelana,757,2011,0.75,Peru,3.5,Peru,17,extra rare,Average Amount,Peru
+1395,Sibu,Oro,1586,2015,0.82,Costa Rica,3.25,Costa Rica,9,extra rare,High Amount,Costa Rica
+1396,Sibu,Oscuro,1586,2015,0.7,Costa Rica,3.5,Costa Rica,9,extra rare,Average Amount,Costa Rica
+1397,Sibu Sura,Peru,911,2012,0.7,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+1398,Silvio Bessone,Maya Belize,717,2011,0.67,Italy,3.0,Belize,54,rare,Average Amount,Italy
+1399,Silvio Bessone,"Trintade, Sao Tome",725,2011,0.65,Italy,3.25,Sao Tome,54,rare,Average Amount,Italy
+1400,Silvio Bessone,"Bahia, Scavina",729,2011,0.6,Italy,3.25,Brazil,54,rare,Light Amount,Italy
+1401,Silvio Bessone,"Porcelana, Colombia, Amazonas",741,2011,0.68,Italy,3.0,Colombia,54,rare,Average Amount,Italy
+1402,Sirene,Wild Bolivia,1788,2016,0.73,Canada,3.5,Bolivia,117,somewhat rare,Average Amount,Canada
+1403,Sirene,Kokoa Kamili Coop,1856,2016,0.73,Canada,3.5,Tanzania,117,somewhat rare,Average Amount,Canada
+1404,Sirene,"Esmeraldas, Salazar Farm",1860,2016,0.73,Canada,3.75,Ecuador,117,somewhat rare,Average Amount,Canada
+1405,Sirene,"Somia Plantation, 2012",1502,2015,1.0,Canada,3.0,Madagascar,117,somewhat rare,High Amount,Canada
+1406,Sirene,"Camino Verde P., Balao, Guayas, 2012",1506,2015,1.0,Canada,3.0,Ecuador,117,somewhat rare,High Amount,Canada
+1407,Sirene,Lachua w/ cane sugar,1614,2015,0.73,Canada,3.0,Guatemala,117,somewhat rare,Average Amount,Canada
+1408,Sirene,"Lachua w/ maple sugar, batch 5",1614,2015,0.73,Canada,3.25,Guatemala,117,somewhat rare,Average Amount,Canada
+1409,Sirene,Pisa,1650,2015,0.73,Canada,3.25,Haiti,117,somewhat rare,Average Amount,Canada
+1410,Sirene,"Somia Plantation, 2012",1339,2014,0.67,Canada,3.75,Madagascar,117,somewhat rare,Average Amount,Canada
+1411,Sirene,"Somia Plantation, 2012",1339,2014,0.73,Canada,3.75,Madagascar,117,somewhat rare,Average Amount,Canada
+1412,Sirene,"Camino Verde P., Balao, Guayas",1343,2014,0.73,Canada,3.75,Ecuador,117,somewhat rare,Average Amount,Canada
+1413,Sjolinds,Ghana,1454,2015,0.7,U.S.A.,2.75,Ghana,738,most common,Average Amount,United States of America
+1414,Sjolinds,Nicaragua,1462,2015,0.72,U.S.A.,3.0,Nicaragua,738,most common,Average Amount,United States of America
+1415,"Smooth Chocolator, The","Oko Caribe, DOR005",1940,2017,0.7,Australia,3.5,Dominican Republic,46,rare,Average Amount,Australia
+1416,"Smooth Chocolator, The","Guasare, La Sierra de Perija, batch gua001",1740,2016,0.7,Australia,3.75,Venezuela,46,rare,Average Amount,Australia
+1417,"Smooth Chocolator, The","Porcelana, Sorotaima,Machiques,batch pcl001",1740,2016,0.7,Australia,4.0,Ecuador,46,rare,Average Amount,Australia
+1418,"Smooth Chocolator, The","Maya Mtn, Moho R., Toledo D.",1756,2016,0.7,Australia,3.75,Belize,46,rare,Average Amount,Australia
+1419,"Smooth Chocolator, The",Tien Giang,1864,2016,0.7,Australia,3.0,Vietnam,46,rare,Average Amount,Australia
+1420,"Smooth Chocolator, The",Australia,1864,2016,0.67,Australia,3.75,Australia,46,rare,Average Amount,Australia
+1421,"Smooth Chocolator, The","Chimelb, Lanquin, Alta Verapaz, b-GUA001",1908,2016,0.7,Australia,3.25,Guatemala,46,rare,Average Amount,Australia
+1422,"Smooth Chocolator, The",Akesson's Estate,1618,2015,0.65,Australia,3.25,Madagascar,46,rare,Average Amount,Australia
+1423,"Smooth Chocolator, The",Akesson's Estate,1622,2015,0.7,Australia,3.5,Madagascar,46,rare,Average Amount,Australia
+1424,"Smooth Chocolator, The",Kokoa Kamili,1622,2015,0.67,Australia,3.75,Tanzania,46,rare,Average Amount,Australia
+1425,"Smooth Chocolator, The",San Juan Estate,1622,2015,0.7,Australia,3.75,Trinidad,46,rare,Average Amount,Australia
+1426,"Smooth Chocolator, The",Camino Verde,1622,2015,0.72,Australia,4.0,Ecuador,46,rare,Average Amount,Australia
+1427,"Smooth Chocolator, The",Bolivia,1626,2015,0.72,Australia,2.75,Bolivia,46,rare,Average Amount,Australia
+1428,"Smooth Chocolator, The","Papua New Guinea, triple roast, batch 1",1662,2015,0.65,Australia,3.5,Papua New Guinea,46,rare,Average Amount,Australia
+1429,"Smooth Chocolator, The","Maranon, batch 2",1666,2015,0.67,Australia,3.0,Peru,46,rare,Average Amount,Australia
+1430,"Smooth Chocolator, The","Chuao, batch 3",1666,2015,0.7,Australia,3.75,Venezuela,46,rare,Average Amount,Australia
+1431,Snake & Butterfly,Ghana,693,2011,0.67,U.S.A.,1.5,Ghana,738,most common,Average Amount,United States of America
+1432,Snake & Butterfly,Madagascar,502,2010,0.68,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+1433,Snake & Butterfly,Ecuador,502,2010,0.68,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+1434,Sol Cacao,"Ecuador, Batch 1",1812,2016,0.7,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+1435,Sol Cacao,Madagascar,1518,2015,0.72,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+1436,Solkiki,"Maranon, Fortunato No. 4",1840,2016,0.68,U.K.,2.75,Peru,95,somewhat rare,Average Amount,United Kingdom
+1437,Solkiki,"Castillo, Hispaniola, unroasted",1840,2016,0.85,U.K.,2.75,Domincan Republic,95,somewhat rare,High Amount,United Kingdom
+1438,Solomons Gold,Solomon Island,1792,2016,0.7,New Zealand,3.25,Solomon Islands,17,extra rare,Average Amount,New Zealand
+1439,Solomons Gold,Solomon Island w/ nibs,1796,2016,0.75,New Zealand,3.25,Solomon Islands,17,extra rare,Average Amount,New Zealand
+1440,Solstice,Bundibugyo,1335,2014,0.7,U.S.A.,3.0,Uganda,738,most common,Average Amount,United States of America
+1441,Solstice,Sambirano,1157,2013,0.7,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+1442,Solstice,Amazonas,1157,2013,0.7,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+1443,Solstice,Bolivia,1161,2013,0.7,U.S.A.,3.25,Bolivia,738,most common,Average Amount,United States of America
+1444,Solstice,San Martin,1161,2013,0.7,U.S.A.,3.25,Peru,738,most common,Average Amount,United States of America
+1445,Soma,"Oko Caribe, Duarte P., Collab w Chocosol",1820,2016,0.62,Canada,3.5,Domincan Republic,117,somewhat rare,Light Amount,Canada
+1446,Soma,"Sambirano Valley, Black Science, B-60307.0",1820,2016,0.7,Canada,3.5,Madagascar,117,somewhat rare,Average Amount,Canada
+1447,Soma,"Bahia Black, batch bra50722.1",1828,2016,0.7,Canada,3.5,Brazil,117,somewhat rare,Average Amount,Canada
+1448,Soma,"Abstract S. w/ Jamaica nibs,batch abs60323.0",1828,2016,0.75,Canada,3.75,"Ven.,Ecu.,Peru,Nic.",117,somewhat rare,Average Amount,Canada
+1449,Soma,"Chuno, San Jose de Bocay, Pantasma R.,B.S.",1828,2016,0.7,Canada,3.75,Nicaragua,117,somewhat rare,Average Amount,Canada
+1450,Soma,"Tien Giang, Black S., batch VIT60420.0",1828,2016,0.7,Canada,4.0,Vietnam,117,somewhat rare,Average Amount,Canada
+1451,Soma,"Camino Verde, Black S., batch cvu6030.0",1832,2016,0.7,Canada,3.25,Ecuador,117,somewhat rare,Average Amount,Canada
+1452,Soma,CSB Chama,1594,2015,0.7,Canada,3.5,Venezuela,117,somewhat rare,Average Amount,Canada
+1453,Soma,Porcelana,1594,2015,0.75,Canada,4.0,Venezuela,117,somewhat rare,Average Amount,Canada
+1454,Soma,"La Tronca, Matagalpa",1227,2014,0.7,Canada,3.5,Nicaragua,117,somewhat rare,Average Amount,Canada
+1455,Soma,Maranon Canyon,1259,2014,0.7,Canada,3.75,Peru,117,somewhat rare,Average Amount,Canada
+1456,Soma,La Dalia,1307,2014,0.7,Canada,3.25,Nicaragua,117,somewhat rare,Average Amount,Canada
+1457,Soma,"Camino Verde P., Balao, Guayas",1307,2014,0.8,Canada,3.5,Ecuador,117,somewhat rare,High Amount,Canada
+1458,Soma,"Espiritu Santo, 'Smoke Monster'",1307,2014,0.7,Canada,3.75,Vanuatu,117,somewhat rare,Average Amount,Canada
+1459,Soma,Little Big Man,1339,2014,0.7,Canada,3.25,Madagascar & Ecuador,117,somewhat rare,Average Amount,Canada
+1460,Soma,"Rizek Cacao, Domin. Rep.",1019,2013,0.77,Canada,3.75,Dominican Republic,117,somewhat rare,Average Amount,Canada
+1461,Soma,Java,1030,2013,0.7,Canada,3.25,Indonesia,117,somewhat rare,Average Amount,Canada
+1462,Soma,"Apurimac, El Quinacho Co-op",1073,2013,0.7,Canada,2.75,Peru,117,somewhat rare,Average Amount,Canada
+1463,Soma,"Sangre Grande P., Trinidad",1073,2013,0.7,Canada,3.75,Trinidad,117,somewhat rare,Average Amount,Canada
+1464,Soma,Patanemo,1077,2013,0.7,Canada,3.75,Venezuela,117,somewhat rare,Average Amount,Canada
+1465,Soma,Crazy 88,1077,2013,0.88,Canada,4.0,"Guat., D.R., Peru, Mad., PNG",117,somewhat rare,High Amount,Canada
+1466,Soma,"Maracaibo, El Vigia",1077,2013,0.7,Canada,4.0,Venezuela,117,somewhat rare,Average Amount,Canada
+1467,Soma,Equator,1081,2013,0.67,Canada,4.0,"Peru, Dom. Rep",117,somewhat rare,Average Amount,Canada
+1468,Soma,Orinoco,1173,2013,0.7,Canada,3.25,Venezuela,117,somewhat rare,Average Amount,Canada
+1469,Soma,"Bachelor's Hall E., St. Thomas Parish",1177,2013,0.7,Canada,4.0,Jamaica,117,somewhat rare,Average Amount,Canada
+1470,Soma,Noula Coop,817,2012,0.7,Canada,3.25,Haiti,117,somewhat rare,Average Amount,Canada
+1471,Soma,O'ahu,833,2012,0.7,Canada,3.75,Hawaii,117,somewhat rare,Average Amount,Canada
+1472,Soma,"Dual Origins, Sambirano, Elvesia",867,2012,0.7,Canada,4.0,"Dom. Rep., Madagascar",117,somewhat rare,Average Amount,Canada
+1473,Soma,"Dancing in Your Head, 5 bean blend",867,2012,0.7,Canada,4.0,"Gre., PNG, Haw., Haiti, Mad",117,somewhat rare,Average Amount,Canada
+1474,Soma,Cahabon Region,951,2012,0.7,Canada,3.5,Guatemala,117,somewhat rare,Average Amount,Canada
+1475,Soma,Carenero Superior,951,2012,0.7,Canada,3.75,Venezuela,117,somewhat rare,Average Amount,Canada
+1476,Soma,Eastern Promises,967,2012,0.7,Canada,3.5,"Mad., Java, PNG",117,somewhat rare,Average Amount,Canada
+1477,Soma,Papua New Guinea,983,2012,0.85,Canada,3.5,Papua New Guinea,117,somewhat rare,High Amount,Canada
+1478,Soma,"Grenada, Black Science",676,2011,0.7,Canada,2.75,Grenada,117,somewhat rare,Average Amount,Canada
+1479,Soma,"Alto Beni, Wild Bolivian",676,2011,0.7,Canada,3.5,Bolivia,117,somewhat rare,Average Amount,Canada
+1480,Soma,Peruvian,676,2011,0.64,Canada,4.0,Peru,117,somewhat rare,Light Amount,Canada
+1481,Soma,"Three Amigos(Chuao, Wild Bolivia, D.R.)",676,2011,0.7,Canada,4.0,"Ven, Bolivia, D.R.",117,somewhat rare,Average Amount,Canada
+1482,Soma,"Elvesia P., Black Science",682,2011,0.7,Canada,3.75,Dominican Republic,117,somewhat rare,Average Amount,Canada
+1483,Soma,Chuao,688,2011,0.7,Canada,3.5,Venezuela,117,somewhat rare,Average Amount,Canada
+1484,Soma,Black Science Blend 1,607,2010,0.7,Canada,3.75,"DR, Ecuador, Peru",117,somewhat rare,Average Amount,Canada
+1485,Soma,Hispaniola,377,2009,0.7,Canada,3.0,Dominican Republic,117,somewhat rare,Average Amount,Canada
+1486,Soma,Africa,377,2009,0.7,Canada,3.5,Ghana,117,somewhat rare,Average Amount,Canada
+1487,Soma,Conacado,387,2009,0.7,Canada,3.0,Dominican Republic,117,somewhat rare,Average Amount,Canada
+1488,Soma,Papua New Guinea,387,2009,0.7,Canada,3.5,Papua New Guinea,117,somewhat rare,Average Amount,Canada
+1489,Soma,Madagascar,387,2009,0.7,Canada,3.75,Madagascar,117,somewhat rare,Average Amount,Canada
+1490,Soma,Ocumare,387,2009,0.7,Canada,3.75,Venezuela,117,somewhat rare,Average Amount,Canada
+1491,Somerville,Nicaragua,1367,2014,0.7,U.S.A.,3.25,Nicaragua,738,most common,Average Amount,United States of America
+1492,Somerville,"Hawaiian, Big Island",1395,2014,0.7,U.S.A.,3.5,Hawaii,738,most common,Average Amount,United States of America
+1493,Soul,Dominican Republic,1932,2017,0.7,Canada,3.25,Dominican Republic,117,somewhat rare,Average Amount,Canada
+1494,Soul,Madagascar,1936,2017,0.7,Canada,3.5,Madagascar,117,somewhat rare,Average Amount,Canada
+1495,Soul,Venezuela,1936,2017,0.75,Canada,3.5,Venezuela,117,somewhat rare,Average Amount,Canada
+1496,Soul,Ecuador,1936,2017,0.75,Canada,3.25,Ecuador,117,somewhat rare,Average Amount,Canada
+1497,Soul,Papua New Guinea,1936,2017,0.77,Canada,3.25,Papua New Guinea,117,somewhat rare,Average Amount,Canada
+1498,Soul,Tanzania,1940,2017,0.8,Canada,3.5,Tanzania,117,somewhat rare,High Amount,Canada
+1499,Spagnvola,AgroCriso Plantation,793,2012,0.7,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+1500,Spagnvola,AgroCriso Plantation,793,2012,0.8,U.S.A.,3.0,Dominican Republic,738,most common,High Amount,United States of America
+1501,Spagnvola,AgroCriso Plantation,793,2012,0.75,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+1502,Spencer,Dominican Republic,1932,2017,0.7,U.S.A.,3.75,Dominican Republic,738,most common,Average Amount,United States of America
+1503,Spencer,Ecuador,1932,2017,0.7,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+1504,Spencer,Peru,1932,2017,0.7,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+1505,Spencer,"Dominican Republic, lot D82R",1792,2016,0.7,Australia,3.5,Domincan Republic,46,rare,Average Amount,Australia
+1506,Spencer,"Ecuador, lot E432314L",1792,2016,0.7,Australia,3.75,Ecuador,46,rare,Average Amount,Australia
+1507,Spencer,"Madagascar, lot M0403R",1792,2016,0.7,Australia,3.75,Madagascar,46,rare,Average Amount,Australia
+1508,Spencer,Malekula Island,1434,2014,0.72,Australia,2.75,Vanuatu,46,rare,Average Amount,Australia
+1509,Sprungli (Felchlin),Alto Beni,1057,2013,0.7,Switzerland,3.0,Bolivia,35,rare,Average Amount,Switzerland
+1510,SRSLY,Dominican Republic,1113,2013,0.7,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+1511,SRSLY,Dominican Republic,1121,2013,0.84,U.S.A.,2.25,Dominican Republic,738,most common,High Amount,United States of America
+1512,Starchild,"Bolivar, Arriba",1634,2015,0.7,U.S.A.,3.0,Ecuador,738,most common,Average Amount,United States of America
+1513,Starchild,Hispaniola,1692,2015,0.7,U.S.A.,3.0,Domincan Republic,738,most common,Average Amount,United States of America
+1514,Starchild,Cacao Verapaz,1692,2015,0.7,U.S.A.,3.0,Guatemala,738,most common,Average Amount,United States of America
+1515,Starchild,Rio Tuma,1692,2015,0.7,U.S.A.,3.0,Nicaragua,738,most common,Average Amount,United States of America
+1516,Starchild,Sambirano Valley,1696,2015,0.7,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+1517,Stella (aka Bernrain),"Bahia, Agri-Forestal Plantation, 2010",859,2012,0.68,Switzerland,2.75,Brazil,35,rare,Average Amount,Switzerland
+1518,Stella (aka Bernrain),India,729,2011,0.72,Switzerland,3.25,India,35,rare,Average Amount,Switzerland
+1519,Stone Grindz,"Ecuador, Midnight Dark",1291,2014,0.84,U.S.A.,3.5,Ecuador,738,most common,High Amount,United States of America
+1520,Stone Grindz,"Ecuador, Twilght Dark",1291,2014,0.7,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+1521,StRita Supreme,"Samar, East Visayas region",939,2012,0.65,U.S.A.,2.5,Philippines,738,most common,Average Amount,United States of America
+1522,StRita Supreme,"Samar, East Visayas region",943,2012,0.7,U.S.A.,2.5,Philippines,738,most common,Average Amount,United States of America
+1523,StRita Supreme,"Samar, East Visayas region",943,2012,0.75,U.S.A.,2.75,Philippines,738,most common,Average Amount,United States of America
+1524,Sublime Origins,Sambirano,1157,2013,0.67,U.S.A.,2.75,Madagascar,738,most common,Average Amount,United States of America
+1525,Sublime Origins,Moho Valley,1157,2013,0.78,U.S.A.,3.25,Belize,738,most common,Average Amount,United States of America
+1526,Summerbird,Peru,1800,2016,0.61,Denmark,2.5,Peru,15,extra rare,Light Amount,Denmark
+1527,Summerbird,Peru,1800,2016,0.71,Denmark,3.0,Peru,15,extra rare,Average Amount,Denmark
+1528,Suruca Chocolate,Venezuela,1796,2016,0.7,Venezuela,2.75,Venezuela,20,extra rare,Average Amount,Venezuela
+1529,Suruca Chocolate,Venezuela,1796,2016,0.6,Venezuela,3.0,Venezuela,20,extra rare,Light Amount,Venezuela
+1530,Svenska Kakaobolaget,Sri Lanka,1618,2015,0.7,Sweden,2.75,Sri Lanka,5,extra rare,Average Amount,Sweden
+1531,Szanto Tibor,Nacional,1668,2015,0.7,Hungary,3.25,Ecuador,22,extra rare,Average Amount,Hungary
+1532,Szanto Tibor,Baracoa,1704,2015,0.88,Hungary,3.25,Cuba,22,extra rare,High Amount,Hungary
+1533,Szanto Tibor,Ambolikapiky,1704,2015,0.7,Hungary,3.25,Madagascar,22,extra rare,Average Amount,Hungary
+1534,Szanto Tibor,"Winak, Sumaco",1704,2015,0.7,Hungary,3.75,Ecuador,22,extra rare,Average Amount,Hungary
+1535,Szanto Tibor,"Ben Tre, Mekong Delta",1708,2015,0.7,Hungary,3.25,Vietnam,22,extra rare,Average Amount,Hungary
+1536,Szanto Tibor,"Fazenda Sempre Firme, Bahia",1708,2015,0.7,Hungary,3.5,Brazil,22,extra rare,Average Amount,Hungary
+1537,Szanto Tibor,Porcelana,1263,2014,0.7,Hungary,3.5,Venezuela,22,extra rare,Average Amount,Hungary
+1538,Szanto Tibor,Baracoa,1263,2014,0.7,Hungary,3.75,Cuba,22,extra rare,Average Amount,Hungary
+1539,Szanto Tibor,"Autumn, Primary Harvest, 2012",1185,2013,0.7,Hungary,3.5,Madagascar,22,extra rare,Average Amount,Hungary
+1540,Szanto Tibor,"Spring, Secondary Harvest, 2012",1185,2013,0.7,Hungary,3.5,Madagascar,22,extra rare,Average Amount,Hungary
+1541,Szanto Tibor,Cacao Blanco,1193,2013,0.7,Hungary,3.25,Nicaragua,22,extra rare,Average Amount,Hungary
+1542,Szanto Tibor,Santo Domingo,939,2012,0.7,Hungary,3.25,Dominican Republic,22,extra rare,Average Amount,Hungary
+1543,Szanto Tibor,Millot Plantation,939,2012,0.7,Hungary,3.25,Madagascar,22,extra rare,Average Amount,Hungary
+1544,Szanto Tibor,"Ayacucho, ""El Guinacho""",939,2012,0.7,Hungary,3.75,Peru,22,extra rare,Average Amount,Hungary
+1545,Szanto Tibor,Crudo,761,2011,0.7,Hungary,3.0,Venezuela,22,extra rare,Average Amount,Hungary
+1546,Tabal,Costa Rica,1101,2013,0.7,U.S.A.,2.75,Costa Rica,738,most common,Average Amount,United States of America
+1547,Tabal,Dominican Republic,1101,2013,0.7,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+1548,Tabal,"Chiapas, Lacandon Jungle",1105,2013,0.7,U.S.A.,2.5,Mexico,738,most common,Average Amount,United States of America
+1549,Tabal,Peru,1105,2013,0.7,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+1550,Tablette (aka Vanillabeans),Colombia,1450,2015,0.7,Japan,3.0,Colombia,17,extra rare,Average Amount,Japan
+1551,Tablette (aka Vanillabeans),Papua,1450,2015,0.62,Japan,3.25,Papua New Guinea,17,extra rare,Light Amount,Japan
+1552,Tablette (aka Vanillabeans),Vietnam,1450,2015,0.6,Japan,3.25,Vietnam,17,extra rare,Light Amount,Japan
+1553,Tablette (aka Vanillabeans),Trinidad,1680,2015,0.77,Japan,2.75,Trinidad,17,extra rare,Average Amount,Japan
+1554,Tan Ban Skrati,"Paramaribo, batch 20160043-01",1868,2016,0.7,Suriname,3.25,Suriname,1,extra rare,Average Amount,Suriname
+1555,Taza,Belize,1271,2014,0.68,U.S.A.,3.0,Belize,738,most common,Average Amount,United States of America
+1556,Taza,Alto Beni,785,2011,0.87,U.S.A.,3.25,Bolivia,738,most common,High Amount,United States of America
+1557,Taza,Chiapan,451,2009,0.75,U.S.A.,2.75,Mexico,738,most common,Average Amount,United States of America
+1558,Taza,"Dark, Stone Ground",180,2007,0.7,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+1559,TCHO,West Africa,1716,2016,0.62,U.S.A.,2.0,West Africa,738,most common,Light Amount,United States of America
+1560,TCHO,Peru- Ecuador,915,2012,0.99,U.S.A.,3.25,"Peru, Ecuador",738,most common,High Amount,United States of America
+1561,TCHO,Chocolatey-beta,199,2008,0.7,U.S.A.,2.5,Ghana,738,most common,Average Amount,United States of America
+1562,TCHO,Fruity-beta,280,2008,0.7,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+1563,TCHO,Citrus-beta,280,2008,0.7,U.S.A.,2.75,Madagascar,738,most common,Average Amount,United States of America
+1564,TCHO,Nutty-beta,284,2008,0.7,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+1565,Tejas,Concepcion,801,2012,0.7,U.S.A.,2.75,Madagascar,738,most common,Average Amount,United States of America
+1566,Tejas,Bayou Blend,801,2012,0.7,U.S.A.,3.0,"Ecuador, Mad., PNG",738,most common,Average Amount,United States of America
+1567,Tejas,Aranama,805,2012,0.7,U.S.A.,3.0,Papua New Guinea,738,most common,Average Amount,United States of America
+1568,Tejas,Presidio,805,2012,0.7,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+1569,Tejas,"La Bahia, w/ cane juice",817,2012,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+1570,Tejas,Capistrano,821,2012,0.7,U.S.A.,2.0,Peru,738,most common,Average Amount,United States of America
+1571,Tejas,"La Bahia, w/ cane sugar",825,2012,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+1572,Tejas,San Jose,829,2012,0.7,U.S.A.,2.75,Bolivia,738,most common,Average Amount,United States of America
+1573,Tejas,Capistrano*,829,2012,0.7,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+1574,Tejas,Espada,833,2012,0.7,U.S.A.,3.25,Mexico,738,most common,Average Amount,United States of America
+1575,Tejas,Espada,967,2012,0.7,U.S.A.,2.75,Brazil,738,most common,Average Amount,United States of America
+1576,Tejas,Concepcion*,971,2012,0.8,U.S.A.,3.0,Venezuela,738,most common,High Amount,United States of America
+1577,Tejas,San Jose,971,2012,0.67,U.S.A.,3.25,Bolivia,738,most common,Average Amount,United States of America
+1578,Tejas,"Bahia, Floresta Azul,Good Friends Reserve#3",971,2012,0.7,U.S.A.,3.5,Brazil,738,most common,Average Amount,United States of America
+1579,Terroir,Peru,1478,2015,0.7,U.S.A.,2.75,Peru,738,most common,Average Amount,United States of America
+1580,Terroir,Belize,1478,2015,0.7,U.S.A.,3.75,Belize,738,most common,Average Amount,United States of America
+1581,Terroir,Madagascar,1478,2015,0.7,U.S.A.,3.75,Madagascar,738,most common,Average Amount,United States of America
+1582,Terroir,Ecuador,1482,2015,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+1583,Terroir,Oko Caribe,1554,2015,0.7,U.S.A.,3.5,Domincan Republic,738,most common,Average Amount,United States of America
+1584,Terroir,Guatemala,1558,2015,0.7,U.S.A.,3.75,Guatemala,738,most common,Average Amount,United States of America
+1585,Terroir,Ecuador,1323,2014,0.77,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+1586,Terroir,Madagascar,1323,2014,0.67,U.S.A.,3.75,Madagascar,738,most common,Average Amount,United States of America
+1587,Terroir,Uganda,1323,2014,0.73,U.S.A.,3.75,Uganda,738,most common,Average Amount,United States of America
+1588,The Barn,Peru,1614,2015,0.7,Sweden,3.0,Peru,5,extra rare,Average Amount,Sweden
+1589,Theo,Congo w/ nibs,903,2012,0.65,U.S.A.,3.25,Congo,738,most common,Average Amount,United States of America
+1590,Theo,Madagascar,162,2007,0.65,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+1591,Theo,Ivory Coast,184,2007,0.75,U.S.A.,2.5,Ivory Coast,738,most common,Average Amount,United States of America
+1592,Theo,"Ghana, Kumasi",184,2007,0.84,U.S.A.,3.0,Ghana,738,most common,High Amount,United States of America
+1593,Theo,"Venezuela; Barinos, Merida, Tachron",188,2007,0.91,U.S.A.,2.0,Venezuela,738,most common,High Amount,United States of America
+1594,Theo,"Ghana, Panama, Ecuador",188,2007,0.75,U.S.A.,3.0,"Ghana, Panama, Ecuador",738,most common,Average Amount,United States of America
+1595,Theobroma,"Piura Select, Cacao Blanc",1684,2015,0.7,Japan,3.25,Peru,17,extra rare,Average Amount,Japan
+1596,Timo A. Meyer,"Belize, med roast",1836,2016,0.72,Germany,3.75,Belize,35,rare,Average Amount,Germany
+1597,To'ak (Ecuatoriana),Manabi,1418,2014,0.81,Ecuador,3.25,Ecuador,54,rare,High Amount,Ecuador
+1598,Tobago Estate (Pralus),"Roxborough, Tobago",895,2012,0.7,France,4.0,Tobago,144,somewhat common,Average Amount,France
+1599,Tocoti,"Wild Bolivian, Jungle Love",927,2012,0.77,U.S.A.,3.0,Bolivia,738,most common,Average Amount,United States of America
+1600,Tocoti,Venezuela,789,2011,0.72,U.S.A.,2.75,Venezuela,738,most common,Average Amount,United States of America
+1601,Tocoti,Dominican Republic,789,2011,0.74,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+1602,Treehouse,Conacado,1239,2014,0.72,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+1603,Tsara (Cinagra),"Ambanja, Tsara Valley",753,2011,0.72,Madagascar,3.5,Madagascar,17,extra rare,Average Amount,Madagascar
+1604,twenty-four blackbirds,Oko Caribe,1700,2015,0.75,U.S.A.,2.75,Domincan Republic,738,most common,Average Amount,United States of America
+1605,twenty-four blackbirds,"Cedeno, lot 271",1700,2015,0.75,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+1606,twenty-four blackbirds,Madagascar,1235,2014,0.75,U.S.A.,3.5,Madagascar,738,most common,Average Amount,United States of America
+1607,twenty-four blackbirds,Dominican Republic,1022,2013,0.68,U.S.A.,3.25,Dominican Republic,738,most common,Average Amount,United States of America
+1608,twenty-four blackbirds,Palos Blancos,1026,2013,0.75,U.S.A.,2.5,Bolivia,738,most common,Average Amount,United States of America
+1609,twenty-four blackbirds,Dominican Republic,753,2011,0.73,U.S.A.,2.75,Dominican Republic,738,most common,Average Amount,United States of America
+1610,Two Ravens,Peru,1740,2016,0.6,U.S.A.,3.0,Peru,738,most common,Light Amount,United States of America
+1611,Un Dimanche A Paris,Dominican Republic,709,2011,0.63,France,3.75,Dominican Republic,144,somewhat common,Light Amount,France
+1612,Undone,Matagalpa,1438,2014,0.74,U.S.A.,2.75,Nicaragua,738,most common,Average Amount,United States of America
+1613,Undone,Nourish,1438,2014,0.7,U.S.A.,3.0,Dominican Republic,738,most common,Average Amount,United States of America
+1614,Upchurch,"Madagascar, Sassy Bar",1752,2016,0.72,U.S.A.,3.0,Madagascar,738,most common,Average Amount,United States of America
+1615,Upchurch,"Tanzania, Party Bar",1752,2016,0.72,U.S.A.,3.25,Tanzania,738,most common,Average Amount,United States of America
+1616,Urzi,"Sur del Lago, Merida",1327,2014,0.65,Italy,3.25,Venezuela,54,rare,Average Amount,Italy
+1617,Valrhona,"Piura, Illanka, Quemazon",1510,2015,0.63,France,4.0,Peru,144,somewhat common,Light Amount,France
+1618,Valrhona,"Loma Sotavento, 2013",1153,2013,0.64,France,3.5,Dominican Republic,144,somewhat common,Light Amount,France
+1619,Valrhona,"Otucan, Grand Cru",931,2012,0.69,France,4.0,Venezuela,144,somewhat common,Average Amount,France
+1620,Valrhona,"Porcelana, Pedegral",757,2011,0.64,France,4.0,Venezuela,144,somewhat common,Light Amount,France
+1621,Valrhona,Tainori,327,2009,0.64,France,3.75,Dominican Republic,144,somewhat common,Light Amount,France
+1622,Valrhona,Alpaco,370,2009,0.66,France,3.75,Ecuador,144,somewhat common,Average Amount,France
+1623,Valrhona,Nyangbo,395,2009,0.68,France,3.5,Ghana,144,somewhat common,Average Amount,France
+1624,Valrhona,Araguani,117,2007,0.72,France,3.0,"Venezuela, Carribean",144,somewhat common,Average Amount,France
+1625,Valrhona,Chuao 2002 P.,129,2007,0.65,France,3.75,Venezuela,144,somewhat common,Average Amount,France
+1626,Valrhona,Manjari,129,2007,0.64,France,4.0,Madagascar,144,somewhat common,Light Amount,France
+1627,Valrhona,Abinao,153,2007,0.85,France,2.5,West Africa,144,somewhat common,High Amount,France
+1628,Valrhona,Le Noir Amer,157,2007,0.71,France,2.75,West Africa,144,somewhat common,Average Amount,France
+1629,Valrhona,"Porcelana, Maracaibo, Palmira P. 2006",162,2007,0.64,France,3.25,Venezuela,144,somewhat common,Light Amount,France
+1630,Valrhona,Caraibe,63,2006,0.66,France,3.0,Carribean,144,somewhat common,Average Amount,France
+1631,Valrhona,Guanaja,63,2006,0.7,France,4.0,South America,144,somewhat common,Average Amount,France
+1632,Valrhona,Gran Couva 2005 P.,75,2006,0.64,France,2.5,Trinidad,144,somewhat common,Light Amount,France
+1633,Valrhona,"Porcelana, Maracaibo, Palmira P. 2005",75,2006,0.64,France,3.0,Venezuela,144,somewhat common,Light Amount,France
+1634,Valrhona,"Sambirano, Ampamakia 2005, Millot P.",75,2006,0.64,France,3.5,Madagascar,144,somewhat common,Light Amount,France
+1635,Vanleer (Barry Callebaut),Manhattan,963,2012,0.72,U.S.A.,2.5,Ghana,738,most common,Average Amount,United States of America
+1636,Vanleer (Barry Callebaut),Napa,963,2012,0.65,U.S.A.,2.75,Ghana,738,most common,Average Amount,United States of America
+1637,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.72,Madagascar,2.75,Madagascar,17,extra rare,Average Amount,Madagascar
+1638,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.76,Madagascar,2.75,Madagascar,17,extra rare,Average Amount,Madagascar
+1639,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.8,Madagascar,2.75,Madagascar,17,extra rare,High Amount,Madagascar
+1640,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.7,Madagascar,3.0,Madagascar,17,extra rare,Average Amount,Madagascar
+1641,Vao Vao (Chocolaterie Robert),Madagascar w/ nibs,404,2009,0.68,Madagascar,3.0,Madagascar,17,extra rare,Average Amount,Madagascar
+1642,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.64,Madagascar,3.25,Madagascar,17,extra rare,Light Amount,Madagascar
+1643,Vicuna,Palos Blancos,1470,2015,0.7,U.S.A.,3.25,Bolivia,738,most common,Average Amount,United States of America
+1644,Vicuna,Palos Blancos + nibs,1470,2015,0.7,U.S.A.,3.25,Bolivia,738,most common,Average Amount,United States of America
+1645,Videri,Dominican Republic,1211,2014,0.9,U.S.A.,3.25,Dominican Republic,738,most common,High Amount,United States of America
+1646,Videri,Trinidad,1211,2014,0.75,U.S.A.,3.5,Trinidad,738,most common,Average Amount,United States of America
+1647,Videri,Mindo,1227,2014,0.75,U.S.A.,3.5,Ecuador,738,most common,Average Amount,United States of America
+1648,Videri,Dark,1117,2013,0.9,U.S.A.,3.75,Central and S. America,738,most common,High Amount,United States of America
+1649,Videri,Classic,991,2012,0.7,U.S.A.,3.25,Central and S. America,738,most common,Average Amount,United States of America
+1650,Vietcacao (A. Morin),"Ben Tre, Mekong Delta, MoCay",951,2012,0.7,France,3.5,Vietnam,144,somewhat common,Average Amount,France
+1651,Vintage Plantations,San Martin,1205,2014,0.75,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+1652,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,1.0,U.S.A.,2.0,Ecuador,738,most common,High Amount,United States of America
+1653,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,0.9,U.S.A.,2.0,Ecuador,738,most common,High Amount,United States of America
+1654,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,0.75,U.S.A.,3.0,Ecuador,738,most common,Average Amount,United States of America
+1655,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2007",153,2007,0.65,U.S.A.,3.0,Ecuador,738,most common,Average Amount,United States of America
+1656,Violet Sky,Sambirano Valley,1458,2015,0.77,U.S.A.,2.75,Madagascar,738,most common,Average Amount,United States of America
+1657,Violet Sky,Moho River Valley,1458,2015,0.77,U.S.A.,3.0,Belize,738,most common,Average Amount,United States of America
+1658,Violet Sky,Cuyagua,1458,2015,0.77,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+1659,Violet Sky,Peru,1458,2015,0.77,U.S.A.,3.25,Peru,738,most common,Average Amount,United States of America
+1660,Violet Sky,Cahabon,1502,2015,0.77,U.S.A.,2.75,Guatemala,738,most common,Average Amount,United States of America
+1661,Vivra,Peru,1720,2016,0.7,U.S.A.,2.5,Peru,738,most common,Average Amount,United States of America
+1662,Vivra,Ocumare,1720,2016,0.7,U.S.A.,2.5,Venezuela,738,most common,Average Amount,United States of America
+1663,Vivra,Dominican Republic,1724,2016,0.7,U.S.A.,3.0,Domincan Republic,738,most common,Average Amount,United States of America
+1664,Wellington Chocolate Factory,Conacado,1756,2016,0.7,New Zealand,3.5,Dominican Republic,17,extra rare,Average Amount,New Zealand
+1665,Wellington Chocolate Factory,"Piura Blanco, Norandino",1756,2016,0.7,New Zealand,3.5,Peru,17,extra rare,Average Amount,New Zealand
+1666,Whittakers,Ghana,733,2011,0.72,New Zealand,2.5,Ghana,17,extra rare,Average Amount,New Zealand
+1667,Wilkie's Organic,Amazonas,1169,2013,0.75,Ireland,2.5,Peru,4,extra rare,Average Amount,Ireland
+1668,Wilkie's Organic,Amazonas,1169,2013,0.89,Ireland,2.75,Peru,4,extra rare,High Amount,Ireland
+1669,Wilkie's Organic,Tumbes,1169,2013,0.75,Ireland,3.25,Peru,4,extra rare,Average Amount,Ireland
+1670,Wilkie's Organic,Amazonas w/ nibs,1173,2013,0.75,Ireland,2.75,Peru,4,extra rare,Average Amount,Ireland
+1671,Willie's Cacao,Los Llanos,1848,2016,0.7,U.K.,4.0,Colombia,95,somewhat rare,Average Amount,United Kingdom
+1672,Willie's Cacao,Los Llanos,1227,2014,0.88,U.K.,3.0,Colombia,95,somewhat rare,High Amount,United Kingdom
+1673,Willie's Cacao,"Java, Indonesian Black",1109,2013,1.0,U.K.,2.25,Indonesia,95,somewhat rare,High Amount,United Kingdom
+1674,Willie's Cacao,Sambirano,593,2010,0.71,U.K.,3.0,Madagascar,95,somewhat rare,Average Amount,United Kingdom
+1675,Willie's Cacao,Hacienda Las Trincheras,593,2010,0.72,U.K.,3.5,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+1676,Willie's Cacao,Java,593,2010,0.69,U.K.,3.75,Indonesia,95,somewhat rare,Average Amount,United Kingdom
+1677,Willie's Cacao,San Martin,457,2009,0.7,U.K.,3.0,Peru,95,somewhat rare,Average Amount,United Kingdom
+1678,Willie's Cacao,Rio Caribe,457,2009,0.72,U.K.,3.25,Venezuela,95,somewhat rare,Average Amount,United Kingdom
+1679,Wm,"Guasare, Zulia Prov., 2015, batch 124",1912,2016,0.74,U.S.A.,3.0,Venezuela,738,most common,Average Amount,United States of America
+1680,Wm,"Wild Beniano, 2016, batch 128, Heirloom",1912,2016,0.76,U.S.A.,3.5,Bolivia,738,most common,Average Amount,United States of America
+1681,Wm,"Ghana, 2013, batch 129",1916,2016,0.75,U.S.A.,3.75,Ghana,738,most common,Average Amount,United States of America
+1682,Woodblock,"Maranon, Cajamarca",1243,2014,0.7,U.S.A.,3.0,Peru,738,most common,Average Amount,United States of America
+1683,Woodblock,"Camino Verde P., Balao, Guayas",1042,2013,0.7,U.S.A.,3.25,Ecuador,738,most common,Average Amount,United States of America
+1684,Woodblock,Gran Couva,1042,2013,0.7,U.S.A.,3.5,Trinidad,738,most common,Average Amount,United States of America
+1685,Woodblock,Ecuador,825,2012,0.7,U.S.A.,2.5,Ecuador,738,most common,Average Amount,United States of America
+1686,Woodblock,Costa Rica,825,2012,0.7,U.S.A.,3.0,Costa Rica,738,most common,Average Amount,United States of America
+1687,Woodblock,Sambirano,951,2012,0.7,U.S.A.,3.25,Madagascar,738,most common,Average Amount,United States of America
+1688,Woodblock,Ocumare,741,2011,0.7,U.S.A.,4.0,Venezuela,738,most common,Average Amount,United States of America
+1689,Woodblock,La Red,769,2011,0.7,U.S.A.,3.5,Dominican Republic,738,most common,Average Amount,United States of America
+1690,Xocolat,Hispaniola,1057,2013,0.66,Domincan Republic,3.0,Dominican Republic,5,extra rare,Average Amount,Amsterdam
+1691,Xocolla,"Sambirano, batch 170102",1948,2017,0.7,U.S.A.,2.75,Madagascar,738,most common,Average Amount,United States of America
+1692,Xocolla,"Hispaniola, batch 170104",1948,2017,0.7,U.S.A.,2.5,Dominican Republic,738,most common,Average Amount,United States of America
+1693,Zak's,"Papua New Guinea, Batch 2",1574,2015,0.7,U.S.A.,3.0,Papua New Guinea,738,most common,Average Amount,United States of America
+1694,Zak's,"Dominican Republic, Batch D2",1578,2015,0.7,U.S.A.,3.25,Domincan Republic,738,most common,Average Amount,United States of America
+1695,Zak's,"Madagascar, Batch 2",1578,2015,0.7,U.S.A.,3.25,Madagascar,738,most common,Average Amount,United States of America
+1696,Zak's,"Peru, Batch 1",1578,2015,0.7,U.S.A.,3.25,Peru,738,most common,Average Amount,United States of America
+1697,Zak's,"Belize, Batch 2",1578,2015,0.7,U.S.A.,3.5,Belize,738,most common,Average Amount,United States of America
+1698,Zart Pralinen,"Millot P., Ambanja",1820,2016,0.7,Austria,3.5,Madagascar,23,extra rare,Average Amount,Austria
+1699,Zart Pralinen,UNOCACE,1824,2016,0.7,Austria,2.75,Ecuador,23,extra rare,Average Amount,Austria
+1700,Zart Pralinen,San Juan Estate,1824,2016,0.85,Austria,2.75,Trinidad,23,extra rare,High Amount,Austria
+1701,Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,0.85,Austria,3.0,Tanzania,23,extra rare,High Amount,Austria
+1702,Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,0.7,Austria,3.5,Tanzania,23,extra rare,Average Amount,Austria
+1703,Zart Pralinen,"San Juan Estate, Gran Couva",1880,2016,0.78,Austria,3.5,Trinidad,23,extra rare,Average Amount,Austria
+1704,Zokoko,Guadalcanal,1716,2016,0.78,Australia,3.75,Solomon Islands,46,rare,Average Amount,Australia
+1705,Zokoko,Alto Beni,697,2011,0.68,Australia,3.5,Bolivia,46,rare,Average Amount,Australia
+1706,Zokoko,Tokiala,701,2011,0.66,Australia,3.5,Papua New Guinea,46,rare,Average Amount,Australia
+1707,Zokoko,"Tranquilidad, Baures",701,2011,0.72,Australia,3.75,Bolivia,46,rare,Average Amount,Australia
+1708,Zotter,"Bocas del Toro, Cocabo Co-op",801,2012,0.72,Austria,3.5,Panama,23,extra rare,Average Amount,Austria
+1709,Zotter,"Satipo Pangoa region, 16hr conche",875,2012,0.7,Austria,3.0,Peru,23,extra rare,Average Amount,Austria
+1710,Zotter,"Satipo Pangoa region, 20hr conche",875,2012,0.7,Austria,3.5,Peru,23,extra rare,Average Amount,Austria
+1711,Zotter,"Loma Los Pinos, Yacao region, D.R.",875,2012,0.62,Austria,3.75,Dominican Republic,23,extra rare,Light Amount,Austria
+1712,Zotter,El Oro,879,2012,0.75,Austria,3.0,Ecuador,23,extra rare,Average Amount,Austria
+1713,Zotter,Huiwani Coop,879,2012,0.75,Austria,3.0,Papua New Guinea,23,extra rare,Average Amount,Austria
+1714,Zotter,El Ceibo Coop,879,2012,0.9,Austria,3.25,Bolivia,23,extra rare,High Amount,Austria
+1715,Zotter,Santo Domingo,879,2012,0.7,Austria,3.75,Dominican Republic,23,extra rare,Average Amount,Austria
+1716,Zotter,"Kongo, Highlands",883,2012,0.68,Austria,3.25,Congo,23,extra rare,Average Amount,Austria
+1717,Zotter,Peru,647,2011,0.7,Austria,3.75,Peru,23,extra rare,Average Amount,Austria
+1718,Zotter,Congo,749,2011,0.65,Austria,3.0,Congo,23,extra rare,Average Amount,Austria
+1719,Zotter,Kerala State,749,2011,0.65,Austria,3.5,India,23,extra rare,Average Amount,Austria
+1720,Zotter,Kerala State,781,2011,0.62,Austria,3.25,India,23,extra rare,Light Amount,Austria
+1721,Zotter,"Brazil, Mitzi Blue",486,2010,0.65,Austria,3.0,Brazil,23,extra rare,Average Amount,Austria
