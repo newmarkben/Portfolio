@@ -42,3 +42,32 @@ This repository contains SQL scripts, queries, and Python code created during th
 
 #### Scripts
 - Python scripts developed throughout the assignment, which were used to generate the final report and analysis documents.
+
+---
+
+## Chocolate Rating
+
+### Goals
+- Develop essential Python programming and Machine Learning skills, including data manipulation, geographic visualization, linear regression, cluster analysis, optimization, and data visualization.
+- Identify variables correlating with high chocolate ratings using machine learning techniques to make data-driven recommendations.
+
+### Tools
+- **Libraries:** pandas, numpy, seaborn, matplotlib, sklearn, os
+- **Environments:** Jupyter Notebook, Visual Studio Code
+
+### Folder Breakdown
+
+#### Data
+Contains all data files used in the project.
+
+- **Original:** Raw data downloaded from Kaggle (see citation below).
+- **Prepared Data:** Data exported after preprocessing in Python.
+
+#### Scripts
+Holds all Python scripts corresponding to each phase of the project.
+
+### Citations
+Original Data Source:  
+Chocolate Bar Ratings  
+Author: Tatman  
+[Link to Kaggle Dataset](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data)
