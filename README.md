@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Overview
-This repository contains SQL scripts, queries, and Python code created during the Data Analytics Bootcamp at CareerFoundry. These projects cover a wide range of SQL and Python topics, including data manipulation, querying, joins, aggregation, optimization techniques, and data visualization. The exercises and real-world case studies demonstrate the core skills developed throughout the program, with the goal of analyzing and deriving insights from structured data.
+This repository contains SQL scripts, queries, and Python code created during the Data Analytics Bootcamp at CareerFoundry. These projects cover various SQL and Python topics, including data manipulation, querying, joins, aggregation, optimization techniques, and data visualization. The exercises and real-world case studies demonstrate the core skills developed throughout the program, with the goal of analyzing and deriving insights from structured data.
 
 ### Answer to Practice Interview Questions:
 - https://vimeo.com/1014067805?share=copy#t=0
@@ -41,33 +41,65 @@ This repository contains SQL scripts, queries, and Python code created during th
 - Final report files summarizing the findings and insights.
 
 ##### Scripts
-- Python scripts developed throughout the assignment, which were used to generate the final report and analysis documents.
+- Python scripts developed throughout the assignment were used to generate the final report and analysis documents.
 
 ---
 
-## Chocolate Rating
+## Chocolate Rating  
 
-#### Goals
-- Develop essential Python programming and Machine Learning skills, including data manipulation, geographic visualization, linear regression, cluster analysis, optimization, and data visualization.
-- Identify variables correlating with high chocolate ratings using machine learning techniques to make data-driven recommendations.
+### Goals  
+- Build proficiency in Python programming and machine learning skills, including data manipulation, geographic visualization, linear regression, cluster analysis, optimization, and data visualization.  
+- Identify variables correlating with high chocolate ratings using machine-learning techniques to provide data-driven recommendations.  
 
-#### Tools
-- **Libraries:** pandas, numpy, seaborn, matplotlib, sklearn, os
-- **Environments:** Jupyter Notebook, Visual Studio Code
+### Tools  
+- **Libraries:** `pandas`, `numpy`, `seaborn`, `matplotlib`, `sklearn`, `os`  
+- **Environments:** Jupyter Notebook, Visual Studio Code  
 
-#### Folder Breakdown
+### Folder Structure  
 
-##### Data
-Contains all data files used in the project.
+#### Data  
+Contains all data files used in the project.  
+- **Original:** Raw data downloaded from Kaggle (see citation below).  
+- **Prepared Data:** Data exported after preprocessing in Python.  
 
-- **Original:** Raw data downloaded from Kaggle (see citation below).
-- **Prepared Data:** Data exported after preprocessing in Python.
+#### Scripts  
+Contains all Python scripts for different phases of the project.  
 
-##### Scripts
-Holds all Python scripts corresponding to each phase of the project.
-
-#### Citations
+### Citations  
 Original Data Source:  
-Chocolate Bar Ratings  
-Author: Tatman  
-[Link to Kaggle Dataset](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data)
+**Chocolate Bar Ratings**  
+Author: Rachael Tatman  
+[Kaggle Dataset](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data)  
+
+---
+
+## Dale Signs Printer Data  
+
+### Goals  
+- Store and process data from two different printers (HP Flatbed FB700 & Roland XR-640) using AI and Python.  
+- Analyze data to evaluate ink usage, material waste, and gain insights into printing time for project pricing.  
+- Create an interactive dashboard for stakeholders.  
+- Develop a presentation summarizing insights and findings.  
+
+### Tools  
+- **Libraries:** `pandas`, `numpy`, `os`  
+- **Environments:** Jupyter Notebook, Visual Studio Code  
+- **AI:** ChatGPT  
+- **Sheets:** Google Sheets  
+
+### Folder Structure  
+
+#### Data  
+Contains all data files used in the project.  
+- **Original:** Raw data downloaded from printers, stored in Google Sheets.  
+- **Prepared Data:** Data exported after preprocessing in Python.  
+
+#### Scripts  
+Contains all Python scripts for different phases of the project.  
+
+#### Documents  
+Includes Tableau documents used to create the dashboard.  
+
+### Dashboard and Presentation
+- **Dashboard:** [View Dashboard](https://public.tableau.com/views/DaleSignsDashboardFeb-Oct/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- **Presentation:** [View Presentation](https://public.tableau.com/views/DaleSignsDashboardFeb-OctPresentation/Feb-OctBreakdown?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
