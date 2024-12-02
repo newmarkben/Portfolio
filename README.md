@@ -76,10 +76,10 @@ Author: Rachael Tatman
 ## Dale Signs Printer Data  
 
 ### Goals  
-- Store and process data from two different printers (HP Flatbed FB700 & Roland XR-640) using AI and Python.  
-- Analyze data to evaluate ink usage, material waste, and gain insights into printing time for project pricing.  
-- Create an interactive dashboard for stakeholders.  
-- Develop a presentation summarizing insights and findings.  
+- Store and process data from two different printers (HP Flatbed FB700 and Roland XR-640) using Python and Google Sheets integrated with AI.  
+- Analyze data to evaluate ink usage, material waste, and gain insights into printing time for project pricing.
+- Create an interactive dashboard for stakeholders.
+- Develop a presentation summarizing insights and findings.
 
 ### Tools  
 - **Libraries:** `pandas`, `numpy`, `os`  
