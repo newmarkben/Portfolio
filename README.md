@@ -39,11 +39,9 @@ This repository contains SQL scripts, queries, and Python code created during th
 ### Goals  
 - Analyze data from Instacart using Python to generate a business report that addresses key business questions.  
 
-### Tools  
-- Anaconda  
-- Jupyter Notebook  
-- Pandas  
-- NumPy  
+### Tools   
+- **Python Libraries:** `pandas`, `numpy`, `os`
+- **Environments:** Jupyter Notebook, Visual Studio Code    
 
 ### Folder Breakdown  
 
@@ -65,7 +63,7 @@ Python scripts developed throughout the assignment were used to generate the fin
 - Identify variables correlating with high chocolate ratings using machine-learning techniques to provide data-driven recommendations.  
 
 ### Tools  
-- **Libraries:** `pandas`, `numpy`, `seaborn`, `matplotlib`, `sklearn`, `os`  
+- **Python Libraries:** `pandas`, `numpy`, `seaborn`, `matplotlib`, `sklearn`, `os`  
 - **Environments:** Jupyter Notebook, Visual Studio Code  
 
 ### Folder Structure  
@@ -95,7 +93,7 @@ Author: Rachael Tatman
 - Develop a presentation summarizing insights and findings.  
 
 ### Tools  
-- **Libraries:** `pandas`, `numpy`, `os`  
+- **Python Libraries:** `pandas`, `numpy`, `os`  
 - **Environments:** Jupyter Notebook, Visual Studio Code  
 - **AI:** ChatGPT  
 - **Sheets:** Google Sheets  
